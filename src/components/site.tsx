@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import {ReplayIntro} from './intro-experience';
 import { useState } from "react";
 import {
   ArrowUpRight,
@@ -133,7 +134,7 @@ export function Footer() {
           <Link href="/tai-nguyen/">Tài nguyên & Hỗ trợ</Link>
           <Link href="/lien-he/dang-ky-trai-nghiem/">Trải nghiệm robot</Link>
           <Link href="/lien-he/dang-ky-dai-ly/">Trở thành đối tác</Link>
-          <Link href="/tin-tuc/">Tin tức & Sự kiện</Link>
+          <Link href="/tin-tuc/">Tin tức & Sự kiện</Link><ReplayIntro/>
         </div>
         <div>
           <h4>Văn phòng IPPTech</h4>
@@ -160,4 +161,5 @@ export function Footer() {
     </footer>
   );
 }
+
 

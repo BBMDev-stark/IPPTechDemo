@@ -57,3 +57,7 @@ Không có vị trí video bắt buộc trong bản triển khai hiện tại. d
 ## Tên ảnh sử dụng hiện tại
 
 Website đã chuyển sang public/images/ theo IMAGE-NAMING.md. Bảng nguồn ở trên giữ tên file gốc; cột original trong image-manifest.json nối tên mới với nguồn cũ. Khi thay ảnh, thay file tên mới trong public/images/, không sửa bản nguồn trong public/media/.
+
+## Video intro
+
+public/videos/intro-video-1.mp4 — video mẫu Walker S2, nguồn https://owebsite-cdn.ubtrobot.com/resources/video/2025/07/22/700528073982021.mp4 (trang UBTECH Walker S2). Poster: public/images/intro-img-1.jpg. Model tay dựng riêng bằng Three.js dựa trên hình tham khảo công khai, không phải CAD chính thức; xem INTRO-GUIDE.md.

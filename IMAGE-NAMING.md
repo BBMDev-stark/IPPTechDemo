@@ -63,3 +63,9 @@ Tất cả ảnh thay thế đặt tại **public/images/**. Mẫu: **ten-trang-
 | nang-luc-phan-phoi-img-1.jpg | /nang-luc/phan-phoi/ | Ảnh giới thiệu nội dung | 1200 × 800 | Chờ ảnh — đã nối vị trí | Chưa có |
 | nang-luc-trien-khai-img-1.jpg | /nang-luc/trien-khai/ | Ảnh giới thiệu nội dung | 1200 × 800 | Chờ ảnh — đã nối vị trí | Chưa có |
 | nang-luc-dao-tao-img-1.jpg | /nang-luc/dao-tao/ | Ảnh giới thiệu nội dung | 1200 × 800 | Chờ ảnh — đã nối vị trí | Chưa có |
+
+## Media mở đầu website
+
+- public/images/intro-img-1.jpg: ảnh chờ tải video intro.
+- public/videos/intro-video-1.mp4: video intro, phát một lượt đến hết.
+- Logo dùng common-logo-ubtech.png. Cánh tay là model 3D trong code, hướng dẫn tại INTRO-GUIDE.md.

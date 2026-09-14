@@ -50,3 +50,7 @@ Xem IMPLEMENTATION-AUDIT.md để đối chiếu với prototype. Xem ASSETS.md 
 
 Ảnh đang sử dụng ở public/images/. Xem IMAGE-NAMING.md để biết tên file cho từng vị trí và ảnh còn thiếu; image-manifest.json là danh sách tương ứng. Ảnh nguồn cũ ở public/media/ chỉ giữ để đối chiếu.
 
+
+## Intro mở đầu
+
+Logo → video toàn màn hình → tay robot kéo màn sang phải. Thay public/videos/intro-video-1.mp4 bằng video của bạn. Nút Bỏ qua dùng cùng hiệu ứng chuyển cảnh; Xem lại intro nằm ở footer. Xem INTRO-GUIDE.md để chỉnh media, thời lượng và nguồn tham khảo.
