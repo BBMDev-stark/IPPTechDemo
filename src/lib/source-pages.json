@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "chinh-sach-bao-mat",
+    "title": "Chính sách bảo mật"
+  },
+  {
+    "slug": "dieu-khoan-su-dung",
+    "title": "Điều khoản sử dụng"
+  },
+  {
+    "slug": "du-an-doi-tac",
+    "title": "Dự án và hệ sinh thái hợp tác"
+  },
+  {
+    "slug": "du-an-doi-tac/ai-center-dai-hoc-quoc-gia",
+    "title": "AI Center Đại học Quốc gia"
+  },
+  {
+    "slug": "du-an-doi-tac/doi-tac-thuong-hieu",
+    "title": "Đối tác thương hiệu & ủy quyền"
+  },
+  {
+    "slug": "du-an-doi-tac/du-an-tieu-bieu",
+    "title": "Dự án tiêu biểu"
+  },
+  {
+    "slug": "du-an-doi-tac/du-an-truong-cong",
+    "title": "Dự án trường công"
+  },
+  {
+    "slug": "du-an-doi-tac/fpt-school",
+    "title": "FPT School"
+  },
+  {
+    "slug": "du-an-doi-tac/hop-tac",
+    "title": "Hợp tác cùng IPPTech"
+  },
+  {
+    "slug": "du-an-doi-tac/mang-luoi-dai-ly",
+    "title": "Mạng lưới đại lý & nhà thầu"
+  },
+  {
+    "slug": "giai-phap",
+    "title": "Hai catalogue, bắt đầu từ nhu cầu"
+  },
+  {
+    "slug": "giai-phap/doanh-nghiep",
+    "title": "Robot dịch vụ cho vận hành và thương hiệu"
+  },
+  {
+    "slug": "giai-phap/giao-duc",
+    "title": "Catalogue giải pháp cho trường học và cơ sở giáo dục"
+  },
+  {
+    "slug": "giai-phap/giao-duc/ai-center",
+    "title": "Giải pháp AI Center & AI Lab"
+  },
+  {
+    "slug": "giai-phap/giao-duc/cuoc-thi-robotics",
+    "title": "Cuộc thi AI & Robotics"
+  },
+  {
+    "slug": "giai-phap/giao-duc/phong-thuc-hanh-stem",
+    "title": "Phòng thực hành STEM"
+  },
+  {
+    "slug": "giai-phap/giao-duc/tap-huan-giao-vien",
+    "title": "Đào tạo & Phát triển năng lực giáo viên"
+  },
+  {
+    "slug": "giai-phap/su-kien-truyen-thong",
+    "title": "Sự kiện & Truyền thông thương hiệu"
+  },
+  {
+    "slug": "lien-he",
+    "title": "Kết nối với IPPTech"
+  },
+  {
+    "slug": "lien-he/dang-ky-dai-ly",
+    "title": "Đăng ký đại lý"
+  },
+  {
+    "slug": "lien-he/dang-ky-trai-nghiem",
+    "title": "Đăng ký trải nghiệm"
+  },
+  {
+    "slug": "nang-luc/bao-hanh",
+    "title": "Bảo hành, bảo trì & hỗ trợ kỹ thuật"
+  },
+  {
+    "slug": "nang-luc/dao-tao",
+    "title": "Đào tạo & chuyển giao vận hành"
+  },
+  {
+    "slug": "nang-luc/phan-phoi",
+    "title": "Nhập khẩu & phân phối chính hãng"
+  },
+  {
+    "slug": "nang-luc/trien-khai",
+    "title": "Triển khai, lắp đặt & bàn giao"
+  },
+  {
+    "slug": "so-do-website",
+    "title": "Sơ đồ website IPPTech"
+  },
+  {
+    "slug": "tai-nguyen",
+    "title": "Hồ sơ, tài liệu kỹ thuật và các cổng hỗ trợ"
+  },
+  {
+    "slug": "tai-nguyen/cau-hoi-thuong-gap",
+    "title": "Câu hỏi thường gặp"
+  },
+  {
+    "slug": "tai-nguyen/ho-so-nang-luc",
+    "title": "Hồ sơ năng lực & Catalogue"
+  },
+  {
+    "slug": "tai-nguyen/ho-tro",
+    "title": "Hỗ trợ kỹ thuật & Bảo hành"
+  },
+  {
+    "slug": "tai-nguyen/tai-lieu-ky-thuat",
+    "title": "Tài liệu kỹ thuật"
+  },
+  {
+    "slug": "thuong-hieu",
+    "title": "Một kiến trúc đa thương hiệu, không khóa website vào UBTECH"
+  },
+  {
+    "slug": "thuong-hieu/brand-02",
+    "title": "Thương hiệu 02 [khe trống]"
+  },
+  {
+    "slug": "thuong-hieu/brand-03",
+    "title": "Thương hiệu 03 [khe trống]"
+  },
+  {
+    "slug": "thuong-hieu/ubtech",
+    "title": "UBTECH"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/ai-fantasy-zoo",
+    "title": "AI Fantasy Zoo"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/ai-super-engineer",
+    "title": "AI Super Engineer"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/bao-hanh-dich-vu-uy-quyen",
+    "title": "Bảo hành & Dịch vụ ủy quyền"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/cong-nghe",
+    "title": "UBTECH — Robot dịch vụ & Công nghệ"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/cruzr",
+    "title": "Robot lễ tân Cruzr"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/cruzr-edu",
+    "title": "Cruzr Edu"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/giao-duc",
+    "title": "UBTECH — Giáo dục"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/u1",
+    "title": "Robot hình người U1"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/ugot-full-kit",
+    "title": "UGOT Full Kit"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/ukit-ai",
+    "title": "UKit AI"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/walker-s2-edu",
+    "title": "Walker S2 Edu"
+  },
+  {
+    "slug": "thuong-hieu/ubtech/yanshee",
+    "title": "Robot hình người Yanshee"
+  },
+  {
+    "slug": "tin-tuc",
+    "title": "Ba luồng tin chính"
+  },
+  {
+    "slug": "tin-tuc/chinh-sach-giao-duc",
+    "title": "Chính sách & thị trường giáo dục"
+  },
+  {
+    "slug": "tin-tuc/thuong-hieu",
+    "title": "Tin thương hiệu & sản phẩm mới"
+  },
+  {
+    "slug": "tin-tuc/tin-cong-ty",
+    "title": "Tin công ty"
+  },
+  {
+    "slug": "ve-ipptech",
+    "title": "Pháp nhân, hậu thuẫn tập đoàn và năng lực triển khai"
+  },
+  {
+    "slug": "ve-ipptech/doi-ngu",
+    "title": "Đội ngũ & Ban điều hành"
+  },
+  {
+    "slug": "ve-ipptech/gioi-thieu",
+    "title": "Giới thiệu & Tầm nhìn"
+  },
+  {
+    "slug": "ve-ipptech/ho-so-phap-ly",
+    "title": "Hồ sơ pháp lý & Chứng nhận"
+  },
+  {
+    "slug": "ve-ipptech/ipp-group",
+    "title": "IPPTech trong hệ sinh thái IPP Group"
+  },
+  {
+    "slug": "ve-ipptech/nang-luc",
+    "title": "Năng lực & Mô hình dịch vụ"
+  },
+  {
+    "slug": "ve-ipptech/tuyen-dung",
+    "title": "Tuyển dụng"
+  }
+]
