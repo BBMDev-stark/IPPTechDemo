@@ -1,29 +1,52 @@
 # IPPTech — Next.js website
 
-Website tiếng Việt, nền trắng, cyan/tím lấy từ logo UBTECH người dùng cung cấp. Dựng từ cấu trúc trong IPPTech-Prototype-Portable.zip bằng Next.js 16.3.5 (npm latest khi cài), React và TypeScript App Router.
+Website tiếng Việt, nền trắng với cyan/tím theo logo UBTECH. Next.js 16.3.5, React, TypeScript và App Router. Nội dung đối chiếu thư mục IPPTech-Prototype-Portable/IPPTech-Prototype, giữ 58 đường dẫn nội dung của bản gốc.
 
-## Chạy
+## Chạy trên máy
 
-Node.js 20.9 trở lên. `npm install`, sau đó `npm run dev`. Truy cập http://127.0.0.1:3000.
+```powershell
+npm install
+npm run dev
+```
 
-`npm run build` xuất website tĩnh vào `out/`. `npm start` phục vụ bản đã build.
+Mở http://127.0.0.1:3000. Nếu Next báo một dev server của cùng thư mục đã chạy, mở địa chỉ server có sẵn; không chạy thêm lần thứ hai. Để khởi động lại, nhấn Ctrl+C trong terminal đang chạy rồi chạy lại npm run dev.
 
-## Chỉnh sửa
+```powershell
+npm run build
+node scripts/check-links.mjs
+npm start
+```
 
-- `src/app/page.tsx`: trang chủ.
-- `src/app/[...slug]/page.tsx`: các trang nội dung, sản phẩm và liên hệ.
-- `src/components/site.tsx`: menu, tìm kiếm, bộ lọc, form và footer.
-- `src/lib/content.ts`: dữ liệu biên tập.
-- `src/lib/source-pages.json`: đường dẫn, tiêu đề trích từ ZIP gốc.
-- `src/app/globals.css`: giao diện và responsive.
-- `public/media/`: ảnh, thay file đúng tên để giữ liên kết. Build lại sau khi thay ảnh để cập nhật bản xuất tĩnh.
+Lệnh build xuất website tĩnh vào out/. npm start phục vụ bản build trên cổng 3000, chỉ dùng khi cổng đó không có dev server.
 
-## Phạm vi dữ liệu
+## Nội dung & chức năng
 
-Giữ các đường dẫn trong ZIP và bổ sung Walker X để tên robot khớp ảnh chính hãng. Nội dung đang chờ xác nhận không được chuyển thành số liệu, thông số, chứng nhận hay thành tích giả. Các trang dự án, tin tức và tài liệu chưa có nội dung thật đều nêu rõ tình trạng. Thông tin địa chỉ lấy từ prototype, cần doanh nghiệp xác nhận trước khi sử dụng chính thức.
+- Trang chủ theo thứ tự và thông tin gốc: định vị IPPTech, dải xác thực, hai nhóm nhu cầu, UBTECH và hai thương hiệu dự phòng, ba nhóm dự án, IPPG, ba cổng vệ tinh, ba nhóm tin và CTA.
+- 9 sản phẩm: UGOT Full Kit, AI Fantasy Zoo, AI Super Engineer, Yanshee, UKit AI, Cruzr Edu, Walker S2 Edu, Cruzr, U1. Mỗi trang có ảnh, mô tả, đặc điểm, thông tin cơ bản, nguồn và giải pháp liên quan.
+- Mega-menu, menu điện thoại nhiều cấp, tìm kiếm không dấu, lọc sản phẩm, bảng cấp học, thư viện có tìm kiếm/lọc, FAQ, breadcrumb, sơ đồ website.
+- Ba biểu mẫu riêng: trải nghiệm, báo giá và đại lý. Kiểm tra dữ liệu trên trình duyệt; chưa kết nối email, CRM hay backend. Không tạo file JSON và không thông báo gửi thành công giả.
+- EN, hồ sơ pháp lý, số liệu triển khai, hồ sơ năng lực PDF và hai thương hiệu mới còn chờ dữ liệu. Các trang này được giữ với trạng thái rõ ràng.
 
-Form tạo file yêu cầu JSON trên thiết bị, chưa gửi email hoặc lưu lên máy chủ. Chưa có CMS, quản trị, tài khoản hoặc backend. Ba cổng vệ tinh dùng URL có trong ZIP gốc. Logo IPPTech và IPP Group hiện là cách trình bày chữ, cần thay bằng bộ nhận diện chính thức khi được cung cấp.
+## Nơi chỉnh sửa
 
-## Nguồn ảnh
+| File | Nội dung |
+|---|---|
+| src/app/page.tsx | Trang chủ |
+| src/app/[...slug]/page.tsx | Các mẫu trang nội dung |
+| src/components/navigation.tsx | Menu desktop/mobile, tìm kiếm |
+| src/components/interactions.tsx | Lọc, thư viện, bảng cấp học, biểu mẫu |
+| src/components/content-sections.tsx | Thương hiệu, dự án, tin, quy trình |
+| src/components/site.tsx | Nhận diện, CTA, footer |
+| src/lib/catalog.ts | Sản phẩm, ảnh, thông tin cơ bản và nguồn |
+| src/lib/articles.ts | Nội dung giải pháp, dự án, giới thiệu |
+| src/lib/navigation.ts | Cây điều hướng |
+| src/lib/source-pages.json | Đường dẫn và tiêu đề gốc |
+| src/app/globals.css, src/app/content.css | Giao diện và responsive |
+| public/images/ | Ảnh dùng trên website theo IMAGE-NAMING.md |
 
-Logo UBTECH: người dùng cung cấp. Ảnh robot và giáo dục: nguồn quảng bá chính thức UBTECH, không có giấy phép mở được xác nhận. Danh sách URL và vị trí sử dụng ở `ASSETS.md`. Không dùng ảnh robot minh họa làm bằng chứng dự án thực tế.
+Xem IMPLEMENTATION-AUDIT.md để đối chiếu với prototype. Xem ASSETS.md để thay ảnh đúng tên và truy nguồn. Ảnh sản phẩm không được coi là bằng chứng triển khai thực tế. Ảnh Walker X trên hero là minh họa hệ sinh thái, khác Walker S2 Edu trong danh mục. Logo IPPTech đang trình bày bằng chữ; logo UBTECH do người dùng cung cấp, logo IPPG lấy từ website tập đoàn.
+
+## Thay ảnh theo tên quy ước
+
+Ảnh đang sử dụng ở public/images/. Xem IMAGE-NAMING.md để biết tên file cho từng vị trí và ảnh còn thiếu; image-manifest.json là danh sách tương ứng. Ảnh nguồn cũ ở public/media/ chỉ giữ để đối chiếu.
+

@@ -1,0 +1,378 @@
+[
+  {
+    "file": "common-logo-ubtech.png",
+    "page": "Toàn website",
+    "position": "Logo UBTECH",
+    "size": "PNG nền trong suốt",
+    "status": "Đang dùng",
+    "original": "ubtech-logo.png"
+  },
+  {
+    "file": "common-logo-ippg.png",
+    "page": "Toàn website",
+    "position": "Logo IPPG",
+    "size": "PNG nền trong suốt",
+    "status": "Đang dùng",
+    "original": "ippg-logo.png"
+  },
+  {
+    "file": "common-logo-brand-02.png",
+    "page": "Home / Thương hiệu",
+    "position": "Logo thương hiệu 02",
+    "size": "PNG nền trong suốt",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "common-logo-brand-03.png",
+    "page": "Home / Thương hiệu",
+    "position": "Logo thương hiệu 03",
+    "size": "PNG nền trong suốt",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "home-img-1.png",
+    "page": "/",
+    "position": "Robot hero",
+    "size": "PNG trong suốt, khoảng 1200 × 1200",
+    "status": "Đang dùng",
+    "original": "walker.png"
+  },
+  {
+    "file": "home-img-2.png",
+    "page": "/",
+    "position": "Giải pháp giáo dục",
+    "size": "1200 × 600",
+    "status": "Đang dùng",
+    "original": "education.png"
+  },
+  {
+    "file": "home-img-3.jpg",
+    "page": "/",
+    "position": "Giải pháp doanh nghiệp",
+    "size": "1200 × 600",
+    "status": "Đang dùng",
+    "original": "cruzr.png"
+  },
+  {
+    "file": "home-img-4.jpg",
+    "page": "/",
+    "position": "Thẻ dự án AI Center",
+    "size": "1200 × 750",
+    "status": "Đang dùng",
+    "original": "ai-center.jpeg"
+  },
+  {
+    "file": "home-img-5.jpg",
+    "page": "/",
+    "position": "Thẻ dự án FPT",
+    "size": "1200 × 750",
+    "status": "Đang dùng",
+    "original": "fpt-partnership.jpeg"
+  },
+  {
+    "file": "home-img-6.jpg",
+    "page": "/",
+    "position": "Thẻ dự án trường công",
+    "size": "1200 × 750",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "home-img-7.jpg",
+    "page": "/",
+    "position": "Tin công ty",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "fpt-partnership.jpeg"
+  },
+  {
+    "file": "home-img-8.png",
+    "page": "/",
+    "position": "Tin thương hiệu",
+    "size": "1000 × 1000",
+    "status": "Đang dùng",
+    "original": "ugot.png"
+  },
+  {
+    "file": "home-img-9.jpg",
+    "page": "/",
+    "position": "Tin chính sách giáo dục",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "ubtech-ugot-full-kit-img-1.png",
+    "page": "/thuong-hieu/ubtech/ugot-full-kit/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "ugot.png"
+  },
+  {
+    "file": "ubtech-ai-fantasy-zoo-img-1.jpg",
+    "page": "/thuong-hieu/ubtech/ai-fantasy-zoo/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "ai-fantasy-zoo.jpg"
+  },
+  {
+    "file": "ubtech-ai-super-engineer-img-1.webp",
+    "page": "/thuong-hieu/ubtech/ai-super-engineer/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "ai-super-engineer.webp"
+  },
+  {
+    "file": "ubtech-yanshee-img-1.png",
+    "page": "/thuong-hieu/ubtech/yanshee/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "yanshee.png"
+  },
+  {
+    "file": "ubtech-ukit-ai-img-1.png",
+    "page": "/thuong-hieu/ubtech/ukit-ai/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "ukit-ai.png"
+  },
+  {
+    "file": "ubtech-cruzr-edu-img-1.jpg",
+    "page": "/thuong-hieu/ubtech/cruzr-edu/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "cruzr.png"
+  },
+  {
+    "file": "ubtech-walker-s2-edu-img-1.jpg",
+    "page": "/thuong-hieu/ubtech/walker-s2-edu/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "walker-s2.jpg"
+  },
+  {
+    "file": "ubtech-cruzr-img-1.jpg",
+    "page": "/thuong-hieu/ubtech/cruzr/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "cruzr.png"
+  },
+  {
+    "file": "ubtech-u1-img-1.jpg",
+    "page": "/thuong-hieu/ubtech/u1/",
+    "position": "Ảnh chính và thẻ sản phẩm dùng chung",
+    "size": "1000 × 1000; ảnh robot đủ hình",
+    "status": "Đang dùng",
+    "original": "u1.jpg"
+  },
+  {
+    "file": "giai-phap-giao-duc-phong-thuc-hanh-stem-img-1.png",
+    "page": "/giai-phap/giao-duc/phong-thuc-hanh-stem/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "education.png"
+  },
+  {
+    "file": "giai-phap-giao-duc-ai-center-img-1.jpeg",
+    "page": "/giai-phap/giao-duc/ai-center/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "ai-center.jpeg"
+  },
+  {
+    "file": "giai-phap-doanh-nghiep-img-1.jpg",
+    "page": "/giai-phap/doanh-nghiep/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "cruzr.png"
+  },
+  {
+    "file": "giai-phap-su-kien-truyen-thong-img-1.jpg",
+    "page": "/giai-phap/su-kien-truyen-thong/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "cruzr.png"
+  },
+  {
+    "file": "du-an-doi-tac-ai-center-dai-hoc-quoc-gia-img-1.jpeg",
+    "page": "/du-an-doi-tac/ai-center-dai-hoc-quoc-gia/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "aic-launch.jpeg"
+  },
+  {
+    "file": "du-an-doi-tac-fpt-school-img-1.jpeg",
+    "page": "/du-an-doi-tac/fpt-school/",
+    "position": "Ảnh nội dung chính",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "fpt-partnership.jpeg"
+  },
+  {
+    "file": "du-an-img-1.jpg",
+    "page": "Dự án / Tin công ty",
+    "position": "Thẻ dự án AI Center",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "ai-center.jpeg"
+  },
+  {
+    "file": "du-an-img-2.jpg",
+    "page": "Dự án / Tin công ty",
+    "position": "Thẻ dự án FPT",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "fpt-partnership.jpeg"
+  },
+  {
+    "file": "du-an-img-3.jpg",
+    "page": "Dự án / Tin công ty",
+    "position": "Thẻ dự án trường công",
+    "size": "1200 × 750",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "tin-tuc-img-1.jpg",
+    "page": "/tin-tuc/",
+    "position": "Tin công ty",
+    "size": "1200 × 800",
+    "status": "Đang dùng",
+    "original": "fpt-partnership.jpeg"
+  },
+  {
+    "file": "tin-tuc-img-2.png",
+    "page": "/tin-tuc/",
+    "position": "Tin thương hiệu",
+    "size": "1000 × 1000",
+    "status": "Đang dùng",
+    "original": "ugot.png"
+  },
+  {
+    "file": "tin-tuc-img-3.jpg",
+    "page": "/tin-tuc/",
+    "position": "Tin chính sách",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "ve-ipptech-doi-ngu-img-1.jpg",
+    "page": "/ve-ipptech/doi-ngu/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "ve-ipptech-ho-so-phap-ly-img-1.jpg",
+    "page": "/ve-ipptech/ho-so-phap-ly/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "ve-ipptech-gioi-thieu-img-1.jpg",
+    "page": "/ve-ipptech/gioi-thieu/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "ve-ipptech-tuyen-dung-img-1.jpg",
+    "page": "/ve-ipptech/tuyen-dung/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "giai-phap-giao-duc-tap-huan-giao-vien-img-1.jpg",
+    "page": "/giai-phap/giao-duc/tap-huan-giao-vien/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "giai-phap-giao-duc-cuoc-thi-robotics-img-1.jpg",
+    "page": "/giai-phap/giao-duc/cuoc-thi-robotics/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "du-an-doi-tac-du-an-truong-cong-img-1.jpg",
+    "page": "/du-an-doi-tac/du-an-truong-cong/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "du-an-doi-tac-doi-tac-thuong-hieu-img-1.jpg",
+    "page": "/du-an-doi-tac/doi-tac-thuong-hieu/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "du-an-doi-tac-mang-luoi-dai-ly-img-1.jpg",
+    "page": "/du-an-doi-tac/mang-luoi-dai-ly/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "du-an-doi-tac-hop-tac-img-1.jpg",
+    "page": "/du-an-doi-tac/hop-tac/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "nang-luc-phan-phoi-img-1.jpg",
+    "page": "/nang-luc/phan-phoi/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "nang-luc-trien-khai-img-1.jpg",
+    "page": "/nang-luc/trien-khai/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  },
+  {
+    "file": "nang-luc-dao-tao-img-1.jpg",
+    "page": "/nang-luc/dao-tao/",
+    "position": "Ảnh giới thiệu nội dung",
+    "size": "1200 × 800",
+    "status": "Chờ ảnh — đã nối vị trí",
+    "original": ""
+  }
+]
