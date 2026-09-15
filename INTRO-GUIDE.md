@@ -38,3 +38,4 @@ Video là tư liệu quảng bá mẫu của hãng, không phải phim riêng c�
 ## Kiểm tra thực tế
 
 Đã thử trên Chromium desktop và viewport điện thoại 390 × 844: autoplay muted, bật âm thanh, bỏ qua, phát lại, kết thúc tự động, khóa cuộn/inert và giải phóng sau intro. Đã thử cố ý thiếu file video: hiện thông báo và vẫn bỏ qua được. Server tĩnh trả HTTP 206 đúng byte range cho MP4. Chưa kiểm thử trên thiết bị iPhone/Safari thật.
+Nút **Tạm dừng / Tiếp tục** cạnh nút âm thanh cho phép dừng video và phát tiếp tại đúng thời điểm đang xem. Khi tạm dừng, màn intro vẫn khóa cuộn; nút **Bỏ qua** vẫn chạy hiệu ứng mở website.

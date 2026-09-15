@@ -1,7 +1,7 @@
 'use client';
 
 import {useCallback,useEffect,useRef,useState} from 'react';
-import {ArrowRight,Play,RotateCcw,Volume2,VolumeX} from 'lucide-react';
+import {ArrowRight,Pause,Play,RotateCcw,Volume2,VolumeX} from 'lucide-react';
 import {introConfig} from '@/lib/intro-config';
 import type {createIntroArm} from '@/lib/intro-arm';
 
@@ -12,7 +12,7 @@ function ArmFallback(){return <svg viewBox="0 0 1050 310" role="presentation"><d
 
 export function IntroExperience({children}:{children:React.ReactNode}){
  const [stage,setStage]=useState<Stage>('logo');
- const [mounted,setMounted]=useState(false),[muted,setMuted]=useState(true),[blocked,setBlocked]=useState(false),[failed,setFailed]=useState(false),[playing,setPlaying]=useState(false),[webgl,setWebgl]=useState(false);
+ const [mounted,setMounted]=useState(false),[muted,setMuted]=useState(true),[blocked,setBlocked]=useState(false),[failed,setFailed]=useState(false),[playing,setPlaying]=useState(false),[paused,setPaused]=useState(false),[webgl,setWebgl]=useState(false);
  const video=useRef<HTMLVideoElement>(null),gate=useRef<HTMLDivElement>(null),canvas=useRef<HTMLCanvasElement>(null),skip=useRef<HTMLButtonElement>(null),progress=useRef<HTMLDivElement>(null);
  const engine=useRef<ReturnType<typeof createIntroArm>|null>(null),stageRef=useRef<Stage>('logo');
  const reduced=useRef(false);
@@ -23,7 +23,7 @@ export function IntroExperience({children}:{children:React.ReactNode}){
    video.current?.pause();stageRef.current='reveal';setStage('reveal');
  },[]);
  useEffect(()=>{setMounted(true);reduced.current=matchMedia('(prefers-reduced-motion: reduce)').matches;
-   const replay=()=>{if(stageRef.current!=='done')return;stageRef.current='logo';setMuted(true);setPlaying(false);setBlocked(false);setFailed(false);setStage('logo')};
+   const replay=()=>{if(stageRef.current!=='done')return;stageRef.current='logo';setMuted(true);setPlaying(false);setPaused(false);setBlocked(false);setFailed(false);setStage('logo')};
    window.addEventListener('ipptech:replay-intro',replay);return()=>window.removeEventListener('ipptech:replay-intro',replay);
  },[]);
  useEffect(()=>{
@@ -79,11 +79,11 @@ export function IntroExperience({children}:{children:React.ReactNode}){
  const retry=()=>{setBlocked(false);setFailed(false);const el=video.current;if(el){if(el.error)el.load();el.play().catch(()=>setBlocked(true))}};
  return <><div className="intro-site" inert={mounted&&active} aria-hidden={mounted&&active?true:undefined}>{children}</div>{active&&<div ref={gate} className={'intro-gate stage-'+stage} role="dialog" aria-modal="true" aria-label="Giới thiệu IPPTech" data-stage={stage}>
    <div className="intro-curtain">
-     <div className="intro-film"><video ref={video} src={introConfig.video} poster={introConfig.poster} muted={muted} playsInline preload="auto" disablePictureInPicture controlsList="nodownload noplaybackrate" onEnded={reveal} onPlaying={()=>{setPlaying(true);setBlocked(false);setFailed(false)}} onError={()=>setFailed(true)} onTimeUpdate={()=>{const el=video.current;if(el&&progress.current&&Number.isFinite(el.duration))progress.current.style.transform='scaleX('+el.currentTime/el.duration+')'}} aria-label="Video giới thiệu robot UBTECH"/><div className="intro-vignette"/></div>
+     <div className="intro-film"><video ref={video} src={introConfig.video} poster={introConfig.poster} muted={muted} playsInline preload="auto" disablePictureInPicture controlsList="nodownload noplaybackrate" onEnded={reveal} onPause={()=>setPaused(true)} onPlaying={()=>{setPaused(false);setPlaying(true);setBlocked(false);setFailed(false)}} onError={()=>setFailed(true)} onTimeUpdate={()=>{const el=video.current;if(el&&progress.current&&Number.isFinite(el.duration))progress.current.style.transform='scaleX('+el.currentTime/el.duration+')'}} aria-label="Video giới thiệu robot UBTECH"/><div className="intro-vignette"/></div>
      <div className="intro-chrome"><div className="intro-signature"><span className="intro-monogram">ipp<span>TECH</span></span><span className="intro-signature-line"/><span>TECHNOLOGY<br/>& EDUCATION</span></div><span className="intro-edition">A NEW WORLD OF POSSIBILITIES</span></div>
      <div className="intro-logo-stage"><div className="intro-halo halo-one"/><div className="intro-halo halo-two"/><div className="intro-axis axis-one"/><div className="intro-axis axis-two"/><div className="intro-logo-core"><span className="intro-kicker">IPPTECH PRESENTS</span><div className="intro-logo-window"><img src={introConfig.logo} alt="UBTECH"/><span className="intro-scan"/></div><div className="intro-logo-caption"><span/>INTELLIGENCE IN MOTION<span/></div><p>Technology. Education. Human possibility.</p></div><div className="intro-calibration"><span>01 / CONNECTING THE FUTURE</span><span>IPPG × UBTECH</span></div></div>
      {stage==='video'&&(blocked||failed)&&<div className="intro-play-prompt"><button onClick={retry}><Play size={22}/>{failed?'Thử phát lại video':'Phát video'}</button><p role="status">{failed?'Video chưa tải được. Bạn có thể thử lại hoặc bỏ qua.':'Chạm để bắt đầu trải nghiệm.'}</p></div>}
-     <div className="intro-bottom"><div className="intro-caption"><span className="intro-live-dot"/><span>{stage==='logo'?'KHỞI TẠO TRẢI NGHIỆM':stage==='reveal'?'CHÀO MỪNG ĐẾN IPPTECH':playing?'UBTECH / ROBOTICS IN MOTION':'ĐANG CHUẨN BỊ VIDEO'}</span></div><div className="intro-actions">{stage==='video'&&<button className="intro-sound" aria-label={muted?'Bật âm thanh':'Tắt âm thanh'} onClick={()=>setMuted(!muted)}>{muted?<VolumeX size={18}/>:<Volume2 size={18}/>}</button>}<button ref={skip} className="intro-skip" onClick={reveal} disabled={stage==='reveal'}>Bỏ qua <ArrowRight size={17}/></button></div></div>
+     <div className="intro-bottom"><div className="intro-caption"><span className="intro-live-dot"/><span>{stage==='logo'?'KHỞI TẠO TRẢI NGHIỆM':stage==='reveal'?'CHÀO MỪNG ĐẾN IPPTECH':paused?'VIDEO ĐÃ TẠM DỪNG':playing?'UBTECH / ROBOTICS IN MOTION':'ĐANG CHUẨN BỊ VIDEO'}</span></div><div className="intro-actions">{stage==='video'&&<button className="intro-playback" disabled={!playing||blocked||failed} onClick={()=>{const el=video.current;if(!el)return;if(el.paused)retry();else el.pause()}}>{paused?<Play size={17}/>:<Pause size={17}/>}<span>{paused?'Tiếp tục':'Tạm dừng'}</span></button>}{stage==='video'&&<button className="intro-sound" aria-label={muted?'Bật âm thanh':'Tắt âm thanh'} onClick={()=>setMuted(!muted)}>{muted?<VolumeX size={18}/>:<Volume2 size={18}/>}</button>}<button ref={skip} className="intro-skip" onClick={reveal} disabled={stage==='reveal'}>Bỏ qua <ArrowRight size={17}/></button></div></div>
      <div className="intro-progress"><div ref={progress}/></div><div className="intro-grab-edge"/>
    </div>
    <canvas ref={canvas} className={'intro-arm-canvas '+(webgl?'is-ready':'')} aria-hidden="true"/>
@@ -92,4 +92,5 @@ export function IntroExperience({children}:{children:React.ReactNode}){
 }
 
 export function ReplayIntro(){return <button className="intro-replay" onClick={()=>window.dispatchEvent(new Event('ipptech:replay-intro'))}><RotateCcw size={14}/> Xem lại intro</button>}
+
 
