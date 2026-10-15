@@ -1,0 +1,41 @@
+IPPTech — xây lại bố cục các trang trong menu, 14/10/2026
+
+Phạm vi thực hiện
+- 59 địa chỉ trong menu có kế hoạch trình bày riêng: 7 sản phẩm, 13 giải pháp,
+  12 giới thiệu/năng lực, 11 danh mục, 2 dự án chi tiết, 8 tài nguyên, 6 liên hệ.
+- Trang sản phẩm có bộ ảnh chọn được, phóng to, chuyển ảnh bằng bàn phím;
+  nội dung chi tiết và bảng thông số nằm ngay dưới phần giới thiệu.
+- Trang giải pháp/năng lực dùng ảnh hoạt động xen với nội dung; các nhóm H3
+  thành cột đọc liên tục, bỏ số thứ tự và nền thẻ trang trí lặp lại.
+- Trang tin dùng tin nổi bật và danh sách có ảnh; dự án dùng ảnh lớn và nội dung
+  theo hoạt động. Tài liệu dùng chỉ mục gọn; form tách hướng dẫn khỏi trường nhập.
+- Bổ sung 38 phần giải thích gắn với thiết bị, tổ chức lớp, khảo sát và vận hành.
+- Bổ sung 24 ảnh chính thức từ UBTECH/IPPG, tổng dung lượng khoảng 1,42 MB,
+  kết hợp ảnh sản phẩm và tư liệu xã hội đã có. Thư viện có bộ lọc và xem lớn.
+- Giữ nội dung xuất bản từ tài liệu, intro và hiệu ứng Yanshee ở trang chủ.
+
+Nguồn ảnh
+docs/editorial-assets.json ghi URL ảnh gốc, bài nguồn, kích thước và bối cảnh.
+Ảnh quốc tế giữ chú thích nguồn UBTECH; ảnh AIC/FPT gắn đúng bài IPPG và năm.
+Không dùng ảnh quốc tế để khẳng định dự án triển khai của IPPTech.
+Chưa xác minh giấy phép tái sử dụng riêng cho từng ảnh công khai.
+
+Kiểm tra hoàn tất
+- next build: thành công, 88 trang được tạo, TypeScript thành công.
+- check-content-retention.py: 1.139 mục văn bản trên 65 trang vẫn được render.
+  Đây là đối chiếu dữ liệu xuất bản, không phải xác nhận các yêu cầu Word còn
+  thiếu hồ sơ/ảnh/số liệu doanh nghiệp đã được cung cấp.
+- check-content.mjs: heading, catalogue, form bắt buộc, FAQ, sitemap hợp lệ.
+- check-links.mjs: 85 HTML, không thiếu đích liên kết nội bộ hoặc tài nguyên.
+- Xem trực tiếp trang phòng STEM, tập huấn, Yanshee, báo giá, tin tức, dự án.
+- Đã kiểm tra thumbnail, mở/đóng ảnh, chuyển ảnh, bộ lọc tin; không gửi form.
+- Màn hình 375/390px: sản phẩm, dự án và báo giá không tràn ngang.
+- Sửa lỗi CSS header toàn cục làm phần giới thiệu bám và che nội dung khi cuộn.
+- Kích thước cửa sổ kiểm thử đã được trả về mặc định.
+
+Đối chiếu từng trang: docs/verification-2026-10-14/editorial-page-inventory.json
+Ảnh kiểm tra: editorial-training.png và editorial-project.png trong cùng thư mục.
+
+Phần chưa bổ sung do chưa có dữ liệu được xác nhận: chân dung/tiểu sử lãnh đạo,
+chứng từ và PDF doanh nghiệp, số liệu năng lực, dự án ngoài tư liệu IPPG hiện có.
+Đợt này cập nhật website cục bộ; không triển khai lên tên miền công khai.

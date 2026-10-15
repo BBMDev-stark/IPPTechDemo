@@ -5,13 +5,15 @@
   "scripts": {
     "dev": "next dev --hostname 127.0.0.1",
     "build": "next build",
-    "start": "node scripts/serve.mjs"
+    "start": "next start --hostname 127.0.0.1",
+    "test:inquiries": "node --test scripts/inquiry-store.test.mjs"
   },
   "dependencies": {
     "lucide-react": "latest",
     "next": "16.3.5",
     "react": "latest",
     "react-dom": "latest",
+    "sharp": "^0.35.4",
     "three": "^0.186.0"
   },
   "devDependencies": {

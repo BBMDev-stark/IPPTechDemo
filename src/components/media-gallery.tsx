@@ -1,0 +1,14 @@
+'use client';
+import {useEffect,useRef,useState} from 'react';
+import {ArrowUpRight,ChevronLeft,ChevronRight,X,Expand} from 'lucide-react';
+export type GalleryPhoto={src:string;alt:string;caption:string;sourceUrl:string;sourceLabel:string;category:string;width?:number;height?:number};
+export function MediaGallery({photos,filters=true}:{photos:GalleryPhoto[];filters?:boolean}){
+ const [category,setCategory]=useState('Tất cả'),[selected,setSelected]=useState<GalleryPhoto|null>(null);
+ const dialog=useRef<HTMLDialogElement>(null),trigger=useRef<HTMLButtonElement|null>(null);
+ const categoryLabel=(c:string)=>c==='education'?'ROBOG & Giáo dục':c==='commercial'?'Robot dịch vụ':c;
+ const categories=['Tất cả',...new Set(photos.map(p=>p.category))];
+ const visible=photos.filter(p=>category==='Tất cả'||p.category===category);
+ useEffect(()=>{if(selected){dialog.current?.showModal();const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous}}else if(dialog.current?.open){dialog.current.close();trigger.current?.focus()}},[selected]);
+ const move=(direction:number)=>{if(selected)setSelected(visible[(visible.indexOf(selected)+direction+visible.length)%visible.length])};
+ return <div className="media-library">{filters&&<div className="product-tabs gallery-filters" aria-label="Lọc ảnh">{categories.map(c=><button key={c} className={category===c?'active':''} aria-pressed={category===c} onClick={()=>setCategory(c)}>{categoryLabel(c)}</button>)}</div>}<p className="gallery-count" aria-live="polite">{visible.length} hình ảnh · Chọn ảnh để xem lớn</p><div className="photo-grid">{visible.map((p,i)=><figure key={p.src}><button className="photo-open" aria-label={'Xem ảnh: '+p.alt} onClick={e=>{trigger.current=e.currentTarget;setSelected(p)}}><img src={p.src} alt={p.alt} width={p.width} height={p.height} loading="lazy"/><span><Expand size={17}/></span></button><figcaption><span className="photo-category">{categoryLabel(p.category)}</span><strong>{p.caption}</strong><a href={p.sourceUrl} target="_blank" rel="noopener noreferrer">{p.sourceLabel}<ArrowUpRight size={12}/></a></figcaption></figure>)}</div><dialog ref={dialog} className="photo-dialog" onCancel={()=>setSelected(null)} onClick={e=>{if(e.target===e.currentTarget)setSelected(null)}} onKeyDown={e=>{if(e.key==='ArrowLeft')move(-1);if(e.key==='ArrowRight')move(1)}} aria-label="Xem ảnh tư liệu">{selected&&<><button className="photo-close" autoFocus aria-label="Đóng ảnh" onClick={()=>setSelected(null)}><X/></button><img src={selected.src} alt={selected.alt}/><div className="photo-dialog-caption"><button aria-label="Ảnh trước" onClick={()=>move(-1)}><ChevronLeft/></button><div><p>{selected.caption}</p><a href={selected.sourceUrl} target="_blank" rel="noopener noreferrer">{selected.sourceLabel} ↗</a></div><button aria-label="Ảnh tiếp theo" onClick={()=>move(1)}><ChevronRight/></button></div></>}</dialog></div>;
+}

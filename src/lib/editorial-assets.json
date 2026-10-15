@@ -1,0 +1,384 @@
+[
+  {
+    "id": "training-online",
+    "topics": [
+      "teacher-training",
+      "training",
+      "classroom"
+    ],
+    "src": "/images/refined/training-online-ai.webp",
+    "alt": "Minh họa giáo viên sử dụng học liệu và robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "caption": "Minh họa giáo viên sử dụng học liệu và robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1642,
+    "height": 958,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "id": "training-workshop",
+    "topics": [
+      "teacher-training",
+      "training",
+      "classroom"
+    ],
+    "src": "/images/refined/training-workshop-ai.webp",
+    "alt": "Minh họa tập huấn sử dụng robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "caption": "Minh họa tập huấn sử dụng robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1641,
+    "height": 958,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "id": "ai-base",
+    "topics": [
+      "ai-center",
+      "space",
+      "education"
+    ],
+    "src": "/images/editorial/ai-base.webp",
+    "alt": "Không gian AI Base — mô hình giáo dục được UBTECH giới thiệu.",
+    "caption": "Không gian AI Base — mô hình giáo dục được UBTECH giới thiệu.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 803,
+    "height": 575
+  },
+  {
+    "id": "ai-center",
+    "topics": [
+      "ai-center",
+      "space",
+      "education"
+    ],
+    "src": "/images/editorial/ai-center.webp",
+    "alt": "Không gian trưng bày và sáng tạo tại AI Center — tư liệu UBTECH.",
+    "caption": "Không gian trưng bày và sáng tạo tại AI Center — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 803,
+    "height": 575
+  },
+  {
+    "id": "ai-lab",
+    "topics": [
+      "classroom",
+      "space",
+      "ai-lab"
+    ],
+    "src": "/images/refined/ai-lab-ai.webp",
+    "alt": "Minh họa phòng thực hành AI & Robotics — tái tạo bằng AI từ tư liệu UBTECH.",
+    "caption": "Minh họa phòng thực hành AI & Robotics — tái tạo bằng AI từ tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1483,
+    "height": 1061,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "id": "education-case-1",
+    "topics": [
+      "ai-center",
+      "project",
+      "vietnam"
+    ],
+    "src": "/images/editorial/education-case-1.webp",
+    "alt": "Lễ ra mắt Trung tâm AIC tại Việt Nam — tư liệu trên trang giáo dục UBTECH.",
+    "caption": "Lễ ra mắt Trung tâm AIC tại Việt Nam — tư liệu trên trang giáo dục UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": "education-case-2",
+    "topics": [
+      "teacher-training",
+      "classroom",
+      "yanshee"
+    ],
+    "src": "/images/refined/education-case-2-ai.webp",
+    "alt": "Minh họa lớp thực hành lập trình robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "caption": "Minh họa lớp thực hành lập trình robot — tái tạo bằng AI từ tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1672,
+    "height": 941,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "id": "education-case-3",
+    "topics": [
+      "classroom",
+      "education"
+    ],
+    "src": "/images/refined/education-case-3-ai.webp",
+    "alt": "Minh họa hoạt động robotics trong lớp học — tái tạo bằng AI từ tư liệu UBTECH.",
+    "caption": "Minh họa hoạt động robotics trong lớp học — tái tạo bằng AI từ tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1672,
+    "height": 941,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "id": "education-case-4",
+    "topics": [
+      "competition",
+      "event"
+    ],
+    "src": "/images/editorial/education-case-4.webp",
+    "alt": "Các đội tham dự Robomania 2019 — tư liệu UBTECH.",
+    "caption": "Các đội tham dự Robomania 2019 — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": "education-case-5",
+    "topics": [
+      "experience",
+      "education"
+    ],
+    "src": "/images/editorial/education-case-5.webp",
+    "alt": "Trải nghiệm tương tác cùng robot tại không gian giáo dục — tư liệu UBTECH.",
+    "caption": "Trải nghiệm tương tác cùng robot tại không gian giáo dục — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/education-k12",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": "lab-overview",
+    "topics": [
+      "ai-lab",
+      "space",
+      "classroom"
+    ],
+    "src": "/images/refined/lab-overview.webp",
+    "alt": "Không gian AI Lab được UBTECH giới thiệu trong giải pháp phòng học.",
+    "caption": "Không gian AI Lab được UBTECH giới thiệu trong giải pháp phòng học.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 1918,
+    "height": 813
+  },
+  {
+    "id": "lab-school",
+    "topics": [
+      "ai-lab",
+      "classroom"
+    ],
+    "src": "/images/editorial/lab-school.webp",
+    "alt": "Hình minh họa các môi trường phòng học AI của UBTECH.",
+    "caption": "Hình minh họa các môi trường phòng học AI của UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 1373,
+    "height": 490
+  },
+  {
+    "id": "class-teaching",
+    "topics": [
+      "software",
+      "classroom"
+    ],
+    "src": "/images/editorial/class-teaching.webp",
+    "alt": "Sơ đồ minh họa lớp học AI — tài liệu giải pháp UBTECH.",
+    "caption": "Sơ đồ minh họa lớp học AI — tài liệu giải pháp UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 648,
+    "height": 332
+  },
+  {
+    "id": "ucode-screen",
+    "topics": [
+      "software",
+      "ukit-ai",
+      "ugot"
+    ],
+    "src": "/images/editorial/ucode-screen.webp",
+    "alt": "Giao diện lập trình trực quan uCode — tư liệu UBTECH.",
+    "caption": "Giao diện lập trình trực quan uCode — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 647,
+    "height": 332
+  },
+  {
+    "id": "python-screen",
+    "topics": [
+      "software",
+      "ugot"
+    ],
+    "src": "/images/editorial/python-screen.webp",
+    "alt": "Giao diện công cụ lập trình uPython — tư liệu UBTECH.",
+    "caption": "Giao diện công cụ lập trình uPython — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 649,
+    "height": 332
+  },
+  {
+    "id": "simulation-screen",
+    "topics": [
+      "software",
+      "ukit-ai"
+    ],
+    "src": "/images/editorial/simulation-screen.webp",
+    "alt": "Môi trường mô phỏng robot 3D — tư liệu UBTECH.",
+    "caption": "Môi trường mô phỏng robot 3D — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 647,
+    "height": 332
+  },
+  {
+    "id": "teacher-program",
+    "topics": [
+      "teacher-training",
+      "diagram"
+    ],
+    "src": "/images/editorial/teacher-program.webp",
+    "alt": "Sơ đồ các cấp đào tạo giáo viên được UBTECH công bố.",
+    "caption": "Sơ đồ các cấp đào tạo giáo viên được UBTECH công bố.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 1320,
+    "height": 652
+  },
+  {
+    "id": "competition-practice",
+    "topics": [
+      "competition",
+      "event"
+    ],
+    "src": "/images/editorial/competition-practice.webp",
+    "alt": "Không khí sự kiện RoboGenius — tư liệu UBTECH.",
+    "caption": "Không khí sự kiện RoboGenius — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 750,
+    "height": 385
+  },
+  {
+    "id": "robotics-competition",
+    "topics": [
+      "competition",
+      "event"
+    ],
+    "src": "/images/editorial/robotics-competition.webp",
+    "alt": "Hoạt động thi đấu RoboGenius — tư liệu UBTECH.",
+    "caption": "Hoạt động thi đấu RoboGenius — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/solutions/ai-labs-in-schools",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 959,
+    "height": 868
+  },
+  {
+    "id": "aic-robots",
+    "topics": [
+      "ai-center",
+      "project",
+      "vietnam"
+    ],
+    "src": "/images/refined/aic-robots.webp",
+    "alt": "Đồng diễn robot tại lễ thành lập AIC, ĐHQG TP.HCM năm 2021 — nguồn IPPG.",
+    "caption": "Đồng diễn robot tại lễ thành lập AIC, ĐHQG TP.HCM năm 2021 — nguồn IPPG.",
+    "sourceUrl": "https://ippgroup.vn/vi/tin-tuc/ippg-tai-tro-thanh-lap-trung-tam-giao-duc-dao-tao-tri-tue-nhan-tao-dau-tien-tai-phia-nam-n5075",
+    "sourceLabel": "IPPG",
+    "category": "education",
+    "width": 1348,
+    "height": 707
+  },
+  {
+    "id": "aic-exhibition",
+    "topics": [
+      "ai-center",
+      "space",
+      "project",
+      "vietnam"
+    ],
+    "src": "/images/refined/aic-exhibition.webp",
+    "alt": "Không gian trưng bày tại AIC trong bài công bố năm 2021 — nguồn IPPG.",
+    "caption": "Không gian trưng bày tại AIC trong bài công bố năm 2021 — nguồn IPPG.",
+    "sourceUrl": "https://ippgroup.vn/vi/tin-tuc/ippg-tai-tro-thanh-lap-trung-tam-giao-duc-dao-tao-tri-tue-nhan-tao-dau-tien-tai-phia-nam-n5075",
+    "sourceLabel": "IPPG",
+    "category": "education",
+    "width": 950,
+    "height": 651
+  },
+  {
+    "id": "aic-classroom",
+    "topics": [
+      "ai-center",
+      "classroom",
+      "space",
+      "project",
+      "vietnam"
+    ],
+    "src": "/images/refined/aic-classroom.webp",
+    "alt": "Không gian học tập tại AIC trong bài công bố năm 2021 — nguồn IPPG.",
+    "caption": "Không gian học tập tại AIC trong bài công bố năm 2021 — nguồn IPPG.",
+    "sourceUrl": "https://ippgroup.vn/vi/tin-tuc/ippg-tai-tro-thanh-lap-trung-tam-giao-duc-dao-tao-tri-tue-nhan-tao-dau-tien-tai-phia-nam-n5075",
+    "sourceLabel": "IPPG",
+    "category": "education",
+    "width": 899,
+    "height": 599
+  },
+  {
+    "id": "fpt-speech",
+    "topics": [
+      "fpt",
+      "project",
+      "vietnam"
+    ],
+    "src": "/images/refined/fpt-speech.webp",
+    "alt": "Chủ tịch IPPG phát biểu tại lễ ký kết hợp tác với FPT Schools, năm 2022 — nguồn IPPG.",
+    "caption": "Chủ tịch IPPG phát biểu tại lễ ký kết hợp tác với FPT Schools, năm 2022 — nguồn IPPG.",
+    "sourceUrl": "https://ippgroup.vn/vi/tin-tuc/ippg-hop-tac-cung-fpt-fschools-phat-trien-bo-sach-ai-n6730",
+    "sourceLabel": "IPPG",
+    "category": "education",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "ugot-learning",
+    "topics": [
+      "ugot",
+      "competition",
+      "education"
+    ],
+    "src": "/images/editorial/ugot-learning.webp",
+    "alt": "Thí sinh thực hành với UGOT tại WRCC 2025 — tư liệu UBTECH.",
+    "caption": "Thí sinh thực hành với UGOT tại WRCC 2025 — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ugot/",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 680,
+    "height": 800
+  }
+]

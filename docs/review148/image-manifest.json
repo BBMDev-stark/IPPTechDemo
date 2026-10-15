@@ -1,0 +1,3450 @@
+[
+  {
+    "id": "IMG-001",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 3,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Học sinh tiểu học lắp ráp và lập trình robot trong phòng thực hành tại một trường ở Việt Nam; một robot lễ tân đứng phía sau. Bố cục chừa khoảng trống bên trái cho tiêu đề.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Học sinh thực hành thiết bị STEM và robot trong phòng học tại Việt Nam\" (70 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S01 ảnh 5 là hoạt động học sinh Việt Nam với UGOT/tablet, chỉ phù hợp làm ảnh hoạt động bổ sung. Chưa khớp hoàn toàn cảnh lớp học/giáo viên/robot lễ tân và khoảng trống hero; cần ảnh riêng theo brief.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-002",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 4,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Logo UBTECH Robotics (bản chính thức từ hãng) cho dải logo hãng ủy quyền.",
+      "Kích thước: 400×200, nền trong suốt px",
+      "Tỉ lệ: 2:1",
+      "Định dạng: WebP (giữ nền trong suốt) hoặc PNG, ≤ 300 KB",
+      "Alt text: \"Logo UBTECH Robotics – thương hiệu robot IPPTech phân phối chính hãng\" (69 ký tự)",
+      "Nguồn: Ảnh hãng — xin bộ nhận diện từ UBTECH"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-003",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 4,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Cột trái: lớp học STEM, giáo viên hướng dẫn nhóm học sinh THCS lập trình robot.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Giáo viên hướng dẫn học sinh THCS lập trình robot trong phòng thực hành STEM\" (76 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S01 ảnh 5 là hoạt động học sinh Việt Nam với UGOT/tablet, chỉ phù hợp làm ảnh hoạt động bổ sung. Chưa khớp hoàn toàn cảnh lớp học/giáo viên/robot lễ tân và khoảng trống hero; cần ảnh riêng theo brief.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-004",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 4,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Cột phải: robot lễ tân Cruzr chào khách tại sảnh một doanh nghiệp.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot lễ tân Cruzr chào đón khách tại sảnh doanh nghiệp\" (55 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Chưa có ảnh Cruzr chào khách tại sảnh doanh nghiệp đúng brief. S06 là bảo tàng, không thay trực tiếp; lấy bộ ảnh hãng về sảnh hoặc chụp khu demo đúng bối cảnh.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-005",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 5,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Thẻ dự án 1: không gian Trung tâm AI tại Khu công nghệ phần mềm ĐHQG TP.HCM.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Trung tâm Giáo dục đào tạo AI tại Khu công nghệ phần mềm ĐHQG TP.HCM\" (68 ký tự)",
+      "Nguồn: Ảnh đã công bố trên ippgroup.vn — xin quyền dùng"
+    ],
+    "decision": "Ưu tiên ảnh Trung tâm AI ĐHQG TP.HCM từ nguồn IPPG đã công bố đang dùng trên web; kiểm tra lại chủ thể, vai trò và lấy bản gốc để crop card. Không dùng ảnh cuộc thi ROBOG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-006",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 6,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Cặp logo IPPG + IPPTech đặt cạnh nhau, đồng cấp.",
+      "Kích thước: 400×200, nền trong suốt px",
+      "Tỉ lệ: 2:1",
+      "Định dạng: WebP (giữ nền trong suốt) hoặc PNG, ≤ 300 KB",
+      "Alt text: \"Logo Tập đoàn IPPG và IPPTech\" (29 ký tự)",
+      "Nguồn: Bộ nhận diện IPPG — Marketing cung cấp"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-007",
+    "section": "Trang chủ",
+    "url": "/",
+    "section_id": 0,
+    "page": 6,
+    "page_range": [
+      3,
+      7
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Trang chủ\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"thiết bị STEM và robot – Trang chủ | IPPTech\" (44 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-008",
+    "section": "Về IPPTech",
+    "url": "/ve-ipptech",
+    "section_id": 1,
+    "page": 8,
+    "page_range": [
+      8,
+      9
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Đội ngũ IPPTech tại văn phòng Centec Tower bên cạnh robot trưng bày.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Đội ngũ công ty IPPTech tại văn phòng Centec Tower, TP.HCM\" (58 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-009",
+    "section": "Về IPPTech",
+    "url": "/ve-ipptech",
+    "section_id": 1,
+    "page": 8,
+    "page_range": [
+      8,
+      9
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Sơ đồ khối đơn giản: IPPG → các công ty thành viên → IPPTech (làm nổi bật).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sơ đồ vị trí công ty IPPTech trong Tập đoàn IPPG\" (48 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-010",
+    "section": "Về IPPTech",
+    "url": "/ve-ipptech",
+    "section_id": 1,
+    "page": 9,
+    "page_range": [
+      8,
+      9
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Về IPPTech\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"công ty IPPTech – Về IPPTech | IPPTech\" (38 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-011",
+    "section": "Giới thiệu & Tầm nhìn",
+    "url": "/ve-ipptech/gioi-thieu",
+    "section_id": 2,
+    "page": 10,
+    "page_range": [
+      10,
+      12
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot giáo dục UBTECH trên bàn thực hành, phía sau là lớp học có học sinh.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Giới thiệu IPPTech – robot giáo dục trong lớp học Việt Nam\" (58 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S01 ảnh 5 có UGOT trên bàn và học sinh, nhưng là hoạt động cuộc thi. Chỉ dùng minh họa học tập với chú thích đúng; cảnh lớp học theo brief vẫn cần bổ sung.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-012",
+    "section": "Giới thiệu & Tầm nhìn",
+    "url": "/ve-ipptech/gioi-thieu",
+    "section_id": 2,
+    "page": 10,
+    "page_range": [
+      10,
+      12
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Chân dung lãnh đạo IPPTech tại văn phòng, kèm chữ ký.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Lãnh đạo IPPTech tại văn phòng Centec Tower\" (43 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-013",
+    "section": "Giới thiệu & Tầm nhìn",
+    "url": "/ve-ipptech/gioi-thieu",
+    "section_id": 2,
+    "page": 12,
+    "page_range": [
+      10,
+      12
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Giới thiệu & Tầm nhìn\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"giới thiệu IPPTech – Giới thiệu & Tầm nhìn | IPPTech\" (52 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-014",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "url": "/ve-ipptech/ipp-group",
+    "section_id": 3,
+    "page": 13,
+    "page_range": [
+      13,
+      15
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Cặp logo IPPG và IPPTech trên nền ảnh văn phòng tập đoàn.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"IPPTech thành viên IPPG – logo Tập đoàn Liên Thái Bình Dương và IPPTech\" (71 ký tự)",
+      "Nguồn: Bộ nhận diện IPPG — Marketing cung cấp"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-015",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "url": "/ve-ipptech/ipp-group",
+    "section_id": 3,
+    "page": 14,
+    "page_range": [
+      13,
+      15
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Sơ đồ khối: IPPG → các công ty thành viên → IPPTech (nổi bật màu thương hiệu).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sơ đồ hệ sinh thái IPP Group và vị trí IPPTech\" (46 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-016",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "url": "/ve-ipptech/ipp-group",
+    "section_id": 3,
+    "page": 15,
+    "page_range": [
+      13,
+      15
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"IPPTech trong hệ sinh thái IPP Group\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"IPPTech thành viên IPPG – IPPTech trong hệ sinh thái IPP Group | IPPTech\" (72 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-017",
+    "section": "Năng lực & Mô hình dịch vụ",
+    "url": "/ve-ipptech/nang-luc",
+    "section_id": 4,
+    "page": 16,
+    "page_range": [
+      16,
+      18
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kỹ thuật viên IPPTech lắp đặt thiết bị trong phòng thực hành, giáo viên đứng quan sát.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Kỹ thuật viên IPPTech triển khai theo mô hình dịch vụ 5 bước tại trường học\" (75 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-018",
+    "section": "Năng lực & Mô hình dịch vụ",
+    "url": "/ve-ipptech/nang-luc",
+    "section_id": 4,
+    "page": 16,
+    "page_range": [
+      16,
+      18
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Infographic 5 bước nằm ngang: khảo sát → thiết kế cấu hình → cung cấp → lắp đặt & tập huấn → bảo hành.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sơ đồ mô hình dịch vụ 5 bước của IPPTech\" (40 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-019",
+    "section": "Năng lực & Mô hình dịch vụ",
+    "url": "/ve-ipptech/nang-luc",
+    "section_id": 4,
+    "page": 17,
+    "page_range": [
+      16,
+      18
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Năng lực & Mô hình dịch vụ\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"mô hình dịch vụ 5 bước – Năng lực & Mô hình dịch vụ | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-020",
+    "section": "Nhập khẩu & phân phối chính hãng",
+    "url": "/ve-ipptech/nang-luc/phan-phoi",
+    "section_id": 5,
+    "page": 19,
+    "page_range": [
+      19,
+      19
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kiện hàng thiết bị UBTECH có tem nhãn chính hãng tại kho.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Thiết bị phân phối robot chính hãng UBTECH tại kho IPPTech\" (58 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-021",
+    "section": "Nhập khẩu & phân phối chính hãng",
+    "url": "/ve-ipptech/nang-luc/phan-phoi",
+    "section_id": 5,
+    "page": 19,
+    "page_range": [
+      19,
+      19
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Nhập khẩu & phân phối chính hãng\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"phân phối robot chính hãng – Nhập khẩu & phân phối chính hãng | IPPTech\" (71 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-022",
+    "section": "Triển khai, lắp đặt & bàn giao",
+    "url": "/ve-ipptech/nang-luc/trien-khai",
+    "section_id": 6,
+    "page": 20,
+    "page_range": [
+      20,
+      21
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kỹ thuật viên đi dây và bố trí bàn thực hành trong phòng học.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Kỹ thuật viên lắp đặt phòng thực hành STEM tại trường học\" (57 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-023",
+    "section": "Triển khai, lắp đặt & bàn giao",
+    "url": "/ve-ipptech/nang-luc/trien-khai",
+    "section_id": 6,
+    "page": 20,
+    "page_range": [
+      20,
+      21
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Triển khai, lắp đặt & bàn giao\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"lắp đặt phòng thực hành STEM – Triển khai, lắp đặt & bàn giao | IPPTech\" (71 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-024",
+    "section": "Bảo hành, bảo trì & hỗ trợ kỹ thuật",
+    "url": "/ve-ipptech/nang-luc/bao-hanh",
+    "section_id": 7,
+    "page": 22,
+    "page_range": [
+      22,
+      22
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kỹ thuật viên kiểm tra servo của robot trên bàn kỹ thuật.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Kỹ thuật viên kiểm tra khi bảo hành robot UBTECH\" (48 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-025",
+    "section": "Bảo hành, bảo trì & hỗ trợ kỹ thuật",
+    "url": "/ve-ipptech/nang-luc/bao-hanh",
+    "section_id": 7,
+    "page": 22,
+    "page_range": [
+      22,
+      22
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Bảo hành, bảo trì & hỗ trợ kỹ thuật\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"bảo hành robot UBTECH – Bảo hành, bảo trì & hỗ trợ kỹ thuật | IPPTech\" (69 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-026",
+    "section": "Đào tạo & chuyển giao vận hành",
+    "url": "/ve-ipptech/nang-luc/dao-tao",
+    "section_id": 8,
+    "page": 23,
+    "page_range": [
+      23,
+      24
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Buổi tập huấn: giáo viên thực hành lập trình robot theo nhóm.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Buổi đào tạo sử dụng robot cho giáo viên\" (40 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-027",
+    "section": "Đào tạo & chuyển giao vận hành",
+    "url": "/ve-ipptech/nang-luc/dao-tao",
+    "section_id": 8,
+    "page": 23,
+    "page_range": [
+      23,
+      24
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đào tạo & chuyển giao vận hành\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đào tạo sử dụng robot – Đào tạo & chuyển giao vận hành | IPPTech\" (64 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-028",
+    "section": "Đội ngũ & Ban điều hành",
+    "url": "/ve-ipptech/doi-ngu",
+    "section_id": 9,
+    "page": 25,
+    "page_range": [
+      25,
+      27
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh tập thể đội ngũ IPPTech tại văn phòng hoặc tại một công trình trường học.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Đội ngũ IPPTech tại văn phòng Centec Tower\" (42 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp, không dùng ảnh stock"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-029",
+    "section": "Đội ngũ & Ban điều hành",
+    "url": "/ve-ipptech/doi-ngu",
+    "section_id": 9,
+    "page": 25,
+    "page_range": [
+      25,
+      27
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Chân dung từng thành viên ban điều hành, nền đồng nhất.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Chân dung thành viên ban điều hành IPPTech\" (42 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-030",
+    "section": "Đội ngũ & Ban điều hành",
+    "url": "/ve-ipptech/doi-ngu",
+    "section_id": 9,
+    "page": 26,
+    "page_range": [
+      25,
+      27
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kỹ thuật viên IPPTech làm việc tại một phòng thực hành đang lắp đặt.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Đội ngũ kỹ thuật IPPTech tại công trình trường học\" (50 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-031",
+    "section": "Đội ngũ & Ban điều hành",
+    "url": "/ve-ipptech/doi-ngu",
+    "section_id": 9,
+    "page": 26,
+    "page_range": [
+      25,
+      27
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đội ngũ & Ban điều hành\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đội ngũ IPPTech – Đội ngũ & Ban điều hành | IPPTech\" (51 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-032",
+    "section": "Hồ sơ pháp lý & Chứng nhận",
+    "url": "/ve-ipptech/ho-so-phap-ly",
+    "section_id": 10,
+    "page": 28,
+    "page_range": [
+      28,
+      29
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Bộ hồ sơ giấy tờ pháp lý sắp xếp trên bàn, có con dấu (làm mờ số hiệu).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Bộ hồ sơ pháp lý nhà thầu của IPPTech\" (37 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp, che số hiệu"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-033",
+    "section": "Hồ sơ pháp lý & Chứng nhận",
+    "url": "/ve-ipptech/ho-so-phap-ly",
+    "section_id": 10,
+    "page": 29,
+    "page_range": [
+      28,
+      29
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Hồ sơ pháp lý & Chứng nhận\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"hồ sơ pháp lý nhà thầu – Hồ sơ pháp lý & Chứng nhận | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-034",
+    "section": "Tuyển dụng",
+    "url": "/ve-ipptech/tuyen-dung",
+    "section_id": 11,
+    "page": 30,
+    "page_range": [
+      30,
+      31
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Nhân viên IPPTech trao đổi công việc tại văn phòng, robot Yanshee trên bàn.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Môi trường làm việc – tuyển dụng IPPTech tại TP.HCM\" (51 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-035",
+    "section": "Tuyển dụng",
+    "url": "/ve-ipptech/tuyen-dung",
+    "section_id": 11,
+    "page": 31,
+    "page_range": [
+      30,
+      31
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tuyển dụng\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"tuyển dụng IPPTech – Tuyển dụng | IPPTech\" (41 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-036",
+    "section": "Thương hiệu & Sản phẩm",
+    "url": "/thuong-hieu",
+    "section_id": 12,
+    "page": 32,
+    "page_range": [
+      32,
+      33
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot hình người Yanshee và robot lễ tân Cruzr đứng cạnh nhau trên nền trung tính.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Thương hiệu robot giáo dục và robot dịch vụ IPPTech phân phối\" (61 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-037",
+    "section": "Thương hiệu & Sản phẩm",
+    "url": "/thuong-hieu",
+    "section_id": 12,
+    "page": 32,
+    "page_range": [
+      32,
+      33
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Logo UBTECH cho thẻ thương hiệu.",
+      "Kích thước: 400×200, nền trong suốt px",
+      "Tỉ lệ: 2:1",
+      "Định dạng: WebP (giữ nền trong suốt) hoặc PNG, ≤ 300 KB",
+      "Alt text: \"Logo UBTECH Robotics\" (20 ký tự)",
+      "Nguồn: Ảnh hãng"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-038",
+    "section": "Thương hiệu & Sản phẩm",
+    "url": "/thuong-hieu",
+    "section_id": 12,
+    "page": 33,
+    "page_range": [
+      32,
+      33
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Thương hiệu & Sản phẩm\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"thương hiệu robot giáo dục – Thương hiệu & Sản phẩm | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-039",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "url": "/thuong-hieu/ubtech",
+    "section_id": 13,
+    "page": 34,
+    "page_range": [
+      34,
+      36
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Dàn sản phẩm UBTECH: Yanshee, UGOT, Cruzr xếp theo chiều cao.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sản phẩm UBTECH Việt Nam: robot giáo dục và robot dịch vụ\" (57 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Cần bộ ảnh hãng đúng ba model Yanshee, UGOT, Cruzr và dựng bố cục theo chiều cao tương đối đã kiểm chứng. Các poster UGOT không đáp ứng ảnh dàn sản phẩm.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-040",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "url": "/thuong-hieu/ubtech",
+    "section_id": 13,
+    "page": 35,
+    "page_range": [
+      34,
+      36
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh lễ ký kết hoặc thư ủy quyền UBTECH – IPPTech (che điều khoản thương mại).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Lễ ký kết phân phối UBTECH Việt Nam cùng IPPTech\" (48 ký tự)",
+      "Nguồn: Ảnh thật — Marketing cung cấp"
+    ],
+    "decision": "Cần ảnh lễ ký kết hoặc thư ủy quyền thật UBTECH–IPPTech được phép công bố; che điều khoản thương mại. Ảnh hãng hoặc lễ ký với FPT không thay thế.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-041",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "url": "/thuong-hieu/ubtech",
+    "section_id": 13,
+    "page": 35,
+    "page_range": [
+      34,
+      36
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"UBTECH — Tổng quan thương hiệu\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"UBTECH Việt Nam – UBTECH — Tổng quan thương hiệu | IPPTech\" (58 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-042",
+    "section": "UBTECH — Giáo dục",
+    "url": "/thuong-hieu/ubtech/giao-duc",
+    "section_id": 14,
+    "page": 37,
+    "page_range": [
+      37,
+      39
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Học sinh THCS lập trình UGOT trên máy tính bảng, robot đang chuyển động trên bàn.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Học sinh học lập trình với robot giáo dục UBTECH\" (48 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "S01 ảnh 5 là hoạt động học sinh Việt Nam với UGOT/tablet, chỉ phù hợp làm ảnh hoạt động bổ sung. Chưa khớp hoàn toàn cảnh lớp học/giáo viên/robot lễ tân và khoảng trống hero; cần ảnh riêng theo brief.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-043",
+    "section": "UBTECH — Giáo dục",
+    "url": "/thuong-hieu/ubtech/giao-duc",
+    "section_id": 14,
+    "page": 38,
+    "page_range": [
+      37,
+      39
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Thẻ sản phẩm: ảnh từng sản phẩm trên nền trắng, cùng góc chụp.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Bộ robot giáo dục UBTECH UGOT Full Kit\" (38 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Dùng ảnh chính hãng của từng sản phẩm đang có, kiểm tra model và phiên bản VN; đồng bộ nền trắng, tỉ lệ và góc nhìn. Ảnh học sinh S01 không phù hợp ô thẻ sản phẩm.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-044",
+    "section": "UBTECH — Giáo dục",
+    "url": "/thuong-hieu/ubtech/giao-duc",
+    "section_id": 14,
+    "page": 39,
+    "page_range": [
+      37,
+      39
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"UBTECH — Giáo dục\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot giáo dục UBTECH – UBTECH — Giáo dục | IPPTech\" (51 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-045",
+    "section": "UGOT Full Kit",
+    "url": "/thuong-hieu/ubtech/ugot-full-kit",
+    "section_id": 15,
+    "page": 40,
+    "page_range": [
+      40,
+      41
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] UGOT Full Kit lắp thành robot xe tự hành trên nền trắng.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"UGOT Full Kit – robot mô-đun lập trình của UBTECH\" (49 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH (ubtrobot.com)"
+    ],
+    "decision": "Cần ảnh UGOT Full Kit cấu hình xe tự hành nền trắng. Kiểm tra bộ ảnh hãng đang có; S07/S08/S09 chỉ là poster/tin tham khảo, chưa có ảnh được xác minh khớp cấu hình này.",
+    "source_ids": [
+      "S07",
+      "S08",
+      "S09"
+    ]
+  },
+  {
+    "id": "IMG-046",
+    "section": "UGOT Full Kit",
+    "url": "/thuong-hieu/ubtech/ugot-full-kit",
+    "section_id": 15,
+    "page": 41,
+    "page_range": [
+      40,
+      41
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"UGOT Full Kit\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"UGOT Full Kit – UGOT Full Kit | IPPTech\" (39 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-047",
+    "section": "AI Fantasy Zoo",
+    "url": "/thuong-hieu/ubtech/ai-fantasy-zoo",
+    "section_id": 16,
+    "page": 42,
+    "page_range": [
+      42,
+      43
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Mô hình động vật lắp từ AI Fantasy Zoo, học sinh tiểu học đang điều khiển.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"AI Fantasy Zoo – học cụ AI cho học sinh tiểu học\" (48 ký tự)",
+      "Nguồn: Ảnh hãng (ubtechvietnam.edu.vn)"
+    ],
+    "decision": "Ưu tiên bộ ảnh chính hãng đúng sản phẩm đang có; bổ sung ảnh sử dụng theo yêu cầu. Chưa xác minh được bài mạng xã hội có ảnh chính xác đáp ứng toàn bộ cảnh/BOM.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-048",
+    "section": "AI Fantasy Zoo",
+    "url": "/thuong-hieu/ubtech/ai-fantasy-zoo",
+    "section_id": 16,
+    "page": 43,
+    "page_range": [
+      42,
+      43
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"AI Fantasy Zoo\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"AI Fantasy Zoo – AI Fantasy Zoo | IPPTech\" (41 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-049",
+    "section": "AI Super Engineer",
+    "url": "/thuong-hieu/ubtech/ai-super-engineer",
+    "section_id": 17,
+    "page": 44,
+    "page_range": [
+      44,
+      45
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Mô hình máy kỹ thuật lắp từ AI Super Engineer trên bàn thực hành.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"AI Super Engineer – học cụ kỹ thuật robot của UBTECH\" (52 ký tự)",
+      "Nguồn: Ảnh hãng (ubtechvietnam.edu.vn)"
+    ],
+    "decision": "Ưu tiên bộ ảnh chính hãng đúng sản phẩm đang có; bổ sung ảnh sử dụng theo yêu cầu. Chưa xác minh được bài mạng xã hội có ảnh chính xác đáp ứng toàn bộ cảnh/BOM.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-050",
+    "section": "AI Super Engineer",
+    "url": "/thuong-hieu/ubtech/ai-super-engineer",
+    "section_id": 17,
+    "page": 45,
+    "page_range": [
+      44,
+      45
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"AI Super Engineer\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"AI Super Engineer – AI Super Engineer | IPPTech\" (47 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-051",
+    "section": "Robot hình người Yanshee",
+    "url": "/thuong-hieu/ubtech/yanshee",
+    "section_id": 18,
+    "page": 46,
+    "page_range": [
+      46,
+      47
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot Yanshee đứng trên bàn, tư thế giơ tay chào.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot hình người Yanshee của UBTECH\" (35 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Ưu tiên bộ ảnh chính hãng đúng sản phẩm đang có; bổ sung ảnh sử dụng theo yêu cầu. Chưa xác minh được bài mạng xã hội có ảnh chính xác đáp ứng toàn bộ cảnh/BOM.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-052",
+    "section": "Robot hình người Yanshee",
+    "url": "/thuong-hieu/ubtech/yanshee",
+    "section_id": 18,
+    "page": 47,
+    "page_range": [
+      46,
+      47
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Robot hình người Yanshee\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot hình người Yanshee – Robot hình người Yanshee | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-053",
+    "section": "UKit AI",
+    "url": "/thuong-hieu/ubtech/ukit-ai",
+    "section_id": 19,
+    "page": 48,
+    "page_range": [
+      48,
+      49
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Mô hình lắp từ UKit AI với camera nhận diện, màn hình máy tính hiện uCode.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"UKit AI – bộ lắp ráp AI lập trình uCode\" (39 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Ưu tiên bộ ảnh chính hãng đúng sản phẩm đang có; bổ sung ảnh sử dụng theo yêu cầu. Chưa xác minh được bài mạng xã hội có ảnh chính xác đáp ứng toàn bộ cảnh/BOM.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-054",
+    "section": "UKit AI",
+    "url": "/thuong-hieu/ubtech/ukit-ai",
+    "section_id": 19,
+    "page": 49,
+    "page_range": [
+      48,
+      49
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"UKit AI\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"UKit AI – UKit AI | IPPTech\" (27 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-055",
+    "section": "UBTECH — Robot dịch vụ & Công nghệ",
+    "url": "/thuong-hieu/ubtech/cong-nghe",
+    "section_id": 20,
+    "page": 50,
+    "page_range": [
+      50,
+      52
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot Cruzr đón khách tại sảnh, màn hình hiển thị lời chào.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot dịch vụ UBTECH Cruzr đón khách tại sảnh doanh nghiệp\" (58 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Cần Cruzr tại sảnh với lời chào trên màn hình; S05 là quầy sân bay, S06 là bảo tàng, chỉ tham khảo ứng dụng ngành, không thay trực tiếp.",
+    "source_ids": [
+      "S05",
+      "S06"
+    ]
+  },
+  {
+    "id": "IMG-056",
+    "section": "UBTECH — Robot dịch vụ & Công nghệ",
+    "url": "/thuong-hieu/ubtech/cong-nghe",
+    "section_id": 20,
+    "page": 50,
+    "page_range": [
+      50,
+      52
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Thẻ sản phẩm Cruzr và U1 trên nền trắng.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot lễ tân Cruzr và robot hình người U1\" (41 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Cần hai ảnh sản phẩm nền trắng Cruzr và U1 đúng model. Kiểm tra ảnh hãng đang có, đặc biệt phiên bản U1; S12 chỉ hỗ trợ đối chiếu tên sản phẩm.",
+    "source_ids": [
+      "S12"
+    ]
+  },
+  {
+    "id": "IMG-057",
+    "section": "UBTECH — Robot dịch vụ & Công nghệ",
+    "url": "/thuong-hieu/ubtech/cong-nghe",
+    "section_id": 20,
+    "page": 52,
+    "page_range": [
+      50,
+      52
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"UBTECH — Robot dịch vụ & Công nghệ\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot dịch vụ UBTECH – UBTECH — Robot dịch vụ & Công nghệ | IPPTech\" (67 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-058",
+    "section": "Robot lễ tân Cruzr",
+    "url": "/thuong-hieu/ubtech/cruzr",
+    "section_id": 21,
+    "page": 53,
+    "page_range": [
+      53,
+      54
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot Cruzr trên nền trắng, màn hình hiển thị menu dịch vụ.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot lễ tân Cruzr của UBTECH\" (29 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Giữ/tìm ảnh Cruzr chính hãng nền trắng, màn hình menu dịch vụ rõ. S06 là ảnh tình huống bảo tàng, không đáp ứng brief sản phẩm nền trắng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-059",
+    "section": "Robot lễ tân Cruzr",
+    "url": "/thuong-hieu/ubtech/cruzr",
+    "section_id": 21,
+    "page": 54,
+    "page_range": [
+      53,
+      54
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Robot lễ tân Cruzr\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot lễ tân Cruzr – Robot lễ tân Cruzr | IPPTech\" (49 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-060",
+    "section": "Robot hình người U1",
+    "url": "/thuong-hieu/ubtech/u1",
+    "section_id": 22,
+    "page": 55,
+    "page_range": [
+      55,
+      56
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot U1 đứng trên sân khấu sự kiện, ánh sáng thương hiệu.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot hình người U1 của UBTECH tại sự kiện\" (42 ký tự)",
+      "Nguồn: Ảnh hãng UBTECH"
+    ],
+    "decision": "Chưa chốt ảnh. Đối chiếu U1/U1 PRO/UWORLD U1 theo nguồn hãng S12 và danh mục thực cung cấp; không lấy robot cùng tên của hãng khác.",
+    "source_ids": [
+      "S12"
+    ]
+  },
+  {
+    "id": "IMG-061",
+    "section": "Robot hình người U1",
+    "url": "/thuong-hieu/ubtech/u1",
+    "section_id": 22,
+    "page": 56,
+    "page_range": [
+      55,
+      56
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Robot hình người U1\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot hình người U1 – Robot hình người U1 | IPPTech\" (51 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-062",
+    "section": "Thương hiệu 02 [khe trống]",
+    "url": "/thuong-hieu/brand-02",
+    "section_id": 23,
+    "page": 57,
+    "page_range": [
+      57,
+      58
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh nền trung tính: bàn thực hành với các học cụ không rõ nhãn hiệu.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Thương hiệu công nghệ giáo dục mới tại IPPTech\" (46 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Chưa cần ảnh thương hiệu cụ thể. Dùng đồ họa trung tính trong trạng thái chờ; không gắn thương hiệu chưa ký.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-063",
+    "section": "Thương hiệu 02 [khe trống]",
+    "url": "/thuong-hieu/brand-02",
+    "section_id": 23,
+    "page": 58,
+    "page_range": [
+      57,
+      58
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Thương hiệu 02 [khe trống]\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"thương hiệu công nghệ giáo dục – Thương hiệu 02 [khe trống] | IPPTech\" (69 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-064",
+    "section": "Thương hiệu 03 [khe trống]",
+    "url": "/thuong-hieu/brand-03",
+    "section_id": 24,
+    "page": 59,
+    "page_range": [
+      59,
+      60
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh nền trung tính: sảnh doanh nghiệp hiện đại, không có thương hiệu robot cụ thể.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Đối tác robot mới cùng IPPTech tại Việt Nam\" (43 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Chưa cần ảnh thương hiệu cụ thể. Dùng đồ họa trung tính trong trạng thái chờ; không gắn thương hiệu chưa ký.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-065",
+    "section": "Thương hiệu 03 [khe trống]",
+    "url": "/thuong-hieu/brand-03",
+    "section_id": 24,
+    "page": 60,
+    "page_range": [
+      59,
+      60
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Thương hiệu 03 [khe trống]\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đối tác robot mới – Thương hiệu 03 [khe trống] | IPPTech\" (56 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-066",
+    "section": "Giải pháp",
+    "url": "/giai-phap",
+    "section_id": 25,
+    "page": 61,
+    "page_range": [
+      61,
+      63
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Bố cục chia đôi: bên trái lớp học STEM, bên phải sảnh doanh nghiệp có robot lễ tân.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Giải pháp STEM và robot cho trường học và doanh nghiệp\" (54 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Cần ghép hai ảnh đúng lớp học STEM và sảnh doanh nghiệp. S01 chỉ bổ sung cảnh học sinh hoạt động với robot, chưa đủ cả hai nửa; không gắn ảnh cuộc thi thành lớp học.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-067",
+    "section": "Giải pháp",
+    "url": "/giai-phap",
+    "section_id": 25,
+    "page": 62,
+    "page_range": [
+      61,
+      63
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Bốn ảnh vuông cho bốn thẻ đối tượng: lớp học công lập, phòng lab trung tâm STEM, sảnh ngân hàng, sân khấu sự kiện.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Bốn nhóm giải pháp STEM và robot của IPPTech\" (44 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Cần bốn ảnh khác nhau đúng trường công lập, lab trung tâm STEM, sảnh ngân hàng và sân khấu. Chưa đủ bộ ảnh được xác minh; ảnh ROBOG không thay cả bốn nhóm.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-068",
+    "section": "Giải pháp",
+    "url": "/giai-phap",
+    "section_id": 25,
+    "page": 63,
+    "page_range": [
+      61,
+      63
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Giải pháp\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"giải pháp STEM và robot – Giải pháp | IPPTech\" (45 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-069",
+    "section": "Giáo dục công lập",
+    "url": "/giai-phap/giao-duc-cong-lap",
+    "section_id": 26,
+    "page": 64,
+    "page_range": [
+      64,
+      67
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Phòng thực hành STEM của một trường THCS công lập: bàn nhóm, học cụ robot, học sinh mặc đồng phục.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Phòng thực hành với thiết bị STEM cho trường học công lập\" (57 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa xác minh ảnh toàn cảnh phòng STEM tại trường THCS công lập. S01 là cuộc thi, không chứng minh loại trường hoặc phòng sau bàn giao; cần ảnh khách hàng được phép công bố.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-070",
+    "section": "Giáo dục công lập",
+    "url": "/giai-phap/giao-duc-cong-lap",
+    "section_id": 26,
+    "page": 65,
+    "page_range": [
+      64,
+      67
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Sơ đồ ba luồng dọc: cấp phường · cấp tỉnh · cấp bộ; mỗi luồng đánh dấu bước IPPTech tham gia.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Quy trình phối hợp mua sắm thiết bị STEM theo cấp quản lý\" (57 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-071",
+    "section": "Giáo dục công lập",
+    "url": "/giai-phap/giao-duc-cong-lap",
+    "section_id": 26,
+    "page": 67,
+    "page_range": [
+      64,
+      67
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Giáo dục công lập\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"thiết bị STEM cho trường học – Giáo dục công lập | IPPTech\" (58 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-072",
+    "section": "Phòng thực hành STEM theo danh mục thiết bị",
+    "url": "/giai-phap/giao-duc-cong-lap/phong-thuc-hanh-stem",
+    "section_id": 27,
+    "page": 68,
+    "page_range": [
+      68,
+      69
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Toàn cảnh phòng thực hành STEM: bàn nhóm 6 học sinh, tủ học cụ, màn hình trình chiếu.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Phòng thực hành STEM với học cụ AI & Robotics tại trường học\" (60 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-073",
+    "section": "Phòng thực hành STEM theo danh mục thiết bị",
+    "url": "/giai-phap/giao-duc-cong-lap/phong-thuc-hanh-stem",
+    "section_id": 27,
+    "page": 68,
+    "page_range": [
+      68,
+      69
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Phòng thực hành STEM theo danh mục thiết bị\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"phòng thực hành STEM – Phòng thực hành STEM theo danh mục thiết bị | IPPTech\" (76 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-074",
+    "section": "Cấu hình theo cấp học (TH / THCS / THPT)",
+    "url": "/giai-phap/giao-duc-cong-lap/cau-hinh-theo-cap-hoc",
+    "section_id": 28,
+    "page": 70,
+    "page_range": [
+      70,
+      71
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ba cụm học cụ xếp theo cấp học trên bàn: AI Fantasy Zoo, AI Super Engineer, Yanshee.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Cấu hình phòng STEM theo cấp học với học cụ UBTECH\" (50 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Cần chụp/nhận ảnh ba cụm AI Fantasy Zoo, AI Super Engineer và Yanshee đúng phiên bản VN; xác nhận cấp học trước khi gắn nhãn. Không thay bằng UGOT.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-075",
+    "section": "Cấu hình theo cấp học (TH / THCS / THPT)",
+    "url": "/giai-phap/giao-duc-cong-lap/cau-hinh-theo-cap-hoc",
+    "section_id": 28,
+    "page": 70,
+    "page_range": [
+      70,
+      71
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Cấu hình theo cấp học (TH / THCS / THPT)\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"cấu hình phòng STEM theo cấp học – Cấu hình theo cấp học (TH / THCS / THPT) | IPPTech\" (85 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-076",
+    "section": "Đề án cấp tỉnh / thành phố",
+    "url": "/giai-phap/giao-duc-cong-lap/de-an-cap-tinh",
+    "section_id": 29,
+    "page": 72,
+    "page_range": [
+      72,
+      73
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Cuộc họp làm việc giữa cán bộ quản lý giáo dục và chuyên viên IPPTech, trên bàn là hồ sơ đề án (không lộ nội dung).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Làm việc xây dựng đề án STEM cấp tỉnh\" (37 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp, xin phép người trong ảnh"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-077",
+    "section": "Đề án cấp tỉnh / thành phố",
+    "url": "/giai-phap/giao-duc-cong-lap/de-an-cap-tinh",
+    "section_id": 29,
+    "page": 72,
+    "page_range": [
+      72,
+      73
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đề án cấp tỉnh / thành phố\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đề án STEM cấp tỉnh – Đề án cấp tỉnh / thành phố | IPPTech\" (58 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-078",
+    "section": "Tập huấn giáo viên & chuyển giao",
+    "url": "/giai-phap/giao-duc-cong-lap/tap-huan-giao-vien",
+    "section_id": 30,
+    "page": 74,
+    "page_range": [
+      74,
+      75
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Giáo viên tiểu học thực hành lập trình robot trong buổi tập huấn.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Buổi tập huấn giáo viên STEM với học cụ robot\" (45 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-079",
+    "section": "Tập huấn giáo viên & chuyển giao",
+    "url": "/giai-phap/giao-duc-cong-lap/tap-huan-giao-vien",
+    "section_id": 30,
+    "page": 74,
+    "page_range": [
+      74,
+      75
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tập huấn giáo viên & chuyển giao\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"tập huấn giáo viên STEM – Tập huấn giáo viên & chuyển giao | IPPTech\" (68 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-080",
+    "section": "Trường tư & Trung tâm STEM",
+    "url": "/giai-phap/truong-tu-trung-tam",
+    "section_id": 31,
+    "page": 76,
+    "page_range": [
+      76,
+      77
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Học sinh trung tâm STEM trình diễn robot trước phụ huynh trong ngày hội.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Phòng lab STEM cho trường tư – học sinh trình diễn robot\" (56 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa có ảnh đúng ngày hội tại trung tâm STEM và phụ huynh. S01 có học sinh thi robot nhưng không chứng minh bối cảnh này; chỉ dùng làm ảnh bổ sung với chú thích cuộc thi.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-081",
+    "section": "Trường tư & Trung tâm STEM",
+    "url": "/giai-phap/truong-tu-trung-tam",
+    "section_id": 31,
+    "page": 77,
+    "page_range": [
+      76,
+      77
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Trường tư & Trung tâm STEM\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"phòng lab STEM cho trường tư – Trường tư & Trung tâm STEM | IPPTech\" (67 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-082",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "url": "/giai-phap/doanh-nghiep",
+    "section_id": 32,
+    "page": 78,
+    "page_range": [
+      78,
+      80
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot lễ tân Cruzr hướng dẫn khách tại sảnh ngân hàng, nhân viên phía sau quầy.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot dịch vụ cho doanh nghiệp đón khách tại sảnh ngân hàng\" (59 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-083",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "url": "/giai-phap/doanh-nghiep",
+    "section_id": 32,
+    "page": 79,
+    "page_range": [
+      78,
+      80
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Bốn ảnh vuông theo ngành: sảnh ngân hàng, showroom, trung tâm hành chính, bảo tàng.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot dịch vụ theo bốn ngành ứng dụng\" (37 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S06 phù hợp thẻ bảo tàng; còn ba thẻ ngân hàng, showroom và hành chính công cần nguồn ảnh riêng đúng bối cảnh. Không dùng ảnh sân bay cho các thẻ đó.",
+    "source_ids": [
+      "S06"
+    ]
+  },
+  {
+    "id": "IMG-084",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "url": "/giai-phap/doanh-nghiep",
+    "section_id": 32,
+    "page": 80,
+    "page_range": [
+      78,
+      80
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Doanh nghiệp & Dịch vụ công\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot dịch vụ cho doanh nghiệp – Doanh nghiệp & Dịch vụ công | IPPTech\" (70 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-085",
+    "section": "Ngân hàng & Bán lẻ",
+    "url": "/giai-phap/doanh-nghiep/ngan-hang-ban-le",
+    "section_id": 33,
+    "page": 81,
+    "page_range": [
+      81,
+      81
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot Cruzr trò chuyện với khách hàng tại sảnh chi nhánh ngân hàng.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot lễ tân cho ngân hàng hướng dẫn khách tại chi nhánh\" (56 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-086",
+    "section": "Ngân hàng & Bán lẻ",
+    "url": "/giai-phap/doanh-nghiep/ngan-hang-ban-le",
+    "section_id": 33,
+    "page": 81,
+    "page_range": [
+      81,
+      81
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Ngân hàng & Bán lẻ\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot lễ tân cho ngân hàng – Ngân hàng & Bán lẻ | IPPTech\" (57 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-087",
+    "section": "Bất động sản & Showroom",
+    "url": "/giai-phap/doanh-nghiep/bat-dong-san-showroom",
+    "section_id": 34,
+    "page": 82,
+    "page_range": [
+      82,
+      83
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot đứng cạnh sa bàn dự án trong sales gallery, khách đang xem màn hình robot.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot cho showroom giới thiệu dự án bất động sản\" (48 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-088",
+    "section": "Bất động sản & Showroom",
+    "url": "/giai-phap/doanh-nghiep/bat-dong-san-showroom",
+    "section_id": 34,
+    "page": 82,
+    "page_range": [
+      82,
+      83
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Bất động sản & Showroom\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot cho showroom – Bất động sản & Showroom | IPPTech\" (54 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-089",
+    "section": "Hành chính công & Y tế",
+    "url": "/giai-phap/doanh-nghiep/hanh-chinh-cong-y-te",
+    "section_id": 35,
+    "page": 84,
+    "page_range": [
+      84,
+      85
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot lễ tân hướng dẫn người dân tại trung tâm phục vụ hành chính công.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot hướng dẫn thủ tục hành chính cho người dân\" (48 ký tự)",
+      "Nguồn: Ảnh thật tại VN nếu có; tạm dùng ảnh hãng"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-090",
+    "section": "Hành chính công & Y tế",
+    "url": "/giai-phap/doanh-nghiep/hanh-chinh-cong-y-te",
+    "section_id": 35,
+    "page": 84,
+    "page_range": [
+      84,
+      85
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Hành chính công & Y tế\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot hướng dẫn thủ tục hành chính – Hành chính công & Y tế | IPPTech\" (69 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-091",
+    "section": "Du lịch, Bảo tàng & Sân bay",
+    "url": "/giai-phap/doanh-nghiep/du-lich-bao-tang",
+    "section_id": 36,
+    "page": 86,
+    "page_range": [
+      86,
+      86
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot Cruzr dẫn nhóm khách tham quan trong không gian bảo tàng.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Robot thuyết minh bảo tàng dẫn khách tham quan\" (46 ký tự)",
+      "Nguồn: Ảnh hãng; ưu tiên ảnh thật tại VN nếu có"
+    ],
+    "decision": "S06 đã xem: hai Cruzr bên khách trong bảo tàng, khớp địa điểm nhưng chưa thể hiện rõ đang dẫn một nhóm khách. Ứng viên gần phù hợp; lấy ảnh gốc và ghi đây là tư liệu hãng ở nước ngoài.",
+    "source_ids": [
+      "S06"
+    ]
+  },
+  {
+    "id": "IMG-092",
+    "section": "Du lịch, Bảo tàng & Sân bay",
+    "url": "/giai-phap/doanh-nghiep/du-lich-bao-tang",
+    "section_id": 36,
+    "page": 86,
+    "page_range": [
+      86,
+      86
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Du lịch, Bảo tàng & Sân bay\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"robot thuyết minh bảo tàng – Du lịch, Bảo tàng & Sân bay | IPPTech\" (66 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-093",
+    "section": "Sự kiện & Truyền thông thương hiệu",
+    "url": "/giai-phap/su-kien-truyen-thong",
+    "section_id": 37,
+    "page": 87,
+    "page_range": [
+      87,
+      88
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Robot U1 đứng trên sân khấu sự kiện ra mắt, khách chụp ảnh phía dưới.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Cho thuê robot sự kiện – robot trên sân khấu ra mắt sản phẩm\" (60 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Cần ảnh U1 đúng model trên sân khấu và có khán giả. S12 là nguồn đối chiếu UWORLD U1, chưa kiểm chứng ảnh sân khấu; không thay bằng robot hình người khác.",
+    "source_ids": [
+      "S12"
+    ]
+  },
+  {
+    "id": "IMG-094",
+    "section": "Sự kiện & Truyền thông thương hiệu",
+    "url": "/giai-phap/su-kien-truyen-thong",
+    "section_id": 37,
+    "page": 88,
+    "page_range": [
+      87,
+      88
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Sự kiện & Truyền thông thương hiệu\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"cho thuê robot sự kiện – Sự kiện & Truyền thông thương hiệu | IPPTech\" (69 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-095",
+    "section": "Sân chơi & Cuộc thi Robotics",
+    "url": "/giai-phap/cuoc-thi-robotics",
+    "section_id": 38,
+    "page": 89,
+    "page_range": [
+      89,
+      90
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Đội học sinh điều khiển robot trên sa bàn thi đấu ROBOG, khán giả phía sau.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Cuộc thi robotics học sinh ROBOG – đội thi điều khiển robot\" (59 ký tự)",
+      "Nguồn: Ảnh đã công bố của ROBOG — xin quyền dùng"
+    ],
+    "decision": "S01 ảnh 3 đúng học sinh điều khiển UGOT trên sa bàn ROBOG miền Bắc 2026. Khán giả phía sau không rõ; có thể chọn ảnh hoạt động với chú thích đúng năm, cần bản gốc nếu làm hero.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-096",
+    "section": "Sân chơi & Cuộc thi Robotics",
+    "url": "/giai-phap/cuoc-thi-robotics",
+    "section_id": 38,
+    "page": 90,
+    "page_range": [
+      89,
+      90
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Sân chơi & Cuộc thi Robotics\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"cuộc thi robotics học sinh – Sân chơi & Cuộc thi Robotics | IPPTech\" (67 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-097",
+    "section": "Dự án & Đối tác",
+    "url": "/du-an-doi-tac",
+    "section_id": 39,
+    "page": 91,
+    "page_range": [
+      91,
+      92
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ghép ảnh các dự án: phòng thực hành STEM, trung tâm AI, robot tại sự kiện.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Dự án robot giáo dục IPPTech đã triển khai\" (42 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-098",
+    "section": "Dự án & Đối tác",
+    "url": "/du-an-doi-tac",
+    "section_id": 39,
+    "page": 92,
+    "page_range": [
+      91,
+      92
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Dự án & Đối tác\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"dự án robot giáo dục – Dự án & Đối tác | IPPTech\" (48 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-099",
+    "section": "Dự án tiêu biểu",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu",
+    "section_id": 40,
+    "page": 93,
+    "page_range": [
+      93,
+      94
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Toàn cảnh một phòng thực hành STEM sau bàn giao, học sinh đang học.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Dự án phòng STEM IPPTech đã bàn giao tại trường học\" (51 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-100",
+    "section": "Dự án tiêu biểu",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu",
+    "section_id": 40,
+    "page": 94,
+    "page_range": [
+      93,
+      94
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh thẻ dự án vuông, mỗi dự án một ảnh thật tại hiện trường.",
+      "Kích thước: 800×800 px",
+      "Tỉ lệ: 1:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Ảnh thẻ dự án AI và phòng STEM\" (30 ký tự)",
+      "Nguồn: Ảnh thật / ảnh đã công bố — xin quyền dùng"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-101",
+    "section": "Dự án tiêu biểu",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu",
+    "section_id": 40,
+    "page": 94,
+    "page_range": [
+      93,
+      94
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Dự án tiêu biểu\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"dự án phòng STEM – Dự án tiêu biểu | IPPTech\" (44 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-102",
+    "section": "Trang chi tiết dự án (khuôn mẫu)",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/<slug-du-an>",
+    "section_id": 41,
+    "page": 95,
+    "page_range": [
+      95,
+      96
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh toàn cảnh phòng/khu vực sau bàn giao tại đơn vị.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Dự án phòng thực hành STEM tại [tên đơn vị]\" (43 ký tự)",
+      "Nguồn: Ảnh thật tại dự án — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-103",
+    "section": "Trang chi tiết dự án (khuôn mẫu)",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/<slug-du-an>",
+    "section_id": 41,
+    "page": 96,
+    "page_range": [
+      95,
+      96
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Album ảnh thực tế 6–12 ảnh: lắp đặt, tập huấn, học sinh sử dụng.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Album ảnh dự án phòng thực hành STEM tại [tên đơn vị]\" (53 ký tự)",
+      "Nguồn: Ảnh thật tại dự án"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-104",
+    "section": "Trang chi tiết dự án (khuôn mẫu)",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/<slug-du-an>",
+    "section_id": 41,
+    "page": 96,
+    "page_range": [
+      95,
+      96
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Trang chi tiết dự án (khuôn mẫu)\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"dự án phòng thực hành STEM – Trang chi tiết dự án (khuôn mẫu) | IPPTech\" (71 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-105",
+    "section": "Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/trung-tam-ai-dhqg-tphcm",
+    "section_id": 42,
+    "page": 97,
+    "page_range": [
+      97,
+      98
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Không gian Trung tâm Giáo dục đào tạo AI tại Khu công nghệ phần mềm ĐHQG TP.HCM.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Trung tâm AI ĐHQG TP.HCM tại Khu công nghệ phần mềm\" (51 ký tự)",
+      "Nguồn: Ảnh đã công bố trên ippgroup.vn — xin quyền dùng"
+    ],
+    "decision": "Ưu tiên ảnh đúng Trung tâm Giáo dục đào tạo AI tại ĐHQG TP.HCM từ bài IPPG đã công bố và ảnh đang dùng. Xác minh địa điểm, quyền dùng và lấy album gốc; không thay bằng gian hàng AI Zone.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-106",
+    "section": "Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/trung-tam-ai-dhqg-tphcm",
+    "section_id": 42,
+    "page": 98,
+    "page_range": [
+      97,
+      98
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"trung tâm AI ĐHQG TP.HCM – Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM | IPPTech\" (80 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-107",
+    "section": "Chương trình AI & Robotics cùng FPT Schools",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/fpt-schools-ai-robotics",
+    "section_id": 43,
+    "page": 99,
+    "page_range": [
+      99,
+      100
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh lễ ký kết hợp tác với FPT Schools đã công bố.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Ký kết chương trình AI & Robotics với FPT Schools\" (49 ký tự)",
+      "Nguồn: Ảnh đã công bố — xin quyền dùng"
+    ],
+    "decision": "Ưu tiên ảnh lễ ký FPT Schools–IPPG từ nguồn IPPG/FPT đã công bố đang có trên web; tách ngày sự kiện 15/12/2022 khỏi ngày đăng bài 22/12/2022. Lấy ảnh gốc đúng sự kiện.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-108",
+    "section": "Chương trình AI & Robotics cùng FPT Schools",
+    "url": "/du-an-doi-tac/du-an-tieu-bieu/fpt-schools-ai-robotics",
+    "section_id": 43,
+    "page": 100,
+    "page_range": [
+      99,
+      100
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Chương trình AI & Robotics cùng FPT Schools\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"chương trình AI & Robotics – Chương trình AI & Robotics cùng FPT Schools | IPPTech\" (82 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-109",
+    "section": "IPPTech qua những con số",
+    "url": "/du-an-doi-tac/con-so",
+    "section_id": 44,
+    "page": 101,
+    "page_range": [
+      101,
+      102
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Infographic nền thương hiệu với 6 ô chỉ số (để trống số, thiết kế khung).",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"IPPTech qua những con số – infographic năng lực\" (47 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-110",
+    "section": "IPPTech qua những con số",
+    "url": "/du-an-doi-tac/con-so",
+    "section_id": 44,
+    "page": 102,
+    "page_range": [
+      101,
+      102
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"IPPTech qua những con số\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"IPPTech qua những con số – IPPTech qua những con số | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-111",
+    "section": "Đối tác thương hiệu & ủy quyền",
+    "url": "/du-an-doi-tac/doi-tac-thuong-hieu",
+    "section_id": 45,
+    "page": 103,
+    "page_range": [
+      103,
+      104
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh lễ ký kết hợp tác giữa đại diện UBTECH và IPPTech.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Lễ ký kết nhà phân phối ủy quyền UBTECH – IPPTech\" (49 ký tự)",
+      "Nguồn: Ảnh thật — Marketing cung cấp"
+    ],
+    "decision": "Cần ảnh lễ ký giữa đại diện UBTECH và IPPTech. Ảnh ký với FPT hoặc ảnh đoàn giáo viên tại UBTECH không đúng hai chủ thể; chưa có ứng viên đã xác minh.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-112",
+    "section": "Đối tác thương hiệu & ủy quyền",
+    "url": "/du-an-doi-tac/doi-tac-thuong-hieu",
+    "section_id": 45,
+    "page": 103,
+    "page_range": [
+      103,
+      104
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Logo UBTECH trong bảng đối tác.",
+      "Kích thước: 400×200, nền trong suốt px",
+      "Tỉ lệ: 2:1",
+      "Định dạng: WebP (giữ nền trong suốt) hoặc PNG, ≤ 300 KB",
+      "Alt text: \"Logo UBTECH – hãng có nhà phân phối ủy quyền là IPPTech\" (55 ký tự)",
+      "Nguồn: Ảnh hãng"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-113",
+    "section": "Đối tác thương hiệu & ủy quyền",
+    "url": "/du-an-doi-tac/doi-tac-thuong-hieu",
+    "section_id": 45,
+    "page": 104,
+    "page_range": [
+      103,
+      104
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đối tác thương hiệu & ủy quyền\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"nhà phân phối ủy quyền UBTECH – Đối tác thương hiệu & ủy quyền | IPPTech\" (72 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-114",
+    "section": "Mạng lưới đại lý & nhà thầu",
+    "url": "/du-an-doi-tac/mang-luoi-dai-ly",
+    "section_id": 46,
+    "page": 105,
+    "page_range": [
+      105,
+      106
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Buổi tập huấn đại lý: nhân viên đại lý thực hành với học cụ robot.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Tập huấn mạng lưới đại lý thiết bị giáo dục IPPTech\" (51 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-115",
+    "section": "Mạng lưới đại lý & nhà thầu",
+    "url": "/du-an-doi-tac/mang-luoi-dai-ly",
+    "section_id": 46,
+    "page": 106,
+    "page_range": [
+      105,
+      106
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Mạng lưới đại lý & nhà thầu\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đại lý thiết bị giáo dục – Mạng lưới đại lý & nhà thầu | IPPTech\" (64 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-116",
+    "section": "Hợp tác cùng IPPTech",
+    "url": "/du-an-doi-tac/hop-tac",
+    "section_id": 47,
+    "page": 107,
+    "page_range": [
+      107,
+      108
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Cuộc họp hợp tác tại văn phòng IPPTech, hai bên bắt tay.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Buổi làm việc hợp tác cùng IPPTech tại văn phòng\" (48 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-117",
+    "section": "Hợp tác cùng IPPTech",
+    "url": "/du-an-doi-tac/hop-tac",
+    "section_id": 47,
+    "page": 108,
+    "page_range": [
+      107,
+      108
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Hợp tác cùng IPPTech\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"hợp tác cùng IPPTech – Hợp tác cùng IPPTech | IPPTech\" (53 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-118",
+    "section": "Tài nguyên",
+    "url": "/tai-nguyen",
+    "section_id": 48,
+    "page": 109,
+    "page_range": [
+      109,
+      110
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Bàn làm việc với catalogue in, máy tính bảng mở cổng học liệu.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Tài liệu robot giáo dục và catalogue IPPTech\" (44 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-119",
+    "section": "Tài nguyên",
+    "url": "/tai-nguyen",
+    "section_id": 48,
+    "page": 110,
+    "page_range": [
+      109,
+      110
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tài nguyên\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"tài liệu robot giáo dục – Tài nguyên | IPPTech\" (46 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-120",
+    "section": "Hồ sơ năng lực & Catalogue",
+    "url": "/tai-nguyen/ho-so-nang-luc",
+    "section_id": 49,
+    "page": 111,
+    "page_range": [
+      111,
+      112
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Bìa hồ sơ năng lực và catalogue IPPTech đặt cạnh nhau.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Hồ sơ năng lực IPPTech và catalogue sản phẩm UBTECH\" (51 ký tự)",
+      "Nguồn: Cần thiết kế — Marketing"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-121",
+    "section": "Hồ sơ năng lực & Catalogue",
+    "url": "/tai-nguyen/ho-so-nang-luc",
+    "section_id": 49,
+    "page": 112,
+    "page_range": [
+      111,
+      112
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Hồ sơ năng lực & Catalogue\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"hồ sơ năng lực IPPTech – Hồ sơ năng lực & Catalogue | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-122",
+    "section": "Hỗ trợ kỹ thuật & Bảo hành",
+    "url": "/tai-nguyen/ho-tro",
+    "section_id": 50,
+    "page": 113,
+    "page_range": [
+      113,
+      114
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Kỹ thuật viên IPPTech hỗ trợ giáo viên kiểm tra robot tại phòng thực hành.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Kỹ thuật viên hỗ trợ kỹ thuật robot tại trường học\" (50 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-123",
+    "section": "Hỗ trợ kỹ thuật & Bảo hành",
+    "url": "/tai-nguyen/ho-tro",
+    "section_id": 50,
+    "page": 114,
+    "page_range": [
+      113,
+      114
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Hỗ trợ kỹ thuật & Bảo hành\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"hỗ trợ kỹ thuật robot – Hỗ trợ kỹ thuật & Bảo hành | IPPTech\" (60 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-124",
+    "section": "Câu hỏi thường gặp",
+    "url": "/tai-nguyen/cau-hoi-thuong-gap",
+    "section_id": 51,
+    "page": 115,
+    "page_range": [
+      115,
+      117
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh minh họa: chuyên viên IPPTech trao đổi với cán bộ nhà trường tại bàn làm việc.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Giải đáp câu hỏi thường gặp của nhà trường\" (42 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-125",
+    "section": "Câu hỏi thường gặp",
+    "url": "/tai-nguyen/cau-hoi-thuong-gap",
+    "section_id": 51,
+    "page": 116,
+    "page_range": [
+      115,
+      117
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Câu hỏi thường gặp\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"câu hỏi thường gặp – Câu hỏi thường gặp | IPPTech\" (49 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-126",
+    "section": "Tin tức & Sự kiện",
+    "url": "/tin-tuc",
+    "section_id": 52,
+    "page": 118,
+    "page_range": [
+      118,
+      119
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh bài nổi bật: sự kiện trải nghiệm robot có đông học sinh tham gia.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Tin tức giáo dục STEM – sự kiện trải nghiệm robot\" (49 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S01 có đông học sinh tại ROBOG, có thể dùng nếu bài nổi bật nói đúng cuộc thi đó; không gắn cho sự kiện trải nghiệm khác. Cần bản gốc đủ rộng.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-127",
+    "section": "Tin tức & Sự kiện",
+    "url": "/tin-tuc",
+    "section_id": 52,
+    "page": 119,
+    "page_range": [
+      118,
+      119
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tin tức & Sự kiện\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"tin tức giáo dục STEM – Tin tức & Sự kiện | IPPTech\" (51 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-128",
+    "section": "Tin công ty",
+    "url": "/tin-tuc/tin-cong-ty",
+    "section_id": 53,
+    "page": 120,
+    "page_range": [
+      120,
+      121
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh đại diện chuyên mục: lễ bàn giao phòng thực hành STEM tại một trường.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Tin tức IPPTech – lễ bàn giao phòng thực hành STEM\" (50 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-129",
+    "section": "Tin công ty",
+    "url": "/tin-tuc/tin-cong-ty",
+    "section_id": 53,
+    "page": 121,
+    "page_range": [
+      120,
+      121
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tin công ty\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"tin tức IPPTech – Tin công ty | IPPTech\" (39 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-130",
+    "section": "Tin thương hiệu & sản phẩm mới",
+    "url": "/tin-tuc/thuong-hieu",
+    "section_id": 54,
+    "page": 122,
+    "page_range": [
+      122,
+      123
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh đại diện chuyên mục: sản phẩm UBTECH mới trên bàn trưng bày tại văn phòng IPPTech.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sản phẩm robot mới trưng bày tại IPPTech\" (40 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-131",
+    "section": "Tin thương hiệu & sản phẩm mới",
+    "url": "/tin-tuc/thuong-hieu",
+    "section_id": 54,
+    "page": 123,
+    "page_range": [
+      122,
+      123
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Tin thương hiệu & sản phẩm mới\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"sản phẩm robot mới – Tin thương hiệu & sản phẩm mới | IPPTech\" (61 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-132",
+    "section": "Chính sách & thị trường giáo dục",
+    "url": "/tin-tuc/chinh-sach-giao-duc",
+    "section_id": 55,
+    "page": 124,
+    "page_range": [
+      124,
+      125
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ảnh minh họa: văn bản hành chính và máy tính bảng mở trang cổng thông tin chính phủ (không lộ nội dung cụ thể).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Tóm tắt chính sách giáo dục STEM và thiết bị dạy học\" (52 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-133",
+    "section": "Chính sách & thị trường giáo dục",
+    "url": "/tin-tuc/chinh-sach-giao-duc",
+    "section_id": 55,
+    "page": 125,
+    "page_range": [
+      124,
+      125
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Chính sách & thị trường giáo dục\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"chính sách giáo dục STEM – Chính sách & thị trường giáo dục | IPPTech\" (69 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-134",
+    "section": "Sự kiện & triển lãm",
+    "url": "/tin-tuc/su-kien",
+    "section_id": 56,
+    "page": 126,
+    "page_range": [
+      126,
+      127
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Khách tham quan tương tác với robot tại gian hàng triển lãm của IPPTech.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sự kiện trải nghiệm robot tại gian hàng IPPTech\" (47 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S02 mới xác minh nội dung NIC 2023, chưa xem được ảnh; S13 đã xem gian Vietnam America Schools/AI Zone nhưng chưa chứng minh là gian IPPTech. Cả hai đang chờ kiểm chứng, chưa chọn ảnh cho brief này.",
+    "source_ids": [
+      "S02",
+      "S13"
+    ]
+  },
+  {
+    "id": "IMG-135",
+    "section": "Sự kiện & triển lãm",
+    "url": "/tin-tuc/su-kien",
+    "section_id": 56,
+    "page": 127,
+    "page_range": [
+      126,
+      127
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Sự kiện & triển lãm\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"sự kiện trải nghiệm robot – Sự kiện & triển lãm | IPPTech\" (57 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-136",
+    "section": "Báo chí & Press kit",
+    "url": "/tin-tuc/bao-chi",
+    "section_id": 57,
+    "page": 128,
+    "page_range": [
+      128,
+      129
+    ],
+    "type": "Logo / thiết kế / sơ đồ",
+    "brief": [
+      "[HÌNH] Bộ nhận diện IPPTech: logo các phiên bản màu trên nền sáng và nền tối.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Press kit IPPTech – bộ logo và nhận diện\" (40 ký tự)",
+      "Nguồn: Bộ nhận diện — Marketing cung cấp"
+    ],
+    "decision": "Thiết kế/nhận bộ nhận diện và số liệu chuẩn từ IPPTech; không lấy ảnh ngẫu nhiên trên mạng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-137",
+    "section": "Báo chí & Press kit",
+    "url": "/tin-tuc/bao-chi",
+    "section_id": 57,
+    "page": 129,
+    "page_range": [
+      128,
+      129
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Báo chí & Press kit\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"press kit IPPTech – Báo chí & Press kit | IPPTech\" (49 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-138",
+    "section": "Thư viện hình ảnh & video",
+    "url": "/tin-tuc/thu-vien",
+    "section_id": 58,
+    "page": 130,
+    "page_range": [
+      130,
+      131
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Ghép lưới ảnh thật: học sinh lập trình robot, robot lễ tân tại sảnh, đội thi ROBOG.",
+      "Kích thước: 1920×800 (mobile 750×1000) px",
+      "Tỉ lệ: 12:5 (mobile 3:4)",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Hình ảnh robot tại Việt Nam – lớp học, doanh nghiệp, cuộc thi\" (61 ký tự)",
+      "Nguồn: Ảnh thật tại VN — cần chụp"
+    ],
+    "decision": "S01 đáp ứng phần học sinh/đội thi ROBOG. Phần robot lễ tân tại sảnh cần ảnh riêng; S06 là bảo tàng nên không thay sảnh. Chỉ ghép các ảnh đã xác minh từng bối cảnh.",
+    "source_ids": [
+      "S01"
+    ]
+  },
+  {
+    "id": "IMG-139",
+    "section": "Thư viện hình ảnh & video",
+    "url": "/tin-tuc/thu-vien",
+    "section_id": 58,
+    "page": 131,
+    "page_range": [
+      130,
+      131
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Thư viện hình ảnh & video\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"hình ảnh robot tại Việt Nam – Thư viện hình ảnh & video | IPPTech\" (65 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-140",
+    "section": "Liên hệ",
+    "url": "/lien-he",
+    "section_id": 59,
+    "page": 132,
+    "page_range": [
+      132,
+      133
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Mặt tiền tòa nhà Centec Tower và khu lễ tân văn phòng IPPTech.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Liên hệ IPPTech tại văn phòng Centec Tower, TP.HCM\" (50 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-141",
+    "section": "Liên hệ",
+    "url": "/lien-he",
+    "section_id": 59,
+    "page": 133,
+    "page_range": [
+      132,
+      133
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Liên hệ\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"liên hệ IPPTech – Liên hệ | IPPTech\" (35 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-142",
+    "section": "Yêu cầu báo giá & hồ sơ thầu",
+    "url": "/lien-he/yeu-cau-bao-gia",
+    "section_id": 60,
+    "page": 134,
+    "page_range": [
+      134,
+      135
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Chuyên viên kinh doanh IPPTech chuẩn bị bộ hồ sơ báo giá tại bàn làm việc.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Chuẩn bị yêu cầu báo giá thiết bị STEM và hồ sơ thầu\" (52 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-143",
+    "section": "Yêu cầu báo giá & hồ sơ thầu",
+    "url": "/lien-he/yeu-cau-bao-gia",
+    "section_id": 60,
+    "page": 135,
+    "page_range": [
+      134,
+      135
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Yêu cầu báo giá & hồ sơ thầu\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"yêu cầu báo giá thiết bị STEM – Yêu cầu báo giá & hồ sơ thầu | IPPTech\" (70 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-144",
+    "section": "Đăng ký trải nghiệm robot",
+    "url": "/lien-he/dang-ky-trai-nghiem",
+    "section_id": 61,
+    "page": 136,
+    "page_range": [
+      136,
+      137
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Khu demo robot tại văn phòng IPPTech: Cruzr, Yanshee, bàn học cụ.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Khu đăng ký trải nghiệm robot tại văn phòng IPPTech\" (51 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-145",
+    "section": "Đăng ký trải nghiệm robot",
+    "url": "/lien-he/dang-ky-trai-nghiem",
+    "section_id": 61,
+    "page": 137,
+    "page_range": [
+      136,
+      137
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đăng ký trải nghiệm robot\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đăng ký trải nghiệm robot – Đăng ký trải nghiệm robot | IPPTech\" (63 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-146",
+    "section": "Đăng ký làm đại lý",
+    "url": "/lien-he/dang-ky-dai-ly",
+    "section_id": 62,
+    "page": 138,
+    "page_range": [
+      138,
+      139
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Buổi làm việc giữa IPPTech và một nhà thầu thiết bị địa phương.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Đăng ký làm đại lý thiết bị STEM cùng IPPTech\" (45 ký tự)",
+      "Nguồn: Ảnh thật — cần chụp"
+    ],
+    "decision": "Chưa tìm được ảnh công khai đã xác minh khớp đầy đủ. Cần ảnh nội bộ/chụp đúng chủ thể và hoạt động; không dùng ảnh đội ngũ, kho, văn phòng hoặc khách hàng khác để lấp chỗ trống.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-147",
+    "section": "Đăng ký làm đại lý",
+    "url": "/lien-he/dang-ky-dai-ly",
+    "section_id": 62,
+    "page": 139,
+    "page_range": [
+      138,
+      139
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Đăng ký làm đại lý\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"đăng ký làm đại lý – Đăng ký làm đại lý | IPPTech\" (49 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-148",
+    "section": "Sơ đồ website",
+    "url": "/so-do-website",
+    "section_id": 63,
+    "page": 140,
+    "page_range": [
+      140,
+      140
+    ],
+    "type": "Không cần ảnh nội dung",
+    "brief": [
+      "[HÌNH] Không cần ảnh nội dung; dùng biểu tượng sơ đồ đơn giản nếu cần.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Sơ đồ website IPPTech\" (21 ký tự)",
+      "Nguồn: Cần thiết kế — biểu tượng"
+    ],
+    "decision": "Không tìm ảnh nội dung; giữ trang nhẹ. Biểu tượng nếu cần và OG nhận diện riêng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-149",
+    "section": "Sơ đồ website",
+    "url": "/so-do-website",
+    "section_id": 63,
+    "page": 140,
+    "page_range": [
+      140,
+      140
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Sơ đồ website\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"sơ đồ website IPPTech – Sơ đồ website | IPPTech\" (47 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-150",
+    "section": "Chính sách bảo mật",
+    "url": "/chinh-sach-bao-mat",
+    "section_id": 64,
+    "page": 141,
+    "page_range": [
+      141,
+      141
+    ],
+    "type": "Không cần ảnh nội dung",
+    "brief": [
+      "[HÌNH] Không cần ảnh nội dung.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Chính sách bảo mật IPPTech\" (26 ký tự)",
+      "Nguồn: Không áp dụng"
+    ],
+    "decision": "Không tìm ảnh nội dung; giữ trang nhẹ. Biểu tượng nếu cần và OG nhận diện riêng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-151",
+    "section": "Chính sách bảo mật",
+    "url": "/chinh-sach-bao-mat",
+    "section_id": 64,
+    "page": 141,
+    "page_range": [
+      141,
+      141
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Chính sách bảo mật\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"chính sách bảo mật IPPTech – Chính sách bảo mật | IPPTech\" (57 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-152",
+    "section": "Điều khoản sử dụng",
+    "url": "/dieu-khoan-su-dung",
+    "section_id": 65,
+    "page": 142,
+    "page_range": [
+      142,
+      142
+    ],
+    "type": "Không cần ảnh nội dung",
+    "brief": [
+      "[HÌNH] Không cần ảnh nội dung.",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Điều khoản sử dụng website IPPTech\" (34 ký tự)",
+      "Nguồn: Không áp dụng"
+    ],
+    "decision": "Không tìm ảnh nội dung; giữ trang nhẹ. Biểu tượng nếu cần và OG nhận diện riêng.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-153",
+    "section": "Điều khoản sử dụng",
+    "url": "/dieu-khoan-su-dung",
+    "section_id": 65,
+    "page": 142,
+    "page_range": [
+      142,
+      142
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Điều khoản sử dụng\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"điều khoản sử dụng – Điều khoản sử dụng | IPPTech\" (49 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-154",
+    "section": "Trang 404",
+    "url": "/404",
+    "section_id": 66,
+    "page": 143,
+    "page_range": [
+      143,
+      143
+    ],
+    "type": "Ảnh / album / sản phẩm",
+    "brief": [
+      "[HÌNH] Minh họa robot Yanshee cầm tấm biển trống (ảnh sản phẩm thật, không vẽ nhân vật).",
+      "Kích thước: 1200×800 px",
+      "Tỉ lệ: 3:2",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"Không tìm thấy trang – robot IPPTech\" (36 ký tự)",
+      "Nguồn: Ảnh tự chụp — cần chụp"
+    ],
+    "decision": "Cần ảnh thật Yanshee cầm biển trống, dùng sản phẩm đúng model và chụp riêng nếu chưa có. Ảnh Yanshee thông thường chỉ dùng tạm khi bỏ yêu cầu cầm biển một cách minh bạch; không thay bằng nhân vật vẽ.",
+    "source_ids": []
+  },
+  {
+    "id": "IMG-155",
+    "section": "Trang 404",
+    "url": "/404",
+    "section_id": 66,
+    "page": 143,
+    "page_range": [
+      143,
+      143
+    ],
+    "type": "OG",
+    "brief": [
+      "[HÌNH] Ảnh chia sẻ mạng xã hội (OG) cho trang \"Trang 404\": ảnh chủ đạo của trang, logo IPPTech góc trái, tiêu đề ngắn ≤ 8 chữ.",
+      "Kích thước: 1200×630 px",
+      "Tỉ lệ: 1.91:1",
+      "Định dạng: WebP/JPG, ≤ 300 KB",
+      "Alt text: \"không tìm thấy trang – Trang 404 | IPPTech\" (42 ký tự)",
+      "Nguồn: Thiết kế từ ảnh hero/ảnh chính của trang"
+    ],
+    "decision": "Thiết kế OG riêng từ ảnh chính được chốt; không cần tìm 1 ảnh mạng xã hội mới cho mỗi OG.",
+    "source_ids": []
+  }
+]

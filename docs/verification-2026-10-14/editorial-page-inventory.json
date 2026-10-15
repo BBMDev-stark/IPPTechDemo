@@ -1,0 +1,415 @@
+[
+  {
+    "route": "/ve-ipptech/",
+    "layout": "company",
+    "unique_image_assets": 9,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/gioi-thieu/",
+    "layout": "company",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/ipp-group/",
+    "layout": "company",
+    "unique_image_assets": 7,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/nang-luc/",
+    "layout": "company",
+    "unique_image_assets": 8,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/nang-luc/phan-phoi/",
+    "layout": "company",
+    "unique_image_assets": 8,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/nang-luc/trien-khai/",
+    "layout": "company",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/nang-luc/bao-hanh/",
+    "layout": "resource",
+    "unique_image_assets": 2,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/nang-luc/dao-tao/",
+    "layout": "company",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/doi-ngu/",
+    "layout": "company",
+    "unique_image_assets": 3,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/ho-so-phap-ly/",
+    "layout": "resource",
+    "unique_image_assets": 0,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/ve-ipptech/tuyen-dung/",
+    "layout": "company",
+    "unique_image_assets": 3,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/",
+    "layout": "collection",
+    "unique_image_assets": 3,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/",
+    "layout": "company",
+    "unique_image_assets": 10,
+    "section_headings": 7,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/giao-duc/",
+    "layout": "collection",
+    "unique_image_assets": 14,
+    "section_headings": 7,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/cong-nghe/",
+    "layout": "collection",
+    "unique_image_assets": 7,
+    "section_headings": 7,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/ugot-full-kit/",
+    "layout": "product",
+    "unique_image_assets": 6,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/ai-fantasy-zoo/",
+    "layout": "product",
+    "unique_image_assets": 3,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/ai-super-engineer/",
+    "layout": "product",
+    "unique_image_assets": 3,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/yanshee/",
+    "layout": "product",
+    "unique_image_assets": 7,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/ukit-ai/",
+    "layout": "product",
+    "unique_image_assets": 8,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/cruzr/",
+    "layout": "product",
+    "unique_image_assets": 5,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/thuong-hieu/ubtech/u1/",
+    "layout": "product",
+    "unique_image_assets": 2,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/",
+    "layout": "collection",
+    "unique_image_assets": 12,
+    "section_headings": 8,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/giao-duc-cong-lap/",
+    "layout": "solution",
+    "unique_image_assets": 10,
+    "section_headings": 8,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/giao-duc-cong-lap/phong-thuc-hanh-stem/",
+    "layout": "solution",
+    "unique_image_assets": 8,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/giao-duc-cong-lap/cau-hinh-theo-cap-hoc/",
+    "layout": "solution",
+    "unique_image_assets": 9,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/giao-duc-cong-lap/de-an-cap-tinh/",
+    "layout": "solution",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/giao-duc-cong-lap/tap-huan-giao-vien/",
+    "layout": "solution",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/truong-tu-trung-tam/",
+    "layout": "solution",
+    "unique_image_assets": 9,
+    "section_headings": 8,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/doanh-nghiep/",
+    "layout": "solution",
+    "unique_image_assets": 5,
+    "section_headings": 9,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/doanh-nghiep/ngan-hang-ban-le/",
+    "layout": "solution",
+    "unique_image_assets": 2,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/doanh-nghiep/bat-dong-san-showroom/",
+    "layout": "solution",
+    "unique_image_assets": 2,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/doanh-nghiep/hanh-chinh-cong-y-te/",
+    "layout": "solution",
+    "unique_image_assets": 1,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/doanh-nghiep/du-lich-bao-tang/",
+    "layout": "solution",
+    "unique_image_assets": 3,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/su-kien-truyen-thong/",
+    "layout": "solution",
+    "unique_image_assets": 5,
+    "section_headings": 7,
+    "rendered": true
+  },
+  {
+    "route": "/giai-phap/cuoc-thi-robotics/",
+    "layout": "solution",
+    "unique_image_assets": 8,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/",
+    "layout": "collection",
+    "unique_image_assets": 6,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/du-an-tieu-bieu/",
+    "layout": "collection",
+    "unique_image_assets": 2,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/du-an-tieu-bieu/trung-tam-ai-dhqg-tphcm/",
+    "layout": "article",
+    "unique_image_assets": 4,
+    "section_headings": 7,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/du-an-tieu-bieu/fpt-schools-ai-robotics/",
+    "layout": "article",
+    "unique_image_assets": 2,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/con-so/",
+    "layout": "resource",
+    "unique_image_assets": 1,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/doi-tac-thuong-hieu/",
+    "layout": "company",
+    "unique_image_assets": 6,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/mang-luoi-dai-ly/",
+    "layout": "company",
+    "unique_image_assets": 6,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/du-an-doi-tac/hop-tac/",
+    "layout": "contact",
+    "unique_image_assets": 1,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/tai-nguyen/",
+    "layout": "resource",
+    "unique_image_assets": 1,
+    "section_headings": 2,
+    "rendered": true
+  },
+  {
+    "route": "/tai-nguyen/ho-so-nang-luc/",
+    "layout": "resource",
+    "unique_image_assets": 1,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/tai-nguyen/ho-tro/",
+    "layout": "contact",
+    "unique_image_assets": 1,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/tai-nguyen/cau-hoi-thuong-gap/",
+    "layout": "resource",
+    "unique_image_assets": 0,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/",
+    "layout": "collection",
+    "unique_image_assets": 4,
+    "section_headings": 5,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/tin-cong-ty/",
+    "layout": "collection",
+    "unique_image_assets": 2,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/thuong-hieu/",
+    "layout": "collection",
+    "unique_image_assets": 8,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/chinh-sach-giao-duc/",
+    "layout": "resource",
+    "unique_image_assets": 0,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/su-kien/",
+    "layout": "collection",
+    "unique_image_assets": 9,
+    "section_headings": 6,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/bao-chi/",
+    "layout": "resource",
+    "unique_image_assets": 1,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/tin-tuc/thu-vien/",
+    "layout": "collection",
+    "unique_image_assets": 45,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/lien-he/",
+    "layout": "contact",
+    "unique_image_assets": 0,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/lien-he/yeu-cau-bao-gia/",
+    "layout": "contact",
+    "unique_image_assets": 1,
+    "section_headings": 3,
+    "rendered": true
+  },
+  {
+    "route": "/lien-he/dang-ky-trai-nghiem/",
+    "layout": "contact",
+    "unique_image_assets": 1,
+    "section_headings": 4,
+    "rendered": true
+  },
+  {
+    "route": "/lien-he/dang-ky-dai-ly/",
+    "layout": "contact",
+    "unique_image_assets": 1,
+    "section_headings": 4,
+    "rendered": true
+  }
+]

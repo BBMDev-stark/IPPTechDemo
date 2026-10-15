@@ -5,3 +5,7 @@ out/
 *.zip
 *.log
 .research/
+.tmp/
+*.tsbuildinfo
+.private/
+.env.local

@@ -1,0 +1,17 @@
+IPPTech — kiểm tra chất lượng ảnh, 14/10/2026
+
+Phạm vi: kiểm kê độ phân giải các ảnh trong public/images và 54 đường dẫn ảnh riêng biệt trong HTML đã dựng. Kiểm tra trực quan các ảnh nguồn nhỏ và bản thay thế; kiểm tra trình duyệt trang tập huấn và cửa sổ xem ảnh uKit.
+
+Kết quả: 16 tài nguyên mới trong public/images/refined: 8 ảnh nguồn chính thức có kích thước tốt hơn, 1 logo UBTECH SVG nền trong suốt, 7 ảnh minh họa tái tạo bằng AI. Có 17 ánh xạ thay thế vì hai đường dẫn UGOT cũ dùng chung một ảnh mới. Chi tiết nguồn, kích thước và đường dẫn: refined-image-manifest.json.
+
+Ảnh AIC/FPT dùng tư liệu thật từ IPPG; không tái tạo người hoặc sự kiện bằng AI. Ảnh tái tạo được ghi rõ là minh họa AI và giữ liên kết tư liệu tham khảo. Không coi bản tái tạo là bằng chứng về cấu hình chính xác hay sự kiện thực tế.
+
+Hiển thị: cửa sổ xem ảnh và ảnh sản phẩm dùng scale-down để tránh kéo lớn quá số pixel nguồn. Ảnh nội dung giữ tỷ lệ tự nhiên; sơ đồ và ảnh màn hình không bị cắt. Logo vector không vỡ theo kích thước hiển thị.
+
+Công cụ tạo ảnh: image_gen, tham chiếu từng ảnh nguồn. Nội dung yêu cầu chung: phục hồi độ rõ, giữ bố cục, tỷ lệ, màu sắc, hình dáng robot và bối cảnh; không thêm vật thể hoặc chữ mới; đầu ra trên 1.000 px. Các lượt hiệu chỉnh loại bỏ chữ/logo sai do AI sinh ra trên dây đeo, máy chiếu và tường lớp học. Đây là tóm tắt yêu cầu tạo ảnh, không phải bản chép nguyên văn mọi lượt prompt.
+
+Bảy đầu ra AI: ukit-ai-mobile-model-ai.webp; ukit-ai-sorting-model-ai.webp; training-workshop-ai.webp; training-online-ai.webp; ai-lab-ai.webp; education-case-2-ai.webp; education-case-3-ai.webp.
+
+Kiểm tra: next build thành công; check-content-retention.py PASS 1.139 mục trên 65 trang; check-content.mjs PASS; check-links.mjs PASS 85 trang HTML không thiếu đích liên kết hoặc tài nguyên.
+
+Giới hạn: độ nét của ảnh tư liệu thật phụ thuộc bản gốc công bố; không cam kết chi tiết sắc nét ở mọi mức zoom hoặc mật độ màn hình. Các file nguồn cũ vẫn được giữ để đối chiếu và khôi phục.

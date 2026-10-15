@@ -1,0 +1,140 @@
+# Dữ liệu còn thiếu theo phụ lục tài liệu
+
+Danh sách nội bộ, không đăng lên website.
+
+- [ ] số tỉnh/thành đã triển khai — dùng ở: Trang chủ; Dự án & Đối tác; IPPTech qua những con số
+- [ ] số trường đã triển khai — dùng ở: Trang chủ; Dự án & Đối tác; IPPTech qua những con số
+- [ ] số thiết bị đã bàn giao — dùng ở: Trang chủ; Dự án & Đối tác; IPPTech qua những con số
+- [ ] số năm hoạt động — dùng ở: Trang chủ
+- [ ] năm thành lập và sự kiện — dùng ở: Về IPPTech
+- [ ] năm ký kết phân phối UBTECH — dùng ở: Về IPPTech
+- [ ] các cột mốc tiếp theo — dùng ở: Về IPPTech
+- [ ] thông điệp lãnh đạo 80–120 chữ, kèm họ tên, chức danh — dùng ở: Giới thiệu & Tầm nhìn
+- [ ] cột mốc theo năm, từ khi thành lập — dùng ở: Giới thiệu & Tầm nhìn
+- [ ] số năm hoạt động của IPPG — dùng ở: IPPTech trong hệ sinh thái IPP Group
+- [ ] số thương hiệu quốc tế IPPG phân phối — dùng ở: IPPTech trong hệ sinh thái IPP Group
+- [ ] quy mô hệ thống IPPG theo số liệu đã công bố — dùng ở: IPPTech trong hệ sinh thái IPP Group
+- [ ] danh sách công ty thành viên được phép nêu trên sơ đồ — dùng ở: IPPTech trong hệ sinh thái IPP Group
+- [ ] ảnh, họ tên, chức danh, một dòng kinh nghiệm của từng thành viên ban điều hành — dùng ở: Đội ngũ & Ban điều hành
+- [ ] năm bắt đầu hợp tác với UBTECH — dùng ở: Thương hiệu & Sản phẩm
+- [ ] tên, logo, hồ sơ thương hiệu 02 khi ký kết — dùng ở: Thương hiệu 02 [khe trống]
+- [ ] tên, logo, hồ sơ thương hiệu 03 khi ký kết — dùng ở: Thương hiệu 03 [khe trống]
+- [ ] số giáo viên đã tập huấn (số tổng hợp) — dùng ở: Tập huấn giáo viên & chuyển giao
+- [ ] số giáo viên đã tập huấn — dùng ở: Dự án & Đối tác; IPPTech qua những con số
+- [ ] quy mô trung tâm theo số liệu đã công bố — dùng ở: Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM
+- [ ] thiết bị, chương trình đã triển khai tại trung tâm — dùng ở: Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM
+- [ ] con số hoạt động đã công bố của trung tâm — dùng ở: Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM
+- [ ] xác nhận vai trò IPPTech trong dự án và đồng ý đăng như dự án của IPPTech — dùng ở: Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM; Chương trình AI & Robotics cùng FPT Schools
+- [ ] học cụ và phạm vi đã công bố — dùng ở: Chương trình AI & Robotics cùng FPT Schools
+- [ ] mốc cập nhật chỉ số — dùng ở: IPPTech qua những con số
+- [ ] số học sinh tiếp cận — dùng ở: IPPTech qua những con số
+- [ ] số sự kiện — dùng ở: IPPTech qua những con số
+- [ ] số liệu theo năm cho biểu đồ — dùng ở: IPPTech qua những con số
+- [ ] năm bắt đầu hợp tác UBTECH — dùng ở: Đối tác thương hiệu & ủy quyền
+- [ ] thời gian phản hồi cam kết cho đề xuất hợp tác — dùng ở: Hợp tác cùng IPPTech
+- [ ] email đầu mối luồng hãng — dùng ở: Hợp tác cùng IPPTech
+- [ ] bộ số liệu đã duyệt công bố — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] tên dự án trường công đã được khách hàng đồng ý công bố — dùng ở: Trang chủ
+- [ ] con số kết quả đã công bố cho từng dự án — dùng ở: Trang chủ
+- [ ] email chung bộ phận hồ sơ thầu — dùng ở: Hồ sơ pháp lý & Chứng nhận
+- [ ] số điện thoại bàn bộ phận hồ sơ thầu — dùng ở: Hồ sơ pháp lý & Chứng nhận
+- [ ] số liệu hồ sơ hãng đã công bố chính thức — dùng ở: UBTECH — Tổng quan thương hiệu
+- [ ] dự án trường học đã được đồng ý công bố — dùng ở: UBTECH — Giáo dục
+- [ ] dự án trường công lập đã được khách hàng đồng ý công bố — dùng ở: Giải pháp
+- [ ] xác nhận khảo sát miễn phí áp dụng cho khu vực nào — dùng ở: Giải pháp
+- [ ] danh sách địa phương/trường đã triển khai và được đồng ý công bố — dùng ở: Giáo dục công lập
+- [ ] chỉ số đo được từ dự án đã triển khai — dùng ở: Doanh nghiệp & Dịch vụ công
+- [ ] dự án ngân hàng/bán lẻ đã được khách đồng ý công bố — dùng ở: Ngân hàng & Bán lẻ
+- [ ] dự án showroom/bất động sản đã được khách đồng ý công bố — dùng ở: Bất động sản & Showroom
+- [ ] dự án hành chính công/y tế đã được đồng ý công bố — dùng ở: Hành chính công & Y tế
+- [ ] dự án du lịch/bảo tàng đã được đồng ý công bố — dùng ở: Du lịch, Bảo tàng & Sân bay
+- [ ] dự án trường công lập đã được đồng ý công bố — dùng ở: Dự án & Đối tác
+- [ ] tên dự án, địa phương, năm, quy mô, một con số kết quả — dùng ở: Dự án tiêu biểu
+- [ ] kết quả và trích dẫn đã được FPT Schools đồng ý công bố — dùng ở: Chương trình AI & Robotics cùng FPT Schools
+- [ ] danh sách khu vực có đại lý đã đồng ý công bố tên — dùng ở: Mạng lưới đại lý & nhà thầu
+- [ ] email đầu mối luồng đại lý — dùng ở: Hợp tác cùng IPPTech
+- [ ] email đầu mối luồng trường học — dùng ở: Hợp tác cùng IPPTech
+- [ ] bổ sung câu hỏi thực tế khách hay hỏi — dùng ở: Câu hỏi thường gặp
+- [ ] thời gian phản hồi cam kết — dùng ở: Liên hệ
+- [ ] thời gian phản hồi báo giá cam kết — dùng ở: Yêu cầu báo giá & hồ sơ thầu
+- [ ] số điện thoại bàn Phòng Kinh doanh — dùng ở: Yêu cầu báo giá & hồ sơ thầu
+- [ ] điều kiện demo tại đơn vị (khu vực, số người tối thiểu) — dùng ở: Đăng ký trải nghiệm robot
+- [ ] thời gian phản hồi đăng ký đại lý — dùng ở: Đăng ký làm đại lý
+- [ ] thời gian phản hồi cam kết — dùng ở: Năng lực & Mô hình dịch vụ
+- [ ] thời gian có mặt theo khu vực — dùng ở: Năng lực & Mô hình dịch vụ
+- [ ] xác nhận có kho phụ tùng và địa điểm — dùng ở: Năng lực & Mô hình dịch vụ
+- [ ] số kỹ thuật viên và chứng chỉ hãng — dùng ở: Năng lực & Mô hình dịch vụ
+- [ ] thời gian triển khai điển hình cho một phòng — dùng ở: Triển khai, lắp đặt & bàn giao
+- [ ] chính sách bảo hành chuẩn (file PDF) — dùng ở: Bảo hành, bảo trì & hỗ trợ kỹ thuật
+- [ ] CO/CQ mẫu theo dòng sản phẩm — dùng ở: Hồ sơ pháp lý & Chứng nhận
+- [ ] xác nhận cấp học — dùng ở: UBTECH — Giáo dục
+- [ ] danh mục linh kiện UGOT Full Kit theo phiên bản VN — dùng ở: UGOT Full Kit
+- [ ] danh mục linh kiện AI Fantasy Zoo — dùng ở: AI Fantasy Zoo
+- [ ] danh mục linh kiện AI Super Engineer — dùng ở: AI Super Engineer
+- [ ] danh mục phụ kiện Yanshee — dùng ở: Robot hình người Yanshee
+- [ ] danh mục linh kiện UKit AI — dùng ở: UKit AI
+- [ ] thời lượng pin Cruzr bản VN — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] thời lượng pin U1 bản VN — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] danh sách ngôn ngữ, có tiếng Việt không — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] danh sách ngôn ngữ U1 — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] tên nền tảng quản trị nội dung — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] nền tảng quản trị U1 — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] xác nhận phiên bản Cruzr cung cấp tại VN — dùng ở: Robot lễ tân Cruzr
+- [ ] thông số U1 phiên bản cung cấp tại VN — dùng ở: Robot hình người U1
+- [ ] nhóm thiết bị theo danh mục thiết bị dạy học tối thiểu hiện hành — dùng ở: Giáo dục công lập
+- [ ] sản phẩm tương ứng — dùng ở: Giáo dục công lập
+- [ ] yêu cầu về hoạt động giáo dục STEM theo văn bản hướng dẫn — dùng ở: Giáo dục công lập
+- [ ] sản phẩm và học liệu tương ứng — dùng ở: Giáo dục công lập
+- [ ] ngày cập nhật bảng đối chiếu — dùng ở: Giáo dục công lập
+- [ ] số hiệu văn bản danh mục thiết bị để trích dẫn — dùng ở: Phòng thực hành STEM theo danh mục thiết bị
+- [ ] bản vẽ bố trí phòng mẫu theo diện tích — dùng ở: Phòng thực hành STEM theo danh mục thiết bị
+- [ ] file thuyết minh đề án mẫu và danh mục kỹ thuật — dùng ở: Đề án cấp tỉnh / thành phố
+- [ ] thông số hạ tầng tối thiểu (bề rộng lối đi, băng thông Wi-Fi, nguồn điện) — dùng ở: Doanh nghiệp & Dịch vụ công
+- [ ] xác nhận robot có hỗ trợ tiếng Việt và các ngôn ngữ nào — dùng ở: Du lịch, Bảo tàng & Sân bay
+- [ ] bảng thông số đã duyệt — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] bảng đối chiếu đã duyệt — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] thời gian phản hồi form — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] số hotline kỹ thuật — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] khung giờ trực — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] email kỹ thuật chung — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] thời gian phản hồi email — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] chính sách bảo hành và phụ tùng (file PDF) — dùng ở: Hỗ trợ kỹ thuật & Bảo hành
+- [ ] số hiệu, ngày ban hành, link văn bản gốc — dùng ở: Chính sách & thị trường giáo dục
+- [ ] file bản tóm tắt danh mục thiết bị — dùng ở: Chính sách & thị trường giáo dục
+- [ ] video thương hiệu UBTECH có quyền sử dụng, ưu tiên bản có phụ đề tiếng Việt — dùng ở: UBTECH — Tổng quan thương hiệu
+- [ ] video/ảnh robot đang hoạt động tại Việt Nam — dùng ở: UBTECH — Robot dịch vụ & Công nghệ
+- [ ] ảnh/video sự kiện đã làm và đồng ý công bố — dùng ở: Sự kiện & Truyền thông thương hiệu
+- [ ] số mùa ROBOG — dùng ở: Sân chơi & Cuộc thi Robotics
+- [ ] số đội và số tỉnh mùa gần nhất — dùng ở: Sân chơi & Cuộc thi Robotics
+- [ ] album ảnh mùa ROBOG gần nhất có quyền sử dụng — dùng ở: Sân chơi & Cuộc thi Robotics
+- [ ] logo đối tác và khách hàng được đồng ý hiển thị — dùng ở: Dự án & Đối tác
+- [ ] phiên bản và ngày cập nhật hồ sơ năng lực VN — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] phiên bản và ngày cập nhật hồ sơ năng lực EN — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] phiên bản catalogue Giáo dục — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] phiên bản catalogue Robot dịch vụ — dùng ở: Hồ sơ năng lực & Catalogue
+- [ ] lịch sự kiện và buổi demo sắp tới — dùng ở: Tin tức & Sự kiện
+- [ ] tên, thời gian, địa điểm các sự kiện sắp tới — dùng ở: Sự kiện & triển lãm
+- [ ] lịch demo định kỳ — dùng ở: Sự kiện & triển lãm
+- [ ] danh sách bài báo đã đăng về IPPTech — dùng ở: Báo chí & Press kit
+- [ ] gói press kit ZIP gồm logo, ảnh có quyền sử dụng — dùng ở: Báo chí & Press kit
+- [ ] xác nhận tên tiếng Anh chính thức của IPPG — dùng ở: Báo chí & Press kit
+- [ ] email truyền thông chung — dùng ở: Báo chí & Press kit
+- [ ] số điện thoại truyền thông — dùng ở: Báo chí & Press kit
+- [ ] album ảnh và video thực tế tại VN có quyền sử dụng — dùng ở: Thư viện hình ảnh & video
+- [ ] hotline chung — dùng ở: Trang chủ; Liên hệ
+- [ ] email chung — dùng ở: Trang chủ; Liên hệ
+- [ ] mã số doanh nghiệp — dùng ở: Giới thiệu & Tầm nhìn; Liên hệ
+- [ ] bản scan giấy đăng ký doanh nghiệp, mã số thuế — dùng ở: Hồ sơ pháp lý & Chứng nhận
+- [ ] thư ủy quyền phân phối UBTECH còn hiệu lực — dùng ở: Hồ sơ pháp lý & Chứng nhận
+- [ ] xác nhận phạm vi ủy quyền theo thư ủy quyền hiện hành — dùng ở: Đối tác thương hiệu & ủy quyền
+- [ ] email chức năng cho từng luồng — dùng ở: Liên hệ
+- [ ] giờ làm việc — dùng ở: Liên hệ
+- [ ] email tiếp nhận yêu cầu dữ liệu cá nhân — dùng ở: Chính sách bảo mật
+- [ ] nội dung chính sách bảo mật đầy đủ theo quy định bảo vệ dữ liệu cá nhân hiện hành, pháp chế duyệt — dùng ở: Chính sách bảo mật
+- [ ] điều khoản sử dụng đầy đủ, pháp chế duyệt — dùng ở: Điều khoản sử dụng
+- [ ] danh sách vị trí đang tuyển và mô tả công việc — dùng ở: Tuyển dụng
+- [ ] email tuyển dụng — dùng ở: Tuyển dụng
+- [ ] điều kiện từng mô hình — dùng ở: Trường tư & Trung tâm STEM
+- [ ] bảng giá mua/thuê — dùng ở: Doanh nghiệp & Dịch vụ công
+- [ ] bảng giá thuê theo gói — dùng ở: Sự kiện & Truyền thông thương hiệu
+- [ ] chính sách thương mại đại lý — dùng ở: Mạng lưới đại lý & nhà thầu

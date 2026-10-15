@@ -1,0 +1,513 @@
+[
+  {
+    "file": "common-logo-ippg.png",
+    "w": 1412,
+    "h": 286,
+    "bytes": 34010,
+    "format": "png"
+  },
+  {
+    "file": "common-logo-ubtech.png",
+    "w": 599,
+    "h": 333,
+    "bytes": 5570,
+    "format": "png"
+  },
+  {
+    "file": "du-an-doi-tac-ai-center-dai-hoc-quoc-gia-img-1.jpeg",
+    "w": 600,
+    "h": 288,
+    "bytes": 55732,
+    "format": "jpeg"
+  },
+  {
+    "file": "du-an-doi-tac-fpt-school-img-1.jpeg",
+    "w": 600,
+    "h": 415,
+    "bytes": 66309,
+    "format": "jpeg"
+  },
+  {
+    "file": "du-an-img-1.jpg",
+    "w": 600,
+    "h": 411,
+    "bytes": 72604,
+    "format": "jpeg"
+  },
+  {
+    "file": "du-an-img-2.jpg",
+    "w": 600,
+    "h": 415,
+    "bytes": 66309,
+    "format": "jpeg"
+  },
+  {
+    "file": "giai-phap-doanh-nghiep-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 227851,
+    "format": "jpeg"
+  },
+  {
+    "file": "giai-phap-giao-duc-ai-center-img-1.jpeg",
+    "w": 600,
+    "h": 411,
+    "bytes": 72604,
+    "format": "jpeg"
+  },
+  {
+    "file": "giai-phap-giao-duc-phong-thuc-hanh-stem-img-1.png",
+    "w": 680,
+    "h": 800,
+    "bytes": 353062,
+    "format": "png"
+  },
+  {
+    "file": "giai-phap-su-kien-truyen-thong-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 227851,
+    "format": "jpeg"
+  },
+  {
+    "file": "home-img-1.png",
+    "w": 1080,
+    "h": 963,
+    "bytes": 623911,
+    "format": "png"
+  },
+  {
+    "file": "home-img-2.png",
+    "w": 680,
+    "h": 800,
+    "bytes": 353062,
+    "format": "png"
+  },
+  {
+    "file": "home-img-3.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 227851,
+    "format": "jpeg"
+  },
+  {
+    "file": "home-img-4.jpg",
+    "w": 600,
+    "h": 411,
+    "bytes": 72604,
+    "format": "jpeg"
+  },
+  {
+    "file": "home-img-5.jpg",
+    "w": 600,
+    "h": 415,
+    "bytes": 66309,
+    "format": "jpeg"
+  },
+  {
+    "file": "home-img-7.jpg",
+    "w": 600,
+    "h": 415,
+    "bytes": 66309,
+    "format": "jpeg"
+  },
+  {
+    "file": "home-img-8.png",
+    "w": 440,
+    "h": 680,
+    "bytes": 98214,
+    "format": "png"
+  },
+  {
+    "file": "intro-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 194915,
+    "format": "jpeg"
+  },
+  {
+    "file": "ipptech-silver-pavilion.webp",
+    "w": 1672,
+    "h": 941,
+    "bytes": 75660,
+    "format": "webp"
+  },
+  {
+    "file": "tin-tuc-img-1.jpg",
+    "w": 600,
+    "h": 415,
+    "bytes": 66309,
+    "format": "jpeg"
+  },
+  {
+    "file": "tin-tuc-img-2.png",
+    "w": 440,
+    "h": 680,
+    "bytes": 98214,
+    "format": "png"
+  },
+  {
+    "file": "ubtech-ai-fantasy-zoo-img-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "bytes": 191616,
+    "format": "jpeg"
+  },
+  {
+    "file": "ubtech-ai-super-engineer-img-1.webp",
+    "w": 1000,
+    "h": 1000,
+    "bytes": 60532,
+    "format": "webp"
+  },
+  {
+    "file": "ubtech-cruzr-edu-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 227851,
+    "format": "jpeg"
+  },
+  {
+    "file": "ubtech-cruzr-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 227851,
+    "format": "jpeg"
+  },
+  {
+    "file": "ubtech-u1-img-1.jpg",
+    "w": 1920,
+    "h": 950,
+    "bytes": 473103,
+    "format": "jpeg"
+  },
+  {
+    "file": "ubtech-ugot-full-kit-img-1.png",
+    "w": 440,
+    "h": 680,
+    "bytes": 98214,
+    "format": "png"
+  },
+  {
+    "file": "ubtech-ukit-ai-img-1.png",
+    "w": 683,
+    "h": 647,
+    "bytes": 90534,
+    "format": "png"
+  },
+  {
+    "file": "ubtech-walker-s2-edu-img-1.jpg",
+    "w": 1920,
+    "h": 1000,
+    "bytes": 194915,
+    "format": "jpeg"
+  },
+  {
+    "file": "ubtech-yanshee-img-1.png",
+    "w": 763,
+    "h": 860,
+    "bytes": 397819,
+    "format": "png"
+  },
+  {
+    "file": "audit-refresh\\cruzr-1s-greeting.webp",
+    "w": 1920,
+    "h": 1080,
+    "bytes": 195974,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\cruzr-1s-guidance.webp",
+    "w": 1920,
+    "h": 1080,
+    "bytes": 88154,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\cruzr-1s-scenarios.webp",
+    "w": 1920,
+    "h": 1080,
+    "bytes": 160460,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ugot-components.webp",
+    "w": 440,
+    "h": 680,
+    "bytes": 24968,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ugot-hands-on.webp",
+    "w": 680,
+    "h": 800,
+    "bytes": 56790,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ugot-vision.webp",
+    "w": 920,
+    "h": 1080,
+    "bytes": 81828,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ukit-ai-controller.webp",
+    "w": 575,
+    "h": 631,
+    "bytes": 52446,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ukit-ai-mobile-model.webp",
+    "w": 252,
+    "h": 319,
+    "bytes": 13476,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\ukit-ai-sorting-model.webp",
+    "w": 252,
+    "h": 319,
+    "bytes": 11912,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\yanshee-coding.webp",
+    "w": 736,
+    "h": 717,
+    "bytes": 87106,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\yanshee-hardware.webp",
+    "w": 935,
+    "h": 640,
+    "bytes": 38300,
+    "format": "webp"
+  },
+  {
+    "file": "audit-refresh\\yanshee-platform.webp",
+    "w": 763,
+    "h": 860,
+    "bytes": 70470,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\ai-base.webp",
+    "w": 803,
+    "h": 575,
+    "bytes": 56100,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\ai-center.webp",
+    "w": 803,
+    "h": 575,
+    "bytes": 66766,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\ai-lab.webp",
+    "w": 803,
+    "h": 575,
+    "bytes": 117770,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\aic-classroom.webp",
+    "w": 600,
+    "h": 400,
+    "bytes": 33038,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\aic-exhibition.webp",
+    "w": 600,
+    "h": 411,
+    "bytes": 49772,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\aic-robots.webp",
+    "w": 600,
+    "h": 315,
+    "bytes": 54480,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\class-teaching.webp",
+    "w": 648,
+    "h": 332,
+    "bytes": 31484,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\competition-practice.webp",
+    "w": 750,
+    "h": 385,
+    "bytes": 84060,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\education-case-1.webp",
+    "w": 800,
+    "h": 450,
+    "bytes": 70992,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\education-case-2.webp",
+    "w": 800,
+    "h": 450,
+    "bytes": 51380,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\education-case-3.webp",
+    "w": 800,
+    "h": 450,
+    "bytes": 52052,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\education-case-4.webp",
+    "w": 800,
+    "h": 450,
+    "bytes": 59858,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\education-case-5.webp",
+    "w": 800,
+    "h": 450,
+    "bytes": 34124,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\fpt-speech.webp",
+    "w": 600,
+    "h": 400,
+    "bytes": 31776,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\lab-overview.webp",
+    "w": 1600,
+    "h": 678,
+    "bytes": 80780,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\lab-school.webp",
+    "w": 1373,
+    "h": 490,
+    "bytes": 84812,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\python-screen.webp",
+    "w": 649,
+    "h": 332,
+    "bytes": 25840,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\robotics-competition.webp",
+    "w": 959,
+    "h": 868,
+    "bytes": 192288,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\simulation-screen.webp",
+    "w": 647,
+    "h": 332,
+    "bytes": 31514,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\teacher-program.webp",
+    "w": 1320,
+    "h": 652,
+    "bytes": 58084,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\training-online.webp",
+    "w": 600,
+    "h": 350,
+    "bytes": 20432,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\training-workshop.webp",
+    "w": 600,
+    "h": 350,
+    "bytes": 24748,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\ucode-screen.webp",
+    "w": 647,
+    "h": 332,
+    "bytes": 22278,
+    "format": "webp"
+  },
+  {
+    "file": "editorial\\ugot-learning.webp",
+    "w": 680,
+    "h": 800,
+    "bytes": 88490,
+    "format": "webp"
+  },
+  {
+    "file": "social\\cruzr-kunming-airport.webp",
+    "w": 500,
+    "h": 375,
+    "bytes": 44944,
+    "format": "webp"
+  },
+  {
+    "file": "social\\cruzr-museum.webp",
+    "w": 826,
+    "h": 434,
+    "bytes": 27018,
+    "format": "webp"
+  },
+  {
+    "file": "social\\robog-awards-2026.webp",
+    "w": 800,
+    "h": 530,
+    "bytes": 78930,
+    "format": "webp"
+  },
+  {
+    "file": "social\\robog-podium-2026.webp",
+    "w": 800,
+    "h": 533,
+    "bytes": 77980,
+    "format": "webp"
+  },
+  {
+    "file": "social\\robog-team-2026.webp",
+    "w": 800,
+    "h": 533,
+    "bytes": 65480,
+    "format": "webp"
+  },
+  {
+    "file": "social\\robog-ugot-arena-2026.webp",
+    "w": 800,
+    "h": 533,
+    "bytes": 61906,
+    "format": "webp"
+  },
+  {
+    "file": "social\\robog-ugot-programming-2026.webp",
+    "w": 800,
+    "h": 533,
+    "bytes": 59508,
+    "format": "webp"
+  }
+]

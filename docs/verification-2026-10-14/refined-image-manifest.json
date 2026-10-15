@@ -1,0 +1,165 @@
+[
+  {
+    "old": "/images/du-an-doi-tac-ai-center-dai-hoc-quoc-gia-img-1.jpeg",
+    "src": "/images/refined/aic-launch.webp",
+    "width": 1600,
+    "height": 768,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2021/T4/Khai-truong-AIC.jpg",
+    "input": ".research/high-resolution/aic-launch.jpg",
+    "bytes": 296148
+  },
+  {
+    "old": "/images/du-an-doi-tac-fpt-school-img-1.jpeg",
+    "src": "/images/refined/fpt-partnership.webp",
+    "width": 800,
+    "height": 553,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2022/T12/IPPG-bo-sach-AI.jpeg",
+    "input": ".research/high-resolution/fpt-partnership.jpg",
+    "bytes": 136976
+  },
+  {
+    "old": "/images/editorial/aic-exhibition.webp",
+    "src": "/images/refined/aic-exhibition.webp",
+    "width": 950,
+    "height": 651,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2021/T4/AIC1.jpeg",
+    "input": ".research/high-resolution/aic-exhibition-original.jpg",
+    "bytes": 145068
+  },
+  {
+    "old": "/images/editorial/aic-classroom.webp",
+    "src": "/images/refined/aic-classroom.webp",
+    "width": 899,
+    "height": 599,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2021/T4/AIC2.jpeg",
+    "input": ".research/high-resolution/aic-robots-original.jpg",
+    "bytes": 99186
+  },
+  {
+    "old": "/images/editorial/aic-robots.webp",
+    "src": "/images/refined/aic-robots.webp",
+    "width": 1348,
+    "height": 707,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2021/T4/AIC3.jpeg",
+    "input": ".research/high-resolution/aic-classroom-original.jpg",
+    "bytes": 310004
+  },
+  {
+    "old": "/images/editorial/fpt-speech.webp",
+    "src": "/images/refined/fpt-speech.webp",
+    "width": 800,
+    "height": 533,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://ippgroup.vn/network/news/2022/T12/Johnathan-Hanh-Nguyen-Dau-tu-AI.jpeg",
+    "input": ".research/high-resolution/fpt-speech-original.jpg",
+    "bytes": 86224
+  },
+  {
+    "old": "/images/editorial/lab-overview.webp",
+    "src": "/images/refined/lab-overview.webp",
+    "width": 1918,
+    "height": 813,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://owebsite-cdn.ubtrobot.com/en/uploadfiles/zwimg255.jpg",
+    "input": ".research/high-resolution/lab-overview.jpg",
+    "bytes": 205022
+  },
+  {
+    "old": "/images/audit-refresh/ugot-components.webp",
+    "src": "/images/refined/ugot-components.webp",
+    "width": 720,
+    "height": 720,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://owebsite-cdn.ubtrobot.com/resources/image/2025/12/29/757160608763973.png",
+    "input": ".research/high-resolution/ugot-modules-large.png",
+    "bytes": 48784
+  },
+  {
+    "old": "/images/common-logo-ubtech.png",
+    "src": "/images/refined/ubtech-logo.svg",
+    "width": 1094,
+    "height": 272,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://owebsite-cdn.ubtrobot.com/en/uploadfiles/logo.svg",
+    "input": ".research/high-resolution/ubtech-logo.svg",
+    "bytes": 3943
+  },
+  {
+    "old": "/images/ubtech-ugot-full-kit-img-1.png",
+    "src": "/images/refined/ugot-components.webp",
+    "width": 720,
+    "height": 720,
+    "processing": "official-higher-resolution",
+    "sourceUrl": "https://owebsite-cdn.ubtrobot.com/resources/image/2025/12/29/757160608763973.png",
+    "input": ".research/high-resolution/ugot-modules-large.png",
+    "bytes": 48784
+  },
+  {
+    "old": "/images/audit-refresh/ukit-ai-mobile-model.webp",
+    "src": "/images/refined/ukit-ai-mobile-model-ai.webp",
+    "width": 1115,
+    "height": 1411,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-1b117f0b-0c72-4c8d-acb6-34f0ce2f5633.png",
+    "bytes": 228962
+  },
+  {
+    "old": "/images/audit-refresh/ukit-ai-sorting-model.webp",
+    "src": "/images/refined/ukit-ai-sorting-model-ai.webp",
+    "width": 1536,
+    "height": 1024,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-c301715c-416b-4c12-89d5-4137267268dc.png",
+    "bytes": 260992
+  },
+  {
+    "old": "/images/editorial/training-workshop.webp",
+    "src": "/images/refined/training-workshop-ai.webp",
+    "width": 1641,
+    "height": 958,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-0662d598-11ce-430c-8bbf-da235ff2f4cb.png",
+    "bytes": 220746
+  },
+  {
+    "old": "/images/editorial/training-online.webp",
+    "src": "/images/refined/training-online-ai.webp",
+    "width": 1642,
+    "height": 958,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-9028d0b8-db36-43a1-9840-cf202b88dc25.png",
+    "bytes": 190504
+  },
+  {
+    "old": "/images/editorial/ai-lab.webp",
+    "src": "/images/refined/ai-lab-ai.webp",
+    "width": 1483,
+    "height": 1061,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-f63fe25c-83c1-420a-9a8a-090b17359a55.png",
+    "bytes": 379388
+  },
+  {
+    "old": "/images/editorial/education-case-2.webp",
+    "src": "/images/refined/education-case-2-ai.webp",
+    "width": 1672,
+    "height": 941,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-bf79177f-0175-4e17-b921-dfddfb08598e.png",
+    "bytes": 287834
+  },
+  {
+    "old": "/images/editorial/education-case-3.webp",
+    "src": "/images/refined/education-case-3-ai.webp",
+    "width": 1672,
+    "height": 941,
+    "processing": "ai-recreated-illustration",
+    "input": "C:\\Users\\binhb\\.codex\\generated_images\\01a1330b-b767-7a00-a61b-b296575a50c9\\exec-9fc99a6a-d973-48c8-b427-ad2708a0e041.png",
+    "bytes": 349482
+  }
+]

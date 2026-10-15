@@ -1,2 +1,3 @@
 import {Button} from '@/components/site';
-export default function NotFound(){return <main id="main" className="container not-found"><span className="eyebrow">404 / KHÔNG TÌM THẤY TRANG</span><h1>Một hướng đi khác<br/>đang chờ bạn.</h1><Button href="/">Trở về trang chủ</Button></main>}
+import {SiteSearch} from '@/components/brief-interactions';
+export default function NotFound(){return <main id="main" className="container not-found"><span className="eyebrow">404 / KHÔNG TÌM THẤY TRANG</span><h1>Không tìm thấy trang.</h1><p>Đường dẫn này không tồn tại hoặc đã được chuyển. Hãy tìm nội dung hoặc chọn một trong ba lối đi dưới đây.</p><SiteSearch/><div className="document-actions"><Button href="/thuong-hieu/">Thương hiệu & Sản phẩm</Button><Button href="/giai-phap/">Giải pháp</Button><Button href="/lien-he/">Liên hệ</Button></div></main>}

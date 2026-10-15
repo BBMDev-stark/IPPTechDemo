@@ -94,7 +94,7 @@ export function ContactBand() {
             <br />
             IPPTech cùng bạn tìm lời giải phù hợp.
           </p>
-          <Button href="/lien-he/#yeu-cau-bao-gia">Kết nối với IPPTech</Button>
+          <Button href="/lien-he/yeu-cau-bao-gia/">Kết nối với IPPTech</Button>
         </div>
         <span className="band-orbit" />
       </div>
@@ -145,7 +145,7 @@ export function Footer() {
             <br />
             TP. Hồ Chí Minh, Việt Nam
           </p>
-          <Link className="text-link" href="/lien-he/">
+          <a className="footer-map-link" href="https://www.google.com/maps/search/?api=1&query=Centec+Tower+72-74+Nguyen+Thi+Minh+Khai+Ho+Chi+Minh" target="_blank" rel="noopener noreferrer">Chỉ đường đến văn phòng <ArrowUpRight size={15}/></a><Link className="text-link" href="/lien-he/">
             Liên hệ với chúng tôi <ArrowUpRight size={16} />
           </Link>
         </div>

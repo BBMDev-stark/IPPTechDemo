@@ -1,0 +1,40 @@
+IPPTECH — BÀN GIAO BẢN CHỈNH SỬA 13/10/2026
+
+Đã áp dụng
+- Giữ nội dung đã biên tập theo tài liệu, 7 nhóm điều hướng và 65 trang con.
+- Menu desktop tự co theo nội dung; nhóm giới thiệu chia 2 cột cân đối; menu sản phẩm tập trung thương hiệu đang có. Menu di động giữ điều hướng nhiều cấp.
+- Trang chủ có ảnh hoạt động, bộ sản phẩm đầy đủ, dự án, thư viện, tin và cổng hệ sinh thái.
+- 7 ảnh mới từ bài LinkedIn công khai đã xác minh (5 ROBOG 2026, Cruzr bảo tàng, Cruzr sân bay). Ghi nguồn, bối cảnh; ảnh sân bay chỉ dùng ở thẻ/album.
+- Hero theo nhóm trang; sản phẩm có lộ trình, checklist cấu hình, CTA mang tên sản phẩm và sản phẩm liên quan.
+- Thư viện 9 ảnh với bộ lọc, xem lớn, phím trái/phải/Escape; ảnh giáo dục và ứng dụng quốc tế không gắn thành dự án khách hàng.
+- Bảng cấp học; danh mục 7 loại hồ sơ yêu cầu; thêm dữ kiện dự án và phân biệt ngày ký FPT với ngày công bố.
+- 6 biểu mẫu và đăng ký nhận tin gửi thật tới API nội bộ. Kiểm tra dữ liệu ở máy chủ, 3 luồng hợp tác, mã tiếp nhận và chống lặp cùng yêu cầu.
+- Tệp hỗ trợ: tối đa 3, tổng 20 MB; JPG, PNG, WebP, MP4, WebM; lưu cùng yêu cầu ngoài thư mục public.
+- OG riêng 1200×630 cho từng trang; redirect 308 từ alias; sitemap không đưa trang thương hiệu chưa công bố.
+
+Vận hành
+- Ứng dụng dùng Next.js trên Node, không còn phát hành kiểu thư mục out thuần tĩnh vì có API nhận yêu cầu.
+- npm run dev: phát triển. npm run build rồi npm start: chạy bản production.
+- Dữ liệu được ghi vào .private/inquiries/<UUID>/request.json, tệp đính kèm cùng thư mục. Không có API công khai để đọc danh sách này; .private bị loại khỏi Git.
+- INQUIRY_DATA_DIR có thể chỉ định thư mục dữ liệu riêng có quyền ghi, nằm NGOÀI public/out/.next. Dùng ổ lưu bền vững khi triển khai. Sao lưu và phân quyền ở cấp hệ thống.
+- Nội dung vẫn được quản lý bằng src/lib/website-content.json; chưa có giao diện quản trị CMS. Nguồn ảnh ở src/lib/social-assets.ts và docs/social-asset-provenance.json.
+- Chưa gửi email tự động hoặc đẩy CRM; cần đầu mối và dịch vụ thật. Không có thông báo giả đã gửi email hoặc đã xác nhận lịch hẹn.
+- Trước phát hành: đặt NEXT_PUBLIC_SITE_URL, xác nhận đầu mối xử lý dữ liệu/nhận yêu cầu, cơ chế lưu bền vững, thời hạn giữ dữ liệu và quy trình vận hành. Bản hiện tại chỉ chạy trên máy người dùng.
+
+Dữ liệu chưa thể tự tạo
+- KPI, ngày thành lập, thông điệp lãnh đạo, danh sách/chân dung nhân sự.
+- Ảnh nội bộ đúng IPPTech: kho, kỹ thuật, văn phòng, khách hàng và album 6–12 ảnh của từng dự án.
+- Model/BOM/phiên bản Việt Nam, bảng đối chiếu kỹ thuật được duyệt.
+- Profile VN/EN, catalogue VN, giấy tờ pháp lý, chính sách/SLA và hotline/email đã xác nhận.
+- Bản EN và lịch sự kiện được duyệt. Không tự dựng số liệu, lời chứng thực hoặc file tải giả.
+- Ảnh công khai có liên kết nguồn; điều kiện tái sử dụng cần được đơn vị sở hữu xác nhận trước công bố thương mại.
+
+Đối chiếu chi tiết: docs/review148/Bao-cao-phan-tich-IPPTech.html và docs/DATA-REQUIRED.md.
+
+Kết quả kiểm tra
+- Build production và TypeScript đạt, không có cảnh báo build.
+- Kiểm tra nội dung 65 route, liên kết/tài sản trong 85 HTML đạt.
+- 3 nhóm kiểm thử kho yêu cầu đạt; HTTP trả 201/200 cho mới/lặp, 403 cho nguồn ngoài, 404 cho dữ liệu riêng.
+- OG trang chủ JPEG 1200×630, 58.379 byte. Alias trả 308.
+- Đã kiểm tra menu desktop/mobile, trang chủ và sản phẩm 390×844 không tràn ngang, thư viện ảnh/bàn phím, gửi form qua UI và tự điền tài liệu.
+- Ảnh kiểm chứng: docs/verification-2026-10-13/.

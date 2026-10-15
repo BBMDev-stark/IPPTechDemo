@@ -1,0 +1,41 @@
+IPPTECH — RÀ SOÁT VÀ BỔ SUNG SAU ĐỐI CHIẾU TÀI LIỆU
+
+KẾT LUẬN
+Chưa nghiệm thu toàn bộ yêu cầu trong bản phân tích Word. Có nội dung đã triển khai, có phần mới bổ sung trong lượt này và có phần còn thiếu. Việc kiểm tra 65 trang không đồng nghĩa hoàn tất tất cả tiêu chí của 67 mục phân tích hay 155 yêu cầu hình ảnh.
+
+ĐÃ BỔ SUNG TRONG LƯỢT NÀY
+- Mục 6: checklist khảo sát, chuẩn bị, chạy thử, hướng dẫn và nghiệm thu; nêu đầu ra cần thống nhất.
+- Mục 8, 30: bảng nội dung/đầu ra cho giáo viên, cán bộ thiết bị và nhân sự doanh nghiệp; lộ trình trước, trong, sau tập huấn.
+- Mục 27: các khu chức năng của phòng STEM và thông tin cần khảo sát; không tự dựng kích thước hoặc bản vẽ đạt chuẩn.
+- Mục 28: ba thẻ ảnh học cụ gợi ý theo cấp học; CTA mang cả cấp học và sản phẩm sang báo giá.
+- Mục 29: bảng đầu vào/đầu ra hỗ trợ đề án theo bốn bước.
+- Mục 31: bảng so sánh ba hướng tổ chức phòng lab; không tự đặt diện tích, số lượng hoặc chi phí.
+- Mục 32: bảng chuẩn bị mặt bằng, điện/mạng, nội dung, nhân sự và đánh giá demo.
+- Mục 37, 61: CTA sự kiện chọn sẵn “Tại sự kiện”; mở đúng các trường có điều kiện. CTA ngành chọn trải nghiệm tại đơn vị và Cruzr.
+- Mục 47: ba CTA hợp tác chọn sẵn luồng hãng / đại lý / trường học.
+- Mục 52, 54: lọc tin theo bốn chủ đề; lọc UBTECH, EDU/TECH; số kết quả, trạng thái rỗng, xóa bộ lọc, URL chia sẻ và khôi phục lựa chọn từ URL.
+- Mục 54: thêm nội dung tham khảo Cruzr bảo tàng dùng ảnh xã hội và nguồn đã xác minh ở lượt trước; không coi là dự án IPPTech tại Việt Nam.
+- Mục 53, 55, 56, 58: sửa đoạn mô tả hệ thống nội dung/lịch/album chưa có; phân biệt tư liệu hiện hữu và nội dung dự kiến.
+- Sửa chuẩn hóa URL: dấu / nằm ở pathname, không bị thêm vào giá trị query hay fragment của CTA.
+
+PHẦN CHƯA THỂ NGHIỆM THU ĐẦY ĐỦ
+1. Nội dung và chứng cứ doanh nghiệp: KPI theo năm, thông điệp lãnh đạo, nhân sự, ngày thành lập, thông tin pháp nhân/đầu mối, phạm vi ủy quyền hiện hành.
+2. Bộ tài liệu: profile VN/EN, catalogue, BOM và ma trận kỹ thuật Việt Nam, giấy tờ công khai, chính sách/SLA, mẫu đề án, press kit có quyền sử dụng. Website chưa có những file này để phát hành thật.
+3. Ảnh/video: nhân sự, văn phòng, kho, kỹ thuật viên, tập huấn giáo viên và từng dự án; album 6–12 ảnh/case, video có phụ đề. Ảnh xã hội hiện tại chỉ đáp ứng một phần brief, không thay ảnh nội bộ bằng tư liệu nước ngoài.
+4. Chức năng còn thiếu: giao diện quản trị CMS và quy trình xuất bản; hệ thống email/CRM, gửi tài liệu tự động; lịch sử xử lý ticket cho khách; phát bản tin và hủy đăng ký; bản EN đầy đủ; lịch sự kiện được xác nhận. Đây là công việc triển khai còn lại, không phải các mục đã hoàn thành.
+5. Form hiện lưu yêu cầu và tệp vào kho riêng trên máy chủ, có mã tiếp nhận. Chưa gửi email, chưa chốt lịch và chưa xác nhận đã có người xử lý.
+
+KIỂM TRA
+- Build Next.js và TypeScript: đạt.
+- Kiểm tra nội dung: 65 route đạt.
+- Kiểm tra liên kết/tài sản: 85 HTML prerender đạt.
+- UI: bộ lọc TECH trả một nội dung Cruzr, URL ?dong=tech; tải lại khôi phục lựa chọn sau hydration.
+- UI: CTA sự kiện chọn đúng hình thức và hiển thị các trường điều kiện.
+- UI: ba ảnh học cụ theo cấp học tải được; không tràn ngang ở chiều rộng kiểm tra 891 px.
+- UI: nút THCS truyền đúng “THCS” và “UGOT Full Kit” sang báo giá; bảng triển khai không làm tràn trang ở 390 px.
+
+TÀI LIỆU ĐỐI CHIẾU
+docs/review148/section-findings.tsv — tiêu chí gốc theo từng mục.
+docs/review148/Bao-cao-phan-tich-IPPTech.html — báo cáo phân tích trước triển khai, không phải bảng trạng thái nghiệm thu hiện tại.
+docs/DATA-REQUIRED.md — danh mục dữ liệu chính thức cần bổ sung.
+docs/IMPLEMENTATION-2026-10-13.txt — phần đã triển khai trong lượt trước.

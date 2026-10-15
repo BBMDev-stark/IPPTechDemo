@@ -1,0 +1,12 @@
+/* Never enlarge a raster beyond its native pixels in a lightbox. */
+.photo-dialog>img,.robot-photo-dialog>img,.studio-dialog>img{object-fit:scale-down}
+.studio-enlarge>img,.editorial-product .editorial-story .editorial-photo>img,
+.editorial-product .editorial-album .photo-open img{object-fit:scale-down}
+/* Small source screenshots stay legible and complete instead of being cropped. */
+.editorial-photo>img[src*="-screen."],.photo-open img[src*="-screen."],
+.editorial-photo>img[src*="class-teaching."],.photo-open img[src*="class-teaching."],
+.editorial-photo>img[src*="teacher-program."],.photo-open img[src*="teacher-program."],
+.editorial-photo>img[src*="lab-school."],.photo-open img[src*="lab-school."]{object-fit:scale-down!important;background:#f5f7f8}
+.editorial-layout .editorial-photo>img,.social-photo>img{max-width:100%;aspect-ratio:auto;object-fit:scale-down}
+/* Restore natural image rendering; no CSS sharpness tricks or contrast filters. */
+main img{image-rendering:auto}

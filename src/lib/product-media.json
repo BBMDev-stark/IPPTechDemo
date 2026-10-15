@@ -1,0 +1,136 @@
+[
+  {
+    "src": "/images/refined/ugot-components.webp",
+    "productSlug": "ugot-full-kit",
+    "alt": "Các mô-đun của UGOT trong hình phân tách từ UBTECH.",
+    "caption": "Các mô-đun của UGOT trong hình phân tách từ UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ugot/",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 720,
+    "height": 720
+  },
+  {
+    "src": "/images/audit-refresh/ugot-vision.webp",
+    "productSlug": "ugot-full-kit",
+    "alt": "Tư liệu UBTECH minh họa tương tác và các ứng dụng thị giác máy tính của UGOT.",
+    "caption": "Tư liệu UBTECH minh họa tương tác và các ứng dụng thị giác máy tính của UGOT.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ugot/",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 920,
+    "height": 1080
+  },
+  {
+    "src": "/images/audit-refresh/ugot-hands-on.webp",
+    "productSlug": "ugot-full-kit",
+    "alt": "Thực hành lắp ráp UGOT — tư liệu từ UBTECH.",
+    "caption": "Thực hành lắp ráp UGOT — tư liệu từ UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ugot/",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 680,
+    "height": 800
+  },
+  {
+    "src": "/images/audit-refresh/yanshee-platform.webp",
+    "productSlug": "yanshee",
+    "alt": "Cận cảnh robot Yanshee — UBTECH.",
+    "caption": "Cận cảnh robot Yanshee — UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/yanshee",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 763,
+    "height": 860
+  },
+  {
+    "src": "/images/audit-refresh/yanshee-coding.webp",
+    "productSlug": "yanshee",
+    "alt": "Yanshee và nền tảng lập trình Raspberry Pi — tư liệu UBTECH.",
+    "caption": "Yanshee và nền tảng lập trình Raspberry Pi — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/yanshee",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 736,
+    "height": 717
+  },
+  {
+    "src": "/images/audit-refresh/yanshee-hardware.webp",
+    "productSlug": "yanshee",
+    "alt": "Cấu tạo bên trong Yanshee — hình phân tách từ UBTECH.",
+    "caption": "Cấu tạo bên trong Yanshee — hình phân tách từ UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/yanshee",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 935,
+    "height": 640
+  },
+  {
+    "src": "/images/refined/ukit-ai-sorting-model-ai.webp",
+    "productSlug": "ukit-ai",
+    "alt": "Minh họa mô hình uKit AI phân loại — tái tạo bằng AI từ ảnh UBTECH.",
+    "caption": "Minh họa mô hình uKit AI phân loại — tái tạo bằng AI từ ảnh UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ukit-ai",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1536,
+    "height": 1024,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "src": "/images/refined/ukit-ai-mobile-model-ai.webp",
+    "productSlug": "ukit-ai",
+    "alt": "Minh họa mô hình uKit AI di chuyển — tái tạo bằng AI từ ảnh UBTECH.",
+    "caption": "Minh họa mô hình uKit AI di chuyển — tái tạo bằng AI từ ảnh UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ukit-ai",
+    "sourceLabel": "Tư liệu gốc · UBTECH",
+    "category": "education",
+    "width": 1115,
+    "height": 1411,
+    "processing": "ai-recreated-illustration"
+  },
+  {
+    "src": "/images/audit-refresh/ukit-ai-controller.webp",
+    "productSlug": "ukit-ai",
+    "alt": "Bộ điều khiển uKit AI — tư liệu UBTECH.",
+    "caption": "Bộ điều khiển uKit AI — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/ai-education/products/ukit-ai",
+    "sourceLabel": "UBTECH",
+    "category": "education",
+    "width": 575,
+    "height": 631
+  },
+  {
+    "src": "/images/audit-refresh/cruzr-1s-greeting.webp",
+    "productSlug": "cruzr",
+    "alt": "Cruzr trong tình huống đón khách tại showroom — tư liệu trên trang Cruzr 1S của UBTECH.",
+    "caption": "Cruzr trong tình huống đón khách tại showroom — tư liệu trên trang Cruzr 1S của UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/commercial/products/cruzr-1s",
+    "sourceLabel": "UBTECH",
+    "category": "commercial",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "src": "/images/audit-refresh/cruzr-1s-guidance.webp",
+    "productSlug": "cruzr",
+    "alt": "Cruzr hướng dẫn khách trong không gian trưng bày — tư liệu UBTECH.",
+    "caption": "Cruzr hướng dẫn khách trong không gian trưng bày — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/commercial/products/cruzr-1s",
+    "sourceLabel": "UBTECH",
+    "category": "commercial",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "src": "/images/audit-refresh/cruzr-1s-scenarios.webp",
+    "productSlug": "cruzr",
+    "alt": "Các bối cảnh ứng dụng Cruzr: triển lãm, sân bay, bán lẻ và ngân hàng — tư liệu UBTECH.",
+    "caption": "Các bối cảnh ứng dụng Cruzr: triển lãm, sân bay, bán lẻ và ngân hàng — tư liệu UBTECH.",
+    "sourceUrl": "https://www.ubtrobot.com/en/commercial/products/cruzr-1s",
+    "sourceLabel": "UBTECH",
+    "category": "commercial",
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,13 @@
+NGUYÊN TẮC CHỈNH UI/UX — THEO YÊU CẦU NGƯỜI DÙNG
+
+Chỉnh cách trình bày theo tài liệu và bản phân tích; không rút gọn bằng cách bỏ thông tin. Giữ nguyên hiệu ứng intro và hành vi đã khôi phục. Dữ liệu doanh nghiệp chưa được cung cấp không được tự tạo.
+
+Đã khôi phục các khối trang chủ bị lược bớt: đủ bảy sản phẩm, giới thiệu IPPG, ảnh hoạt động, dịch vụ và nội dung liên hệ. Trang chủ hiện đọc trực tiếp chín khối nội dung từ cùng nguồn website-content.json thay vì duy trì bản viết rút gọn riêng.
+
+Đã khôi phục danh mục bảy loại tài liệu theo yêu cầu, phần giải thích tình trạng file, đoạn nội dung và các CTA bị lọc ở trang sản phẩm. Danh mục yêu cầu tài liệu không phải danh sách file đã có để tải.
+
+Kiểm tra scripts/check-content-retention.py đối chiếu 1.139 mục chữ (tiêu đề, đoạn văn, danh sách, nhãn CTA, ô bảng) trong dữ liệu website với HTML hiển thị ở 65 trang: không phát hiện mục bị thiếu. Chỉ đọc phần main, không dùng JSON ẩn trong script để tính là đã hiển thị.
+
+Phạm vi kiểm tra này là bảo toàn dữ liệu nội dung website hiện có. Không đồng nghĩa toàn bộ yêu cầu hình ảnh, CMS, email/CRM, hồ sơ chưa cung cấp hoặc mọi yêu cầu trong Word đã hoàn thành. Những giới hạn đó vẫn được ghi ở bản phân tích và danh sách dữ liệu còn thiếu.
+
+Build, kiểm tra nội dung và kiểm tra liên kết/ảnh đều đạt. Hiệu ứng intro được xác nhận vẫn bắt đầu ở giai đoạn logo khi tải trang.

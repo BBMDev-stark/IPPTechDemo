@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "NOTE-001",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 3,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Hero dùng ảnh tĩnh hoặc video nền ngắn (≤ 15 giây, không tiếng), KHÔNG dùng slider tự chạy (theo brief). Dòng \"Thành viên Tập đoàn…\" là badge nhỏ phía trên H1, link ippgroup.vn (tab mới)."
+  },
+  {
+    "id": "NOTE-002",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 4,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Con số năng lực tổng hợp: chờ ban điều hành duyệt công bố. Chỉ công bố con số tổng hợp, không gắn tên khách hàng. Dải này đặt ngay dưới hero; số chạy (count-up) khi cuộn tới là tùy chọn."
+  },
+  {
+    "id": "NOTE-003",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 5,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Thẻ UBTECH hiển thị đầy đủ; 2 ô \"Thương hiệu tiếp theo\" để mờ (opacity) nhằm lộ ý đồ đa thương hiệu, theo brief."
+  },
+  {
+    "id": "NOTE-004",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 5,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Hai dự án AIC và FPT Schools là hoạt động đã được IPPG công bố công khai trên ippgroup.vn. Cần Ban điều hành xác nhận vai trò của IPPTech trước khi đăng; nếu IPPTech không trực tiếp thực hiện, đổi tiêu đề khối thành \"Dự án AI & Robotics trong hệ sinh thái IPPG\".Mỗi thẻ cần \"một con số kết quả\" theo brief: [CẦN: con số kết quả đã công bố cho từng dự án — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-005",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 6,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Khối IPP Group là khối bắt buộc, không được cắt khi rút gọn trang chủ (brief, quyết định 07)."
+  },
+  {
+    "id": "NOTE-006",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 6,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Ba liên kết mở tab mới (target=\"_blank\" rel=\"noopener\"), có icon ↗. Không nhúng iframe."
+  },
+  {
+    "id": "NOTE-007",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 6,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Hiển thị 3 tin tự động: ưu tiên 1 tin chính sách giáo dục + 1 tin dự án + 1 tin sự kiện (brief)."
+  },
+  {
+    "id": "NOTE-008",
+    "section": "Trang chủ",
+    "section_id": 0,
+    "page": 7,
+    "range": [
+      3,
+      7
+    ],
+    "requirement": "Lưu ý: Không ghi số điện thoại/email cá nhân của nhân viên trên trang chủ — chỉ đầu mối chung. Bản đồ nhúng Google Maps đặt ở footer."
+  },
+  {
+    "id": "NOTE-009",
+    "section": "Về IPPTech",
+    "section_id": 1,
+    "page": 9,
+    "range": [
+      8,
+      9
+    ],
+    "requirement": "Lưu ý: Trang cấp 1 là trang thật (brief, ghi chú dev số 2). Dòng thời gian hiển thị dạng trục ngang trên desktop, dọc trên mobile."
+  },
+  {
+    "id": "NOTE-010",
+    "section": "Giới thiệu & Tầm nhìn",
+    "section_id": 2,
+    "page": 10,
+    "range": [
+      10,
+      12
+    ],
+    "requirement": "Lưu ý: Thông điệp lãnh đạo cần ảnh + chữ ký (brief). Không dùng ảnh stock."
+  },
+  {
+    "id": "NOTE-011",
+    "section": "Giới thiệu & Tầm nhìn",
+    "section_id": 2,
+    "page": 11,
+    "range": [
+      10,
+      12
+    ],
+    "requirement": "Lưu ý: Ba câu tầm nhìn – sứ mệnh – giá trị là bản đề xuất, chờ Ban điều hành duyệt câu chữ."
+  },
+  {
+    "id": "NOTE-012",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "section_id": 3,
+    "page": 13,
+    "range": [
+      13,
+      15
+    ],
+    "requirement": "Lưu ý: Chỉ dùng số liệu IPPG đã công bố trên ippgroup.vn, ghi rõ nguồn và thời điểm. Chờ Ban điều hành duyệt công bố."
+  },
+  {
+    "id": "NOTE-013",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "section_id": 3,
+    "page": 14,
+    "range": [
+      13,
+      15
+    ],
+    "requirement": "Lưu ý: [CẦN: danh sách công ty thành viên được phép nêu trên sơ đồ — Ban điều hành]"
+  },
+  {
+    "id": "NOTE-014",
+    "section": "IPPTech trong hệ sinh thái IPP Group",
+    "section_id": 3,
+    "page": 15,
+    "range": [
+      13,
+      15
+    ],
+    "requirement": "Lưu ý: Nguồn: các bài công bố trên ippgroup.vn (giữ nguyên ngày công bố). Trang này chờ Ban điều hành duyệt vì nói thay tập đoàn."
+  },
+  {
+    "id": "NOTE-015",
+    "section": "Năng lực & Mô hình dịch vụ",
+    "section_id": 4,
+    "page": 18,
+    "range": [
+      16,
+      18
+    ],
+    "requirement": "Lưu ý: Chưa có SLA công bố (theo bản demo). Không đăng cam kết cho đến khi Phòng Kỹ thuật xác nhận bằng văn bản. Số kỹ thuật viên là số tổng hợp, không ghi danh sách nhân sự chi tiết."
+  },
+  {
+    "id": "NOTE-016",
+    "section": "Nhập khẩu & phân phối chính hãng",
+    "section_id": 5,
+    "page": 19,
+    "range": [
+      19,
+      19
+    ],
+    "requirement": "Lưu ý: Nguồn gốc, thành phần giao hàng, phiên bản và phạm vi phân phối xác nhận trong hồ sơ thương mại riêng — không đăng chi tiết điều khoản với hãng (bảo mật)."
+  },
+  {
+    "id": "NOTE-017",
+    "section": "Triển khai, lắp đặt & bàn giao",
+    "section_id": 6,
+    "page": 21,
+    "range": [
+      20,
+      21
+    ],
+    "requirement": "Lưu ý: Hạng mục lắp đặt, hướng dẫn và nghiệm thu thống nhất theo cấu hình từng dự án (bản demo). [CẦN: thời gian triển khai điển hình cho một phòng — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-018",
+    "section": "Bảo hành, bảo trì & hỗ trợ kỹ thuật",
+    "section_id": 7,
+    "page": 22,
+    "range": [
+      22,
+      22
+    ],
+    "requirement": "Lưu ý: Chưa có SLA công bố. [CẦN: chính sách bảo hành chuẩn (file PDF) — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-019",
+    "section": "Đào tạo & chuyển giao vận hành",
+    "section_id": 8,
+    "page": 24,
+    "range": [
+      23,
+      24
+    ],
+    "requirement": "Lưu ý: Nội dung và thời lượng đào tạo tùy thiết bị, trình độ và chương trình (bản demo)."
+  },
+  {
+    "id": "NOTE-020",
+    "section": "Đội ngũ & Ban điều hành",
+    "section_id": 9,
+    "page": 27,
+    "range": [
+      25,
+      27
+    ],
+    "requirement": "Lưu ý: Bản demo ghi danh sách và hồ sơ cá nhân chưa được công bố. Chỉ đăng tên, chức danh, ảnh của người đã đồng ý. Không ghi số nhân sự chi tiết từng phòng ban (bảo mật số liệu nội bộ). Trang chờ Ban điều hành duyệt."
+  },
+  {
+    "id": "NOTE-021",
+    "section": "Hồ sơ pháp lý & Chứng nhận",
+    "section_id": 10,
+    "page": 28,
+    "range": [
+      28,
+      29
+    ],
+    "requirement": "Lưu ý: [CẦN: bản scan giấy đăng ký doanh nghiệp, mã số thuế — Hành chính – Pháp chế][CẦN: thư ủy quyền phân phối UBTECH còn hiệu lực — Hành chính – Pháp chế][CẦN: CO/CQ mẫu theo dòng sản phẩm — Phòng Kỹ thuật]Thư ủy quyền: đăng bản scan nhưng che các điều khoản thương mại (chiết khấu, chỉ tiêu, độc quyền) nếu có trong văn bản."
+  },
+  {
+    "id": "NOTE-022",
+    "section": "Hồ sơ pháp lý & Chứng nhận",
+    "section_id": 10,
+    "page": 29,
+    "range": [
+      28,
+      29
+    ],
+    "requirement": "Lưu ý: Brief yêu cầu \"tên, email, điện thoại trực tiếp\" của đầu mối. Đề xuất dùng email/số chung của bộ phận thay vì số di động cá nhân để tránh lộ thông tin cá nhân nhân viên. Mỗi file ghi phiên bản và ngày cập nhật."
+  },
+  {
+    "id": "NOTE-023",
+    "section": "Tuyển dụng",
+    "section_id": 11,
+    "page": 31,
+    "range": [
+      30,
+      31
+    ],
+    "requirement": "Lưu ý: Brief nêu vị trí đang thiếu: marketing, kỹ thuật triển khai — chỉ đăng khi Nhân sự xác nhận mở tuyển. Không đăng mức lương cụ thể (số liệu nội bộ) trừ khi Ban điều hành đồng ý."
+  },
+  {
+    "id": "NOTE-024",
+    "section": "Thương hiệu & Sản phẩm",
+    "section_id": 12,
+    "page": 33,
+    "range": [
+      32,
+      33
+    ],
+    "requirement": "Lưu ý: Bộ lọc Giáo dục/Công nghệ dùng query param, không tạo URL mới (brief mục 04). Hai thẻ trống hiển thị mờ."
+  },
+  {
+    "id": "NOTE-025",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "section_id": 13,
+    "page": 34,
+    "range": [
+      34,
+      36
+    ],
+    "requirement": "Lưu ý: Chỉ dùng số liệu hãng đã công bố trên ubtrobot.com hoặc báo cáo chính thức, ghi nguồn và năm. Không tự ước lượng."
+  },
+  {
+    "id": "NOTE-026",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "section_id": 13,
+    "page": 35,
+    "range": [
+      34,
+      36
+    ],
+    "requirement": "Lưu ý: Không ghi \"độc quyền/không độc quyền\", chiết khấu hay chỉ tiêu (bảo mật điều khoản thương mại với hãng)."
+  },
+  {
+    "id": "NOTE-027",
+    "section": "UBTECH — Tổng quan thương hiệu",
+    "section_id": 13,
+    "page": 36,
+    "range": [
+      34,
+      36
+    ],
+    "requirement": "Lưu ý: [CẦN: video thương hiệu UBTECH có quyền sử dụng, ưu tiên bản có phụ đề tiếng Việt — Marketing]"
+  },
+  {
+    "id": "NOTE-028",
+    "section": "UBTECH — Giáo dục",
+    "section_id": 14,
+    "page": 37,
+    "range": [
+      37,
+      39
+    ],
+    "requirement": "Lưu ý: Nhãn \"EDU\" là nhãn màu phân biệt dòng, hiển thị cạnh H1 (brief, wireframe B). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › Giáo dục."
+  },
+  {
+    "id": "NOTE-029",
+    "section": "UBTECH — Giáo dục",
+    "section_id": 14,
+    "page": 38,
+    "range": [
+      37,
+      39
+    ],
+    "requirement": "Lưu ý: Bản demo ghi nhiều ô \"chưa xác nhận\". Các ô \"Phù hợp\" hiện tại suy ra từ mô tả sản phẩm (AI Fantasy Zoo: tiểu học; Yanshee: nghiên cứu, lập trình nâng cao). Phòng Kỹ thuật cần duyệt toàn bảng trước khi đăng. Đặt bảng cao, cho tải PDF (brief)."
+  },
+  {
+    "id": "NOTE-030",
+    "section": "UBTECH — Giáo dục",
+    "section_id": 14,
+    "page": 38,
+    "range": [
+      37,
+      39
+    ],
+    "requirement": "Lưu ý: Lưới 3 cột desktop → 2 tablet → 1 mobile. Mỗi thẻ: ảnh · tên · 2 dòng · độ tuổi. Không hiện giá.Bản demo có thêm Cruzr Edu và Walker S2 Edu; brief không có. Chưa đưa vào — chờ Ban điều hành quyết định (demo cũng ghi cấu hình Edu tại VN chưa xác nhận)."
+  },
+  {
+    "id": "NOTE-031",
+    "section": "UBTECH — Giáo dục",
+    "section_id": 14,
+    "page": 39,
+    "range": [
+      37,
+      39
+    ],
+    "requirement": "Lưu ý: CTA dính đáy màn hình trên mobile (brief). Khối \"Bằng chứng\": 2 dự án trường học lọc theo UBTECH — [CẦN: dự án trường học đã được đồng ý công bố — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-032",
+    "section": "UGOT Full Kit",
+    "section_id": 15,
+    "page": 41,
+    "range": [
+      40,
+      41
+    ],
+    "requirement": "Lưu ý: Thông số giữ nguyên theo bản demo, nguồn: ubtrobot.com. Cần Phòng Kỹ thuật xác nhận thông số khớp phiên bản IPPTech cung cấp tại Việt Nam trước khi đăng. Bảng thông số cho tải PDF. KHÔNG hiển thị giá — chỉ nút \"Yêu cầu báo giá\" (brief, quyết định 06). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › [tên sản phẩm]."
+  },
+  {
+    "id": "NOTE-033",
+    "section": "AI Fantasy Zoo",
+    "section_id": 16,
+    "page": 43,
+    "range": [
+      42,
+      43
+    ],
+    "requirement": "Lưu ý: Thông số giữ nguyên theo bản demo, nguồn: ubtechvietnam.edu.vn. Cần Phòng Kỹ thuật xác nhận thông số khớp phiên bản IPPTech cung cấp tại Việt Nam trước khi đăng. Bảng thông số cho tải PDF. KHÔNG hiển thị giá — chỉ nút \"Yêu cầu báo giá\" (brief, quyết định 06). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › [tên sản phẩm]."
+  },
+  {
+    "id": "NOTE-034",
+    "section": "AI Super Engineer",
+    "section_id": 17,
+    "page": 45,
+    "range": [
+      44,
+      45
+    ],
+    "requirement": "Lưu ý: Thông số giữ nguyên theo bản demo, nguồn: ubtechvietnam.edu.vn. Cần Phòng Kỹ thuật xác nhận thông số khớp phiên bản IPPTech cung cấp tại Việt Nam trước khi đăng. Bảng thông số cho tải PDF. KHÔNG hiển thị giá — chỉ nút \"Yêu cầu báo giá\" (brief, quyết định 06). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › [tên sản phẩm]."
+  },
+  {
+    "id": "NOTE-035",
+    "section": "Robot hình người Yanshee",
+    "section_id": 18,
+    "page": 47,
+    "range": [
+      46,
+      47
+    ],
+    "requirement": "Lưu ý: Thông số giữ nguyên theo bản demo, nguồn: ubtrobot.com; yandev.ubtrobot.com. Cần Phòng Kỹ thuật xác nhận thông số khớp phiên bản IPPTech cung cấp tại Việt Nam trước khi đăng. Bảng thông số cho tải PDF. KHÔNG hiển thị giá — chỉ nút \"Yêu cầu báo giá\" (brief, quyết định 06). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › [tên sản phẩm]."
+  },
+  {
+    "id": "NOTE-036",
+    "section": "UKit AI",
+    "section_id": 19,
+    "page": 49,
+    "range": [
+      48,
+      49
+    ],
+    "requirement": "Lưu ý: Thông số giữ nguyên theo bản demo, nguồn: ubtrobot.com. Cần Phòng Kỹ thuật xác nhận thông số khớp phiên bản IPPTech cung cấp tại Việt Nam trước khi đăng. Bảng thông số cho tải PDF. KHÔNG hiển thị giá — chỉ nút \"Yêu cầu báo giá\" (brief, quyết định 06). Breadcrumb: Trang chủ › Thương hiệu › UBTECH › [tên sản phẩm]."
+  },
+  {
+    "id": "NOTE-037",
+    "section": "UBTECH — Robot dịch vụ & Công nghệ",
+    "section_id": 20,
+    "page": 51,
+    "range": [
+      50,
+      52
+    ],
+    "requirement": "Lưu ý: Thông số \"thực tế\" phải đo trên phiên bản cung cấp tại VN, không chép từ brochure quốc tế."
+  },
+  {
+    "id": "NOTE-038",
+    "section": "UBTECH — Robot dịch vụ & Công nghệ",
+    "section_id": 20,
+    "page": 52,
+    "range": [
+      50,
+      52
+    ],
+    "requirement": "Lưu ý: [CẦN: video/ảnh robot đang hoạt động tại Việt Nam — Marketing]. Giọng văn nhánh doanh nghiệp: vận hành, trải nghiệm khách hàng."
+  },
+  {
+    "id": "NOTE-039",
+    "section": "Robot lễ tân Cruzr",
+    "section_id": 21,
+    "page": 54,
+    "range": [
+      53,
+      54
+    ],
+    "requirement": "Lưu ý: Tính năng tham chiếu Cruzr 1S (bản demo, nguồn ubtrobot.com). [CẦN: xác nhận phiên bản Cruzr cung cấp tại VN — Phòng Kỹ thuật]. Không hiển thị giá; giá mua/thuê gửi riêng qua báo giá."
+  },
+  {
+    "id": "NOTE-040",
+    "section": "Robot hình người U1",
+    "section_id": 22,
+    "page": 56,
+    "range": [
+      55,
+      56
+    ],
+    "requirement": "Lưu ý: Tên sản phẩm: brief ghi \"Robot hình người da người U1\", bản demo ghi \"Robot hình người U1\". Theo quy tắc câu chữ → dùng tên bản demo; Marketing xác nhận tên cuối. URL giữ /u1."
+  },
+  {
+    "id": "NOTE-041",
+    "section": "Thương hiệu 02 [khe trống]",
+    "section_id": 23,
+    "page": 58,
+    "range": [
+      57,
+      58
+    ],
+    "requirement": "Lưu ý: Khe trống: chưa có tên thương hiệu/sản phẩm chính thức (bản demo). Trang này có thể đặt noindex cho tới khi có brand thật; khi có, copy nguyên khuôn UBTECH (brief mục 07). [CẦN: tên, logo, hồ sơ thương hiệu 02 khi ký kết — Ban điều hành]."
+  },
+  {
+    "id": "NOTE-042",
+    "section": "Thương hiệu 03 [khe trống]",
+    "section_id": 24,
+    "page": 60,
+    "range": [
+      59,
+      60
+    ],
+    "requirement": "Lưu ý: Khe trống, tương tự Thương hiệu 02. Có thể đặt noindex tới khi có brand thật. [CẦN: tên, logo, hồ sơ thương hiệu 03 khi ký kết — Ban điều hành]."
+  },
+  {
+    "id": "NOTE-043",
+    "section": "Giải pháp",
+    "section_id": 25,
+    "page": 62,
+    "range": [
+      61,
+      63
+    ],
+    "requirement": "Lưu ý: Khối phân luồng hiển thị dạng các nút chọn lớn (chip); mỗi dòng là một link: /giai-phap/giao-duc-cong-lap/phong-thuc-hanh-stem · /giai-phap/giao-duc-cong-lap/de-an-cap-tinh · /giai-phap/giao-duc-cong-lap/tap-huan-giao-vien · /giai-phap/doanh-nghiep · /giai-phap/su-kien-truyen-thong · /giai-phap/cuoc-thi-robotics."
+  },
+  {
+    "id": "NOTE-044",
+    "section": "Giải pháp",
+    "section_id": 25,
+    "page": 63,
+    "range": [
+      61,
+      63
+    ],
+    "requirement": "Lưu ý: Hai dự án đầu do IPPG công bố — cần xác nhận vai trò IPPTech (xem ghi chú Trang chủ)."
+  },
+  {
+    "id": "NOTE-045",
+    "section": "Giải pháp",
+    "section_id": 25,
+    "page": 63,
+    "range": [
+      61,
+      63
+    ],
+    "requirement": "Lưu ý: [CẦN: xác nhận khảo sát miễn phí áp dụng cho khu vực nào — Phòng Kinh doanh]. Brief yêu cầu CTA \"khảo sát hiện trạng miễn phí\"."
+  },
+  {
+    "id": "NOTE-046",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 64,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Hero không nhắc tên brand (brief, wireframe C). Giọng văn chuẩn mực, ngôn ngữ đề án, xưng \"quý trường/quý đơn vị\"."
+  },
+  {
+    "id": "NOTE-047",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 65,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Bản demo mới dẫn chung hướng dẫn nhiệm vụ 2024–2025; chưa có số hiệu văn bản danh mục thiết bị. KHÔNG tự điền số thông tư. Phòng Kỹ thuật cung cấp số hiệu, ngày ban hành và đường dẫn văn bản gốc; bảng phải ghi ngày cập nhật (brief)."
+  },
+  {
+    "id": "NOTE-048",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 65,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Không công khai giá hay dự toán (bảo mật). Dự toán chi tiết gửi riêng qua hồ sơ báo giá. Phân bổ học cụ theo cấp học chờ Phòng Kỹ thuật xác nhận (xem bảng đối chiếu ở trang UBTECH — Giáo dục)."
+  },
+  {
+    "id": "NOTE-049",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 66,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Chỉ mô tả vai trò hỗ trợ kỹ thuật; không nêu địa phương đang tiếp cận hay tiến độ dự án đang chào thầu (bảo mật)."
+  },
+  {
+    "id": "NOTE-050",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 66,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Form lấy thông tin đơn vị trước khi gửi file. Dự toán mẫu KHÔNG đặt link tải công khai — chỉ gửi riêng qua email sau khi xác minh đơn vị."
+  },
+  {
+    "id": "NOTE-051",
+    "section": "Giáo dục công lập",
+    "section_id": 26,
+    "page": 66,
+    "range": [
+      64,
+      67
+    ],
+    "requirement": "Lưu ý: Con số năng lực tổng hợp: chờ ban điều hành duyệt công bố. Chỉ nêu tên trường/địa phương đã công bố công khai hoặc có đồng ý bằng văn bản. Không nêu số lượng mua gắn với tên trường."
+  },
+  {
+    "id": "NOTE-052",
+    "section": "Phòng thực hành STEM theo danh mục thiết bị",
+    "section_id": 27,
+    "page": 69,
+    "range": [
+      68,
+      69
+    ],
+    "requirement": "Lưu ý: [CẦN: số hiệu văn bản danh mục thiết bị để trích dẫn — Phòng Kỹ thuật]. [CẦN: bản vẽ bố trí phòng mẫu theo diện tích — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-053",
+    "section": "Cấu hình theo cấp học (TH / THCS / THPT)",
+    "section_id": 28,
+    "page": 71,
+    "range": [
+      70,
+      71
+    ],
+    "requirement": "Lưu ý: Phân bổ học cụ theo cấp học suy từ mô tả sản phẩm trong bản demo; chờ Phòng Kỹ thuật duyệt. Không nêu số lượng hay giá theo gói."
+  },
+  {
+    "id": "NOTE-054",
+    "section": "Đề án cấp tỉnh / thành phố",
+    "section_id": 29,
+    "page": 73,
+    "range": [
+      72,
+      73
+    ],
+    "requirement": "Lưu ý: Không nêu tỉnh nào đang lập đề án cùng IPPTech (bảo mật pipeline). Dự toán mẫu KHÔNG đăng công khai. [CẦN: file thuyết minh đề án mẫu và danh mục kỹ thuật — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-055",
+    "section": "Tập huấn giáo viên & chuyển giao",
+    "section_id": 30,
+    "page": 74,
+    "range": [
+      74,
+      75
+    ],
+    "requirement": "Lưu ý: Thời lượng tùy thiết bị, trình độ và chương trình (bản demo). [CẦN: số giáo viên đã tập huấn (số tổng hợp) — Ban điều hành]; chờ duyệt công bố."
+  },
+  {
+    "id": "NOTE-056",
+    "section": "Trường tư & Trung tâm STEM",
+    "section_id": 31,
+    "page": 77,
+    "range": [
+      76,
+      77
+    ],
+    "requirement": "Lưu ý: Brief nêu 3 mô hình hợp tác. Không công bố tỉ lệ chia sẻ doanh thu, giá thuê hay giá bán (bảo mật) — [CẦN: điều kiện từng mô hình — chỉ gửi riêng qua hồ sơ báo giá]. Giọng văn nhánh giáo dục nhưng nhấn vào tuyển sinh."
+  },
+  {
+    "id": "NOTE-057",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "section_id": 32,
+    "page": 78,
+    "range": [
+      78,
+      80
+    ],
+    "requirement": "Lưu ý: Giọng văn nhánh doanh nghiệp: vận hành, trải nghiệm khách hàng."
+  },
+  {
+    "id": "NOTE-058",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "section_id": 32,
+    "page": 79,
+    "range": [
+      78,
+      80
+    ],
+    "requirement": "Lưu ý: Không tự đặt con số kết quả. Chỉ dùng số đo từ dự án thật và được khách đồng ý công bố; ghi nguồn trong note."
+  },
+  {
+    "id": "NOTE-059",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "section_id": 32,
+    "page": 79,
+    "range": [
+      78,
+      80
+    ],
+    "requirement": "Lưu ý: [CẦN: thông số hạ tầng tối thiểu (bề rộng lối đi, băng thông Wi-Fi, nguồn điện) — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-060",
+    "section": "Doanh nghiệp & Dịch vụ công",
+    "section_id": 32,
+    "page": 80,
+    "range": [
+      78,
+      80
+    ],
+    "requirement": "Lưu ý: Chỉ mô tả hình thức. Giá mua, giá thuê theo ngày/tháng — [CẦN: bảng giá mua/thuê — chỉ gửi riêng qua hồ sơ báo giá]."
+  },
+  {
+    "id": "NOTE-061",
+    "section": "Ngân hàng & Bán lẻ",
+    "section_id": 33,
+    "page": 81,
+    "range": [
+      81,
+      81
+    ],
+    "requirement": "Lưu ý: Chưa có dự án ngân hàng công bố. [CẦN: dự án ngân hàng/bán lẻ đã được khách đồng ý công bố — Phòng Kinh doanh]. Không nêu tên ngân hàng đang tiếp cận."
+  },
+  {
+    "id": "NOTE-062",
+    "section": "Bất động sản & Showroom",
+    "section_id": 34,
+    "page": 82,
+    "range": [
+      82,
+      83
+    ],
+    "requirement": "Lưu ý: [CẦN: dự án showroom/bất động sản đã được khách đồng ý công bố — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-063",
+    "section": "Hành chính công & Y tế",
+    "section_id": 35,
+    "page": 85,
+    "range": [
+      84,
+      85
+    ],
+    "requirement": "Lưu ý: Với đơn vị công, lưu ý quy trình mua sắm công tương tự nhánh giáo dục. [CẦN: dự án hành chính công/y tế đã được đồng ý công bố — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-064",
+    "section": "Du lịch, Bảo tàng & Sân bay",
+    "section_id": 36,
+    "page": 86,
+    "range": [
+      86,
+      86
+    ],
+    "requirement": "Lưu ý: [CẦN: xác nhận robot có hỗ trợ tiếng Việt và các ngôn ngữ nào — Phòng Kỹ thuật]. [CẦN: dự án du lịch/bảo tàng đã được đồng ý công bố — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-065",
+    "section": "Sự kiện & Truyền thông thương hiệu",
+    "section_id": 37,
+    "page": 88,
+    "range": [
+      87,
+      88
+    ],
+    "requirement": "Lưu ý: Bảng gói là khung đề xuất — Phòng Kinh doanh xác nhận số ngày/số robot và hạng mục bao gồm. KHÔNG hiển thị giá thuê (bảo mật) — [CẦN: bảng giá thuê theo gói — chỉ gửi riêng qua hồ sơ báo giá]."
+  },
+  {
+    "id": "NOTE-066",
+    "section": "Sự kiện & Truyền thông thương hiệu",
+    "section_id": 37,
+    "page": 88,
+    "range": [
+      87,
+      88
+    ],
+    "requirement": "Lưu ý: Form nhanh có trường bắt buộc \"Ngày sự kiện\" (brief), cùng: tên đơn vị, địa điểm, số khách, hình thức mong muốn, số điện thoại. Nhóm khách này quyết định trong vài ngày — ưu tiên phản hồi nhanh."
+  },
+  {
+    "id": "NOTE-067",
+    "section": "Sân chơi & Cuộc thi Robotics",
+    "section_id": 38,
+    "page": 89,
+    "range": [
+      89,
+      90
+    ],
+    "requirement": "Lưu ý: Mùa 2024 lấy theo tham chiếu trong bản demo (nguồn ippgroup.vn). Số liệu mùa thi là con số tổng hợp — chờ duyệt công bố."
+  },
+  {
+    "id": "NOTE-068",
+    "section": "Sân chơi & Cuộc thi Robotics",
+    "section_id": 38,
+    "page": 90,
+    "range": [
+      89,
+      90
+    ],
+    "requirement": "Lưu ý: Nút lớn dẫn ra robog.edu.vn, mở tab mới, icon ↗ (brief). Không nhúng iframe. Không đăng thông tin cá nhân học sinh (họ tên, trường cụ thể) nếu chưa có đồng ý của phụ huynh."
+  },
+  {
+    "id": "NOTE-069",
+    "section": "Dự án & Đối tác",
+    "section_id": 39,
+    "page": 91,
+    "range": [
+      91,
+      92
+    ],
+    "requirement": "Lưu ý: Con số năng lực tổng hợp: chờ ban điều hành duyệt công bố."
+  },
+  {
+    "id": "NOTE-070",
+    "section": "Dự án & Đối tác",
+    "section_id": 39,
+    "page": 92,
+    "range": [
+      91,
+      92
+    ],
+    "requirement": "Lưu ý: Brief yêu cầu bản đồ/danh sách địa phương đã triển khai — xem trang Giáo dục công lập; chỉ tên đã công bố."
+  },
+  {
+    "id": "NOTE-071",
+    "section": "Dự án tiêu biểu",
+    "section_id": 40,
+    "page": 93,
+    "range": [
+      93,
+      94
+    ],
+    "requirement": "Lưu ý: Bộ lọc dùng query param (?linh-vuc=giao-duc&nam=2026), không tạo URL mới, kèm rel=canonical về trang gốc (brief)."
+  },
+  {
+    "id": "NOTE-072",
+    "section": "Dự án tiêu biểu",
+    "section_id": 40,
+    "page": 94,
+    "range": [
+      93,
+      94
+    ],
+    "requirement": "Lưu ý: Thẻ dự án: ảnh · tên đơn vị · quy mô · một con số kết quả (brief). Chỉ đăng dự án đã công bố công khai hoặc có đồng ý bằng văn bản. Không nêu dự án đang chào thầu."
+  },
+  {
+    "id": "NOTE-073",
+    "section": "Trang chi tiết dự án (khuôn mẫu)",
+    "section_id": 41,
+    "page": 96,
+    "range": [
+      95,
+      96
+    ],
+    "requirement": "Lưu ý: Đây là khuôn cố định cho mọi trang chi tiết dự án (brief, wireframe D). Nội dung trong [ ] là trường điền, không phải dữ liệu thiếu.QUY TẮC BẢO MẬT cho mọi dự án: không ghi giá trị hợp đồng, ngân sách, dự toán; không ghi số lượng mua gắn tên khách hàng nếu khách chưa đồng ý; trích dẫn chỉ đăng khi có đồng ý bằng văn bản (tên thật, chức danh, đơn vị). Lưu văn bản đồng ý trong hồ sơ dự án."
+  },
+  {
+    "id": "NOTE-074",
+    "section": "Trung tâm Giáo dục đào tạo AI — ĐHQG TP.HCM",
+    "section_id": 42,
+    "page": 98,
+    "range": [
+      97,
+      98
+    ],
+    "requirement": "Lưu ý: Hoạt động do IPPG công bố công khai trên ippgroup.vn (giữ nguyên ngày công bố). [CẦN: xác nhận vai trò IPPTech trong dự án và đồng ý đăng như dự án của IPPTech — Ban điều hành]. Nếu IPPTech không trực tiếp thực hiện, ghi \"dự án trong hệ sinh thái IPPG\"."
+  },
+  {
+    "id": "NOTE-075",
+    "section": "Chương trình AI & Robotics cùng FPT Schools",
+    "section_id": 43,
+    "page": 100,
+    "range": [
+      99,
+      100
+    ],
+    "requirement": "Lưu ý: Hoạt động do IPPG công bố công khai trên ippgroup.vn (giữ nguyên ngày công bố). [CẦN: xác nhận vai trò IPPTech trong dự án và đồng ý đăng như dự án của IPPTech — Ban điều hành]. Nếu IPPTech không trực tiếp thực hiện, ghi \"dự án trong hệ sinh thái IPPG\"."
+  },
+  {
+    "id": "NOTE-076",
+    "section": "IPPTech qua những con số",
+    "section_id": 44,
+    "page": 102,
+    "range": [
+      101,
+      102
+    ],
+    "requirement": "Lưu ý: Con số năng lực tổng hợp: chờ ban điều hành duyệt công bố. Chỉ công bố số tổng hợp năng lực. KHÔNG đưa doanh thu, số nhân sự chi tiết, tồn kho, giá trị hợp đồng (bảo mật số liệu nội bộ) — dù mẫu \"Những con số ấn tượng\" của IPPG có thể có."
+  },
+  {
+    "id": "NOTE-077",
+    "section": "IPPTech qua những con số",
+    "section_id": 44,
+    "page": 102,
+    "range": [
+      101,
+      102
+    ],
+    "requirement": "Lưu ý: Biểu đồ cột theo năm; dữ liệu nhập qua CMS để cập nhật không cần dev."
+  },
+  {
+    "id": "NOTE-078",
+    "section": "Đối tác thương hiệu & ủy quyền",
+    "section_id": 45,
+    "page": 104,
+    "range": [
+      103,
+      104
+    ],
+    "requirement": "Lưu ý: \"Phạm vi ủy quyền\" chỉ ghi dòng sản phẩm và lãnh thổ. KHÔNG ghi độc quyền/không độc quyền, chiết khấu, chỉ tiêu (bảo mật điều khoản với hãng). [CẦN: xác nhận phạm vi ủy quyền theo thư ủy quyền hiện hành — Hành chính – Pháp chế]."
+  },
+  {
+    "id": "NOTE-079",
+    "section": "Mạng lưới đại lý & nhà thầu",
+    "section_id": 46,
+    "page": 105,
+    "range": [
+      105,
+      106
+    ],
+    "requirement": "Lưu ý: Chỉ hiển thị khu vực (vùng/tỉnh) có đại lý đã đồng ý công khai. KHÔNG hiển thị địa phương đang tiếp cận hoặc khu vực đang tìm đại lý cụ thể (bảo mật pipeline)."
+  },
+  {
+    "id": "NOTE-080",
+    "section": "Mạng lưới đại lý & nhà thầu",
+    "section_id": 46,
+    "page": 106,
+    "range": [
+      105,
+      106
+    ],
+    "requirement": "Lưu ý: Chiết khấu, giá đại lý, chỉ tiêu: KHÔNG đăng — [CẦN: chính sách thương mại đại lý — chỉ gửi riêng qua hồ sơ báo giá]."
+  },
+  {
+    "id": "NOTE-081",
+    "section": "Mạng lưới đại lý & nhà thầu",
+    "section_id": 46,
+    "page": 106,
+    "range": [
+      105,
+      106
+    ],
+    "requirement": "Lưu ý: BOQ mẫu không kèm đơn giá khi gửi đại lý qua kênh công khai."
+  },
+  {
+    "id": "NOTE-082",
+    "section": "Hợp tác cùng IPPTech",
+    "section_id": 47,
+    "page": 108,
+    "range": [
+      107,
+      108
+    ],
+    "requirement": "Lưu ý: Form có trường chọn luồng bắt buộc; mỗi luồng đi tới một hộp thư riêng (brief, checklist \"Form đi đúng người\"). Dùng email chức năng (vd: partner@…) thay vì email cá nhân."
+  },
+  {
+    "id": "NOTE-083",
+    "section": "Tài nguyên",
+    "section_id": 48,
+    "page": 109,
+    "range": [
+      109,
+      110
+    ],
+    "requirement": "Lưu ý: Đây là \"ba trang cửa ngõ web vệ tinh\" trong sitemap: brief chỉ yêu cầu thẻ dẫn ra ngoài, không dựng trang riêng trên web công ty. Mỗi thẻ: dành cho ai · tìm được gì · nút mở tab mới có icon ↗; không nhúng iframe."
+  },
+  {
+    "id": "NOTE-084",
+    "section": "Hồ sơ năng lực & Catalogue",
+    "section_id": 49,
+    "page": 112,
+    "range": [
+      111,
+      112
+    ],
+    "requirement": "Lưu ý: Mọi file công khai KHÔNG chứa bảng giá, chiết khấu, danh sách khách hàng tiềm năng. Rà lại hồ sơ năng lực hiện có trước khi đăng."
+  },
+  {
+    "id": "NOTE-085",
+    "section": "Hồ sơ năng lực & Catalogue",
+    "section_id": 49,
+    "page": 112,
+    "range": [
+      111,
+      112
+    ],
+    "requirement": "Lưu ý: Form ngắn 4 trường trước khi tải (brief). Lead chuyển vào CRM của Phòng Kinh doanh; có email xác nhận tự động kèm link tải."
+  },
+  {
+    "id": "NOTE-086",
+    "section": "Hỗ trợ kỹ thuật & Bảo hành",
+    "section_id": 50,
+    "page": 114,
+    "range": [
+      113,
+      114
+    ],
+    "requirement": "Lưu ý: Trường \"Số serial\" bắt buộc (brief). Form gửi vào hộp thư kỹ thuật, tự động tạo mã yêu cầu và email xác nhận."
+  },
+  {
+    "id": "NOTE-087",
+    "section": "Hỗ trợ kỹ thuật & Bảo hành",
+    "section_id": 50,
+    "page": 114,
+    "range": [
+      113,
+      114
+    ],
+    "requirement": "Lưu ý: [CẦN: chính sách bảo hành và phụ tùng (file PDF) — Phòng Kỹ thuật]."
+  },
+  {
+    "id": "NOTE-088",
+    "section": "Câu hỏi thường gặp",
+    "section_id": 51,
+    "page": 117,
+    "range": [
+      115,
+      117
+    ],
+    "requirement": "Lưu ý: Mỗi câu trả lời link tới trang sâu tương ứng: /ve-ipptech/ho-so-phap-ly, /giai-phap/giao-duc-cong-lap, /tai-nguyen/ho-tro, /giai-phap/giao-duc-cong-lap/tap-huan-giao-vien. Dùng accordion + schema FAQPage. [CẦN: bổ sung câu hỏi thực tế khách hay hỏi — Phòng Kinh doanh]."
+  },
+  {
+    "id": "NOTE-089",
+    "section": "Tin tức & Sự kiện",
+    "section_id": 52,
+    "page": 118,
+    "range": [
+      118,
+      119
+    ],
+    "requirement": "Lưu ý: Khối động từ CMS — biên tập viên chọn bài ghim. Nội dung trong [ ] là trường CMS."
+  },
+  {
+    "id": "NOTE-090",
+    "section": "Tin tức & Sự kiện",
+    "section_id": 52,
+    "page": 119,
+    "range": [
+      118,
+      119
+    ],
+    "requirement": "Lưu ý: Form bản tin chỉ 1 trường email + ô đồng ý nhận tin (tuân thủ chính sách bảo mật). Tần suất \"tối đa một lần mỗi tháng\" là đề xuất — Marketing xác nhận."
+  },
+  {
+    "id": "NOTE-091",
+    "section": "Tin công ty",
+    "section_id": 53,
+    "page": 121,
+    "range": [
+      120,
+      121
+    ],
+    "requirement": "Lưu ý: Bài có sẵn để đăng lại (đã công bố bởi IPPG): khai trương Trung tâm AI ĐHQG TP.HCM (24/04/2021), hợp tác FPT Schools (22/12/2022) — cần xác nhận vai trò IPPTech. Bài bàn giao dự án: không ghi giá trị hợp đồng, số lượng gắn tên khách nếu khách chưa đồng ý, không đăng tiến độ dự án đang chào thầu. Liên kết chéo sang dự án tương ứng (brief)."
+  },
+  {
+    "id": "NOTE-092",
+    "section": "Tin thương hiệu & sản phẩm mới",
+    "section_id": 54,
+    "page": 122,
+    "range": [
+      122,
+      123
+    ],
+    "requirement": "Lưu ý: Bộ lọc theo thương hiệu dùng query param (brief)."
+  },
+  {
+    "id": "NOTE-093",
+    "section": "Tin thương hiệu & sản phẩm mới",
+    "section_id": 54,
+    "page": 123,
+    "range": [
+      122,
+      123
+    ],
+    "requirement": "Lưu ý: Bài dịch từ hãng phải ghi nguồn (brief). Nếu sản phẩm chưa phân phối tại VN (vd: Walker S2), ghi rõ \"chưa có tại Việt Nam\" để tránh khách hỏi mua."
+  },
+  {
+    "id": "NOTE-094",
+    "section": "Chính sách & thị trường giáo dục",
+    "section_id": 55,
+    "page": 125,
+    "range": [
+      124,
+      125
+    ],
+    "requirement": "Lưu ý: Không tự điền số hiệu văn bản khi chưa có bản gốc. Mỗi bài chính sách phải có link nguồn chính thức (.gov.vn, chinhphu.vn, moet.gov.vn)."
+  },
+  {
+    "id": "NOTE-095",
+    "section": "Chính sách & thị trường giáo dục",
+    "section_id": 55,
+    "page": 125,
+    "range": [
+      124,
+      125
+    ],
+    "requirement": "Lưu ý: CTA nhẹ theo brief. [CẦN: file bản tóm tắt danh mục thiết bị — Phòng Kỹ thuật]. Giọng văn chuẩn mực, ngôn ngữ đề án."
+  },
+  {
+    "id": "NOTE-096",
+    "section": "Sự kiện & triển lãm",
+    "section_id": 56,
+    "page": 127,
+    "range": [
+      126,
+      127
+    ],
+    "requirement": "Lưu ý: Mỗi sự kiện đã qua kèm album ảnh (brief). Không đăng ảnh có người nhận diện rõ mà chưa xin phép, đặc biệt là học sinh."
+  },
+  {
+    "id": "NOTE-097",
+    "section": "Báo chí & Press kit",
+    "section_id": 57,
+    "page": 128,
+    "range": [
+      128,
+      129
+    ],
+    "requirement": "Lưu ý: [CẦN: gói press kit ZIP gồm logo, ảnh có quyền sử dụng — Marketing]. Ảnh sản phẩm hãng: kiểm tra quyền dùng cho báo chí."
+  },
+  {
+    "id": "NOTE-098",
+    "section": "Báo chí & Press kit",
+    "section_id": 57,
+    "page": 129,
+    "range": [
+      128,
+      129
+    ],
+    "requirement": "Lưu ý: [CẦN: xác nhận tên tiếng Anh chính thức của IPPG — Marketing] (bản nháp dùng \"Intercontinental Pacific Group\"). Boilerplate không chứa con số; nếu thêm số năng lực, chờ Ban điều hành duyệt."
+  },
+  {
+    "id": "NOTE-099",
+    "section": "Thư viện hình ảnh & video",
+    "section_id": 58,
+    "page": 131,
+    "range": [
+      130,
+      131
+    ],
+    "requirement": "Lưu ý: [CẦN: album ảnh và video thực tế tại VN có quyền sử dụng — Marketing]. Video nhúng có phụ đề (brief). Ảnh có học sinh: cần xác nhận nhà trường/phụ huynh đồng ý. Ảnh nén WebP ≤ 300 KB, lazy-load."
+  },
+  {
+    "id": "NOTE-100",
+    "section": "Liên hệ",
+    "section_id": 59,
+    "page": 132,
+    "range": [
+      132,
+      133
+    ],
+    "requirement": "Lưu ý: Nhúng bản đồ Google Maps Centec Tower (brief)."
+  },
+  {
+    "id": "NOTE-101",
+    "section": "Liên hệ",
+    "section_id": 59,
+    "page": 133,
+    "range": [
+      132,
+      133
+    ],
+    "requirement": "Lưu ý: Mỗi luồng cần email chức năng riêng: [CẦN: email chức năng cho từng luồng — Hành chính – Pháp chế]. Không đăng số di động cá nhân."
+  },
+  {
+    "id": "NOTE-102",
+    "section": "Yêu cầu báo giá & hồ sơ thầu",
+    "section_id": 60,
+    "page": 134,
+    "range": [
+      134,
+      135
+    ],
+    "requirement": "Lưu ý: Các trường bắt buộc theo brief. Ô \"Cần hồ sơ pháp lý\" dạng tick chọn nhiều. Form gửi vào hộp thư Phòng Kinh doanh + email xác nhận tự động. Dữ liệu khách không hiển thị công khai ở đâu trên web."
+  },
+  {
+    "id": "NOTE-103",
+    "section": "Đăng ký trải nghiệm robot",
+    "section_id": 61,
+    "page": 137,
+    "range": [
+      136,
+      137
+    ],
+    "requirement": "Lưu ý: Form có chọn robot và chọn ngày (brief). [CẦN: điều kiện demo tại đơn vị (khu vực, số người tối thiểu) — Phòng Kinh doanh]. Không nêu phí demo nếu có (gửi riêng)."
+  },
+  {
+    "id": "NOTE-104",
+    "section": "Đăng ký làm đại lý",
+    "section_id": 62,
+    "page": 139,
+    "range": [
+      138,
+      139
+    ],
+    "requirement": "Lưu ý: Trường \"khách hàng hiện có\" chỉ hỏi nhóm khách, không yêu cầu tên khách hàng cụ thể. Chính sách thương mại đại lý không đăng — gửi riêng."
+  },
+  {
+    "id": "NOTE-105",
+    "section": "Sơ đồ website",
+    "section_id": 63,
+    "page": 140,
+    "range": [
+      140,
+      140
+    ],
+    "requirement": "Lưu ý: Trang tự sinh từ cấu trúc menu, khớp /sitemap.xml; đủ bản VN và EN, không còn URL rác (brief, checklist nghiệm thu). Có thể đặt noindex,follow."
+  },
+  {
+    "id": "NOTE-106",
+    "section": "Chính sách bảo mật",
+    "section_id": 64,
+    "page": 141,
+    "range": [
+      141,
+      141
+    ],
+    "requirement": "Lưu ý: Bản khung — [CẦN: nội dung chính sách bảo mật đầy đủ theo quy định bảo vệ dữ liệu cá nhân hiện hành, pháp chế duyệt — Hành chính – Pháp chế]. Không tự soạn điều khoản pháp lý thay pháp chế."
+  },
+  {
+    "id": "NOTE-107",
+    "section": "Điều khoản sử dụng",
+    "section_id": 65,
+    "page": 142,
+    "range": [
+      142,
+      142
+    ],
+    "requirement": "Lưu ý: Bản khung — [CẦN: điều khoản sử dụng đầy đủ, pháp chế duyệt — Hành chính – Pháp chế]."
+  },
+  {
+    "id": "NOTE-108",
+    "section": "Trang 404",
+    "section_id": 66,
+    "page": 143,
+    "range": [
+      143,
+      143
+    ],
+    "requirement": "Lưu ý: Trả mã HTTP 404 thật, noindex. Có 3 lối đi chính theo brief. Có ô tìm kiếm."
+  }
+]

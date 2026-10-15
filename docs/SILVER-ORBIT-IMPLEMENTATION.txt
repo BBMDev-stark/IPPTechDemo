@@ -1,0 +1,22 @@
+IPPTech — Silver Orbit implementation
+
+Selected visual: centered silver-orbit layout from the approved concept.
+Palette: IPPTech cyan, pearl white, silver and slate text. Original navigation and intro retained.
+Robot and four social-source photos are separate interactive HTML elements; no generated people or product imagery was added to the gallery.
+The full canonical homepage introduction is below the hero in two readable columns. The original actions, partner information and service benefits remain rendered.
+Hologram preview is initially visible; controls allow collapse/reopen, mouse interaction, photo enlargement, arrow navigation, Escape and keyboard focus restoration.
+
+Decorative background asset:
+public/images/ipptech-silver-pavilion.webp
+Created with built-in image_gen. Converted to WebP for delivery.
+Source: C:/Users/binhb/.codex/generated_images/01a1330b-b767-7a00-a61b-b296575a50c9/exec-7e28ddb5-b264-431a-9a0e-b7f15bb8d88e.png
+
+Generation prompt:
+Create a photorealistic premium futuristic architectural interior BACKGROUND ASSET for a robotics website, landscape 16:9 at high resolution. Empty bright airy circular technology pavilion, glossy pearl white and brushed silver architecture with very subtle ice blue and cyan accent illumination. Symmetric frontal camera, low eye-level perspective, large shallow oval ceiling ring high at the top, elegantly curved structural ribs leading toward far left and right, expansive lightly reflective white marble-like floor occupying lower quarter, distant glass windows showing a soft faint urban skyline only at the far sides. Restrained atmosphere and realistic soft daylight, expensive industrial design showroom, futuristic but welcoming, clean not busy. The entire middle 65% of the image must be almost empty with very soft blurred pale silver-blue gradient so a foreground robot and UI copy can be composited cleanly. Central bright wall transitions into a gently reflective floor without harsh horizon. Light cyan rim lights in the architecture at sides. Pale whites stay neutral white; no purple, no violet, no dark blue backdrop. Foreground floor has a VERY subtle oval reflection area at bottom center but no physical pedestal, since pedestal will be rendered in CSS. NO robot, no people, no letters, no text, no logo, no panels, no UI, no floating screens, no furniture in center. Do not render a website mockup, ONLY the empty background space.
+
+Validation:
+Next.js production build passed.
+65 document route content checks passed.
+85 rendered pages: internal links and assets passed.
+1139 canonical text items across 65 pages retained.
+Desktop and mobile browser checks: enlargement, next photo, Escape, focus restoration, touch collapse/reopen; no horizontal overflow at 390px.

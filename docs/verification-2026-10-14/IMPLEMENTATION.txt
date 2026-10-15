@@ -1,0 +1,28 @@
+UI/UX INNER PAGE REFRESH — 14/10/2026
+
+Scope: local website; document-informed presentation changes across inner-page templates. No production deployment. Homepage intro and hologram implementation untouched.
+
+Basis: docs/review148/internal-requirements.json, page review and image manifest; docs/CONTENT-DOCUMENT-AUDIT.md and UIUX-CONTENT-PRESERVATION.txt. Retained the document requirement to place the education-level matrix high on the education page, despite the earlier audit suggestion to move it below products. Retained required fields, product exclusions, no prices, source/model qualifications, IPPG project attribution and unknown-data exclusions.
+
+Implementation:
+- Page-specific classes and compact task-oriented heroes; contextual end actions.
+- Public resource library first; contact routing first; demo form before secondary explanatory sections.
+- FAQ grouping with original headings, block anchors, nine questions and final contact block preserved.
+- Teacher-training CTA placed under school audience.
+- Contact introduction corrected to include technical support alongside the original five needs.
+- Twelve manufacturer WebP images with sources, all below 300 KB. Existing public social images retained. New product galleries with accessible enlargement, keyboard navigation and source links.
+- Yanshee whole-body coding image; showroom-specific Cruzr imagery; bank/retail cross-sector source image; administrative/medical scenario illustration instead of museum photograph.
+- Functional STEM-space illustration labelled as illustrative, not a technical floorplan. Equipment imagery added separately.
+- Product-specific feature summaries retained alongside original learning-path copy.
+- News filters styled and dated entries sorted; project filters collapsible with all choices retained; forms have need-specific notices.
+- Mobile product tables fit the available width; other wide tables retain accessible horizontal scroll and hints.
+
+Validation:
+next build PASS: 88 generated pages.
+Content retention PASS: 1139 source text items across 65 content pages.
+Content checks PASS: headings, catalogue, required forms, FAQ, sitemap, no internal editorial placeholders.
+Internal link/asset checks PASS: 85 prerendered HTML pages.
+Browser QA: desktop product/lightbox, showroom, public resources; mobile demo form, FAQ, Yanshee table (333px table in 333px container). No form submitted. Yanshee screenshot saved in this directory.
+
+Limits:
+This is preservation of existing published website copy, not certification that all 148 Word pages' unavailable assets/business requirements are fulfilled. New Zoo/Super Engineer source image requests failed; existing images retained. New LinkedIn CDN candidates were inaccessible; no bypass attempted. Company personnel, dealer lists, verified metrics, private legal PDFs and project outcome evidence were not invented. Source-image provenance in docs/product-assets-refresh.json.

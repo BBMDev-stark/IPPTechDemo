@@ -1,23 +1,31 @@
-import {articles} from './articles';
-import originalPages from './source-pages.json';
+import document from './website-content.json';
 export const nav = [['Về IPPTech','ve-ipptech'],['Thương hiệu & Sản phẩm','thuong-hieu'],['Giải pháp','giai-phap'],['Dự án & Đối tác','du-an-doi-tac'],['Tài nguyên','tai-nguyen'],['Tin tức & Sự kiện','tin-tuc'],['Liên hệ','lien-he']];
-export const pages = [...originalPages,{slug:'nang-luc',title:'Năng lực triển khai'}];
-export { catalog as products } from './catalog';
-export const descriptions: Record<string,string> = {
- 'lien-he':'Chia sẻ nhu cầu của bạn. IPPTech cùng bạn tìm giải pháp công nghệ, giáo dục và robot phù hợp với đơn vị.',
- 've-ipptech':'Kết nối công nghệ toàn cầu với nhu cầu Việt Nam. IPPTech phát triển hệ sinh thái giải pháp giáo dục, trí tuệ nhân tạo và robot trong hệ sinh thái IPP Group.',
- 'thuong-hieu':'Khám phá hệ sinh thái UBTECH. Từ robot giáo dục đến robot dịch vụ, đưa công nghệ đến gần hơn với con người.',
- 'giai-phap':'Bắt đầu từ nhu cầu thực tế. Tìm giải pháp phù hợp cho trường học, doanh nghiệp và không gian dịch vụ.',
- 'du-an-doi-tac':'Kết nối nhà trường, doanh nghiệp và đối tác công nghệ để cùng phát triển các ứng dụng AI & Robotics tại Việt Nam.',
- 'tai-nguyen':'Kết nối với đội ngũ IPPTech để nhận hồ sơ năng lực, tài liệu sản phẩm và hướng dẫn kỹ thuật phù hợp với nhu cầu.',
- 'tin-tuc':'Khám phá những chuyển động mới của công nghệ robot, hệ sinh thái UBTECH và giáo dục AI.',
- 'giai-phap/giao-duc':'Xây dựng môi trường học tập nơi học sinh được khám phá, thử nghiệm và sáng tạo cùng AI & Robotics.',
- 'giai-phap/doanh-nghiep':'Khám phá robot trong đón tiếp, giới thiệu sản phẩm và các trải nghiệm tương tác tại doanh nghiệp.',
- 'giai-phap/giao-duc/phong-thuc-hanh-stem':'Kết nối không gian, thiết bị robot và hoạt động thực hành thành một trải nghiệm học tập STEM liền mạch.',
+export type ContentNode = {type:string;text?:string;href?:string;rows?:string[][];name?:string};
+export type ContentBlock = {id:string;nodes:ContentNode[]};
+export type WebsitePage = {slug:string;title:string;seoTitle:string;description:string;keyword:string;blocks:ContentBlock[]};
+export const websitePages = document as WebsitePage[];
+export const pages = websitePages.filter(p=>p.slug).map(({slug,title})=>({slug,title}));
+export const aliases:Record<string,string> = {
+ 'nang-luc':'ve-ipptech/nang-luc',
+ 'nang-luc/phan-phoi':'ve-ipptech/nang-luc/phan-phoi',
+ 'nang-luc/trien-khai':'ve-ipptech/nang-luc/trien-khai',
+ 'nang-luc/bao-hanh':'ve-ipptech/nang-luc/bao-hanh',
+ 'nang-luc/dao-tao':'ve-ipptech/nang-luc/dao-tao',
+ 'giai-phap/giao-duc':'giai-phap/giao-duc-cong-lap',
+ 'giai-phap/giao-duc/phong-thuc-hanh-stem':'giai-phap/giao-duc-cong-lap/phong-thuc-hanh-stem',
+ 'giai-phap/giao-duc/tap-huan-giao-vien':'giai-phap/giao-duc-cong-lap/tap-huan-giao-vien',
+ 'giai-phap/giao-duc/cuoc-thi-robotics':'giai-phap/cuoc-thi-robotics',
+ 'giai-phap/giao-duc/ai-center':'giai-phap/truong-tu-trung-tam',
+ 'du-an-doi-tac/ai-center-dai-hoc-quoc-gia':'du-an-doi-tac/du-an-tieu-bieu/trung-tam-ai-dhqg-tphcm',
+ 'du-an-doi-tac/fpt-school':'du-an-doi-tac/du-an-tieu-bieu/fpt-schools-ai-robotics',
+ 'du-an-doi-tac/du-an-truong-cong':'giai-phap/giao-duc-cong-lap',
+ 'thuong-hieu/ubtech/bao-hanh-dich-vu-uy-quyen':'tai-nguyen/ho-tro',
+ 'tai-nguyen/tai-lieu-ky-thuat':'tai-nguyen',
 };
-const titleOverrides:Record<string,string>={'thuong-hieu/brand-02':'Thương hiệu tiếp theo 02','thuong-hieu/brand-03':'Thương hiệu tiếp theo 03','giai-phap/giao-duc':'Giải pháp cho trường học & cơ sở giáo dục','giai-phap/doanh-nghiep':'Doanh nghiệp & Dịch vụ công'};
-export function titleFor(slug:string){return titleOverrides[slug] || nav.find(n=>n[1]===slug)?.[0] || pages.find(p=>p.slug===slug)?.title || (slug.endsWith('walker-x')?'Walker X':'IPPTech');}
-export function descriptionFor(slug:string){return articles[slug]?.paragraphs[0] || descriptions[slug] || (slug.startsWith('thuong-hieu/ubtech/') ? 'Khám phá sản phẩm và ứng dụng trong hệ sinh thái UBTECH. Đội ngũ IPPTech đồng hành lựa chọn cấu hình, tư vấn triển khai và hỗ trợ kỹ thuật.' : descriptions[slug.split('/')[0]] || descriptions['ve-ipptech']);}
+export const archivedRoutes=['thuong-hieu/ubtech/cruzr-edu','thuong-hieu/ubtech/walker-s2-edu','thuong-hieu/ubtech/walker-x'];
+export const canonicalSlug=(slug:string)=>aliases[slug]||slug;
+export const pageFor=(slug:string)=>websitePages.find(p=>p.slug===canonicalSlug(slug));
+export function titleFor(slug:string){return pageFor(slug)?.title || 'Thông tin sản phẩm';}
+export function descriptionFor(slug:string){return pageFor(slug)?.description || 'Khám phá thiết bị STEM và robot cùng IPPTech.';}
 export const productHref=(slug:string)=>'/thuong-hieu/ubtech/'+slug+'/';
-
-
+export {catalog as products} from './catalog';
