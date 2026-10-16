@@ -1,0 +1,17 @@
+/* Shared project listing: used on both the homepage and document routes. */
+.project-stories,.document-page .project-stories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px;margin:28px 0}
+.project-story,.document-page .project-story,.document-page .project-story:nth-child(even){display:flex;flex-direction:column;align-items:stretch;gap:0;min-width:0;padding:0 0 26px;border-bottom:1px solid #d6e3ea}
+.document-page .project-story:last-child{padding-bottom:26px;border-bottom:1px solid #d6e3ea}
+.project-story-image,.document-page .project-story-image,.document-page .project-story:nth-child(even) .project-story-image{display:block;order:0;overflow:hidden;aspect-ratio:16/9;background:#edf2f5;border-radius:8px}
+.project-story-image img,.document-page .project-story-image img{display:block;width:100%;height:100%;aspect-ratio:auto;object-fit:cover;object-position:center;transition:transform .3s ease}
+.project-story-image:hover img{transform:scale(1.025)}
+.project-story-copy{display:flex;flex-direction:column;align-items:flex-start;flex:1;padding-top:22px}
+.project-story-date,.document-page .project-story-date{font-size:12px;line-height:1.6;color:#527a8d;letter-spacing:.3px}
+.project-story-copy h3,.document-page .project-story-copy h3{font-size:clamp(22px,2vw,28px);line-height:1.35;letter-spacing:-.5px;margin:9px 0 12px}
+.project-story-copy h3 a:hover{color:#087f9f}
+.project-story-copy p,.document-page .project-story-copy p{font-size:15px;line-height:1.8;margin:0 0 22px;color:#607583}
+.project-story-copy>.text-link,.document-page .project-story-copy>.text-link{display:inline-flex;align-items:center;gap:10px;margin-top:auto;margin-bottom:13px;font-size:14px;font-weight:600;color:#087f9f}
+.project-story-copy>.source-link,.document-page .project-story-copy>.source-link{display:inline-flex;align-items:center;gap:6px;font-size:12px;line-height:1.6;color:#527a8d}
+.project-story a:focus-visible{outline:2px solid #009fca;outline-offset:4px}
+@media(max-width:700px){.project-stories,.document-page .project-stories{grid-template-columns:1fr;gap:30px}.project-story-copy{padding-top:18px}}
+@media(prefers-reduced-motion:reduce){.project-story-image img{transition:none}}

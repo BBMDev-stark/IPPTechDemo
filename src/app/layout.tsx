@@ -22,3 +22,4 @@ import './document-refresh.css';
 
 import './editorial.css';
 import './image-quality.css';
+import './project-layout.css';
