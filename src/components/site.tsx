@@ -20,12 +20,7 @@ import { nav, pages, products, productHref, titleFor } from "@/lib/content";
 export function Brand() {
   return (
     <Link className="brand" href="/" aria-label="IPPTech trang chủ">
-      <span className="brand-mark">
-        i<span>p</span>p
-      </span>
-      <span className="brand-type">
-        TECH<small>TECHNOLOGY & EDUCATION</small>
-      </span>
+      <img className="brand-logo" src="/images/ipptech-logo-red.png" alt="IPPTech" width={1964} height={278} />
     </Link>
   );
 }

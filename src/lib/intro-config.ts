@@ -2,7 +2,7 @@
 export const introConfig = {
   video: '/videos/intro-video-1.mp4',
   poster: '/images/intro-img-1.jpg',
-  logo: '/images/refined/ubtech-logo.svg',
+  logo: '/images/ipptech-logo-red.png',
   logoDurationMs: 2400,
   reachDurationMs: 850,
   gripDurationMs: 380,

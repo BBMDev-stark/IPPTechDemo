@@ -364,7 +364,7 @@ export function IntroExperience({ children }: { children: React.ReactNode }) {
               <div className="intro-logo-core">
                 <span className="intro-kicker">IPPTECH PRESENTS</span>
                 <div className="intro-logo-window">
-                  <img src={introConfig.logo} alt="UBTECH" />
+                  <img src={introConfig.logo} alt="IPPTech" />
                   <span className="intro-scan" />
                 </div>
                 <div className="intro-logo-caption">
